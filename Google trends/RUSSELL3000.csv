@@ -1,0 +1,4253 @@
+Ticker,Ticker BBG,Name
+COKE,COKE UW Equity,Coca-Cola Consolidated Inc
+CVI,CVI UN Equity,CVR Energy Inc
+AA,AA UN Equity,Alcoa Corp
+INO,INO UW Equity,Inovio Pharmaceuticals Inc
+VZ,VZ UN Equity,Verizon Communications Inc
+SPWH,SPWH UW Equity,Sportsman's Warehouse Holdings Inc
+SABR,SABR UW Equity,Sabre Corp
+CAT,CAT UN Equity,Caterpillar Inc
+JPM,JPM UN Equity,JPMorgan Chase & Co
+CVX,CVX UN Equity,Chevron Corp
+KO,KO UN Equity,Coca-Cola Co/The
+DIS,DIS UN Equity,Walt Disney Co/The
+AFMD,AFMD UQ Equity,Affimed NV
+1715651D,1715651D UN Equity,EI du Pont de Nemours and Co
+XOM,XOM UN Equity,Exxon Mobil Corp
+GE,GE UN Equity,General Electric Co
+HD,HD UN Equity,Home Depot Inc/The
+IBM,IBM UN Equity,International Business Machines Corp
+JNJ,JNJ UN Equity,Johnson & Johnson
+RPD,RPD UQ Equity,Rapid7 Inc
+MRK,MRK UN Equity,Merck & Co Inc
+MMM,MMM UN Equity,3M Co
+IMUX,IMUX UW Equity,Immunic Inc
+BAC,BAC UN Equity,Bank of America Corp
+GSAT,GSAT UA Equity,Globalstar Inc
+PFE,PFE UN Equity,Pfizer Inc
+PG,PG UN Equity,Procter & Gamble Co/The
+T,T UN Equity,AT&T Inc
+WMT,WMT UN Equity,Walmart Inc
+CSCO,CSCO UW Equity,Cisco Systems Inc
+INTC,INTC UW Equity,Intel Corp
+MSFT,MSFT UW Equity,Microsoft Corp
+SAM,SAM UN Equity,Boston Beer Co Inc/The
+C,C UN Equity,Citigroup Inc
+HON,HON UN Equity,Honeywell International Inc
+MO,MO UN Equity,Altria Group Inc
+IP,IP UN Equity,International Paper Co
+ABT,ABT UN Equity,Abbott Laboratories
+AFL,AFL UN Equity,Aflac Inc
+APD,APD UN Equity,Air Products and Chemicals Inc
+GMED,GMED UN Equity,Globus Medical Inc
+AEP,AEP UN Equity,American Electric Power Co Inc
+APC,APC UN Equity,Anadarko Petroleum Corp
+APA,APA UN Equity,Apache Corp
+GAS,GAS UN Equity,Southern Co Gas
+ADP,ADP UW Equity,Automatic Data Processing Inc
+AZO,AZO UN Equity,AutoZone Inc
+AVY,AVY UN Equity,Avery Dennison Corp
+AVP,AVP UN Equity,Avon Products Inc
+BHI,BHI UN Equity,Baker Hughes Holdings LLC
+VRSK,VRSK UW Equity,Verisk Analytics Inc
+BLL,BLL UN Equity,Ball Corp
+BK,BK UN Equity,Bank of New York Mellon Corp/The
+BCR,BCR UN Equity,CR Bard Inc
+BDX,BDX UN Equity,Becton Dickinson and Co
+BMS,BMS UN Equity,Bemis Co Inc
+WCIC,WCIC UN Equity,WCI Communities Inc
+BRK/B,BRK/B UN Equity,Berkshire Hathaway Inc
+HRB,HRB UN Equity,H&R Block Inc
+BSX,BSX UN Equity,Boston Scientific Corp
+ZTS,ZTS UN Equity,Zoetis Inc
+BMY,BMY UN Equity,Bristol-Myers Squibb Co
+BF/B,BF/B UN Equity,Brown-Forman Corp
+CPB,CPB UN Equity,Campbell Soup Co
+LUMN,LUMN UN Equity,CenturyLink Inc
+FTRCQ,FTRCQ UW Equity,Frontier Communications Corp
+CLX,CLX UN Equity,Clorox Co/The
+CMS,CMS UN Equity,CMS Energy Corp
+CL,CL UN Equity,Colgate-Palmolive Co
+CMA,CMA UN Equity,Comerica Inc
+CA,CA UW Equity,CA Inc
+CSC,CSC UN Equity,Computer Sciences Corp
+CAG,CAG UN Equity,Conagra Brands Inc
+ED,ED UN Equity,Consolidated Edison Inc
+BIG,BIG UN Equity,Big Lots Inc
+DHR,DHR UN Equity,Danaher Corp
+D,D UN Equity,Dominion Energy Inc
+RRD,RRD UW Equity,RR Donnelley & Sons Co
+DOV,DOV UN Equity,Dover Corp
+1697067D,1697067D UN Equity,Dow Chemical Co/The
+DUK,DUK UN Equity,Duke Energy Corp
+ETN,ETN UN Equity,Eaton Corp PLC
+ECL,ECL UN Equity,Ecolab Inc
+UIHC,UIHC UR Equity,United Insurance Holdings Corp
+PKI,PKI UN Equity,PerkinElmer Inc
+EMC,EMC UN Equity,EMC Corp
+EMR,EMR UN Equity,Emerson Electric Co
+EOG,EOG UN Equity,EOG Resources Inc
+ETR,ETR UN Equity,Entergy Corp
+9749933D,9749933D UN Equity,Gannett Media Corp
+EFX,EFX UN Equity,Equifax Inc
+M,M UN Equity,Macy's Inc
+FMC,FMC UN Equity,FMC Corp
+F,F UN Equity,Ford Motor Co
+NEE,NEE UN Equity,NextEra Energy Inc
+CATB,CATB UQ Equity,Catabasis Pharmaceuticals Inc
+HASI,HASI UN Equity,Hannon Armstrong Sustainable Infrastruct
+MYOK,MYOK UW Equity,MyoKardia Inc
+TGNA,TGNA UN Equity,TEGNA Inc
+GIS,GIS UN Equity,General Mills Inc
+GPC,GPC UN Equity,Genuine Parts Co
+MIFI,MIFI UW Equity,Novatel Wireless Inc
+GWW,GWW UN Equity,WW Grainger Inc
+HAL,HAL UN Equity,Halliburton Co
+HAR,HAR UN Equity,Harman International Industries Inc
+GEENQ,GEENQ UR Equity,Global Eagle Entertainment Inc
+JOY,JOY UN Equity,Komatsu Mining Corp
+LHX,LHX UN Equity,L3Harris Technologies Inc
+PEAK,PEAK UN Equity,Healthpeak Properties Inc
+HP,HP UN Equity,Helmerich & Payne Inc
+HSY,HSY UN Equity,Hershey Co/The
+HOT,HOT UN Equity,Starwood Hotels & Resorts Worldwide LLC
+CNP,CNP UN Equity,CenterPoint Energy Inc
+HUM,HUM UN Equity,Humana Inc
+ITW,ITW UN Equity,Illinois Tool Works Inc
+TT,TT UN Equity,Trane Technologies PLC
+IPG,IPG UN Equity,Interpublic Group of Cos Inc/The
+WP,WP UN Equity,Worldpay Inc
+IFF,IFF UN Equity,International Flavors & Fragrances Inc
+J,J UN Equity,Jacobs Engineering Group Inc
+BKS,BKS UN Equity,Barnes & Noble Inc
+1436513D,1436513D UN Equity,Johnson Controls Inc
+K,K UN Equity,Kellogg Co
+KMB,KMB UN Equity,Kimberly-Clark Corp
+KIM,KIM UN Equity,Kimco Realty Corp
+KSS,KSS UN Equity,Kohl's Corp
+KR,KR UN Equity,Kroger Co/The
+LM,LM UN Equity,Legg Mason Inc
+LEG,LEG UN Equity,Leggett & Platt Inc
+LEN,LEN UN Equity,Lennar Corp
+JEF,JEF UN Equity,Jefferies Financial Group Inc
+LLY,LLY UN Equity,Eli Lilly and Co
+MCFT,MCFT UQ Equity,MasterCraft Boat Holdings Inc
+LB,LB UN Equity,L Brands Inc
+ORCL,ORCL UN Equity,Oracle Corp
+HST,HST UN Equity,Host Hotels & Resorts Inc
+MMC,MMC UN Equity,Marsh & McLennan Cos Inc
+MAS,MAS UN Equity,Masco Corp
+MAT,MAT UW Equity,Mattel Inc
+SPGI,SPGI UN Equity,S&P Global Inc
+CSRA,CSRA UN Equity,CSRA Inc
+MDT,MDT UN Equity,Medtronic PLC
+CVS,CVS UN Equity,CVS Health Corp
+MU,MU UW Equity,Micron Technology Inc
+MSI,MSI UN Equity,Motorola Solutions Inc
+MUR,MUR UN Equity,Murphy Oil Corp
+MYL,MYL UW Equity,Mylan NV
+LH,LH UN Equity,Laboratory Corp of America Holdings
+THC,THC UN Equity,Tenet Healthcare Corp
+NEM,NEM UN Equity,Newmont Corp
+NKE,NKE UN Equity,NIKE Inc
+NI,NI UN Equity,NiSource Inc
+NBL,NBL UN Equity,Noble Energy Inc
+NSC,NSC UN Equity,Norfolk Southern Corp
+ES,ES UN Equity,Eversource Energy
+NOC,NOC UN Equity,Northrop Grumman Corp
+WFC,WFC UN Equity,Wells Fargo & Co
+AAIC,AAIC UN Equity,Arlington Asset Investment Corp
+NUE,NUE UN Equity,Nucor Corp
+OXY,OXY UN Equity,Occidental Petroleum Corp
+OMC,OMC UN Equity,Omnicom Group Inc
+OKE,OKE UN Equity,ONEOK Inc
+PCG,PCG UN Equity,PG&E Corp
+PH,PH UN Equity,Parker-Hannifin Corp
+PPL,PPL UN Equity,PPL Corp
+CPPRQ,CPPRQ UN Equity,Old Copper Co Inc
+PEP,PEP UN Equity,PepsiCo Inc
+EXC,EXC UN Equity,Exelon Corp
+COP,COP UN Equity,ConocoPhillips
+PNW,PNW UN Equity,Pinnacle West Capital Corp
+XBIT,XBIT UW Equity,XBiotech Inc
+PNC,PNC UN Equity,PNC Financial Services Group Inc/The
+CDTX,CDTX UQ Equity,Cidara Therapeutics Inc
+PPG,PPG UN Equity,PPG Industries Inc
+PX,PX UN Equity,Linde Inc/CT
+PGR,PGR UN Equity,Progressive Corp/The
+PEG,PEG UN Equity,Public Service Enterprise Group Inc
+RTN,RTN UN Equity,Raytheon Co
+RHI,RHI UN Equity,Robert Half International Inc
+RDC,RDC UN Equity,Rowan Cos Ltd
+R,R UN Equity,Ryder System Inc
+SCG,SCG UN Equity,SCANA Corp
+EIX,EIX UN Equity,Edison International
+SCHW,SCHW UN Equity,Charles Schwab Corp/The
+SHW,SHW UN Equity,Sherwin-Williams Co/The
+SJM,SJM UN Equity,J M Smucker Co/The
+SNA,SNA UN Equity,Snap-on Inc
+SO,SO UN Equity,Southern Co/The
+LUV,LUV UN Equity,Southwest Airlines Co
+SWN,SWN UN Equity,Southwestern Energy Co
+SWK,SWK UN Equity,Stanley Black & Decker Inc
+WRB,WRB UN Equity,W R Berkley Corp
+PSA,PSA UN Equity,Public Storage
+STI,STI UN Equity,SunTrust Banks Inc
+SVU,SVU UN Equity,SUPERVALU Inc
+1500785D,1500785D UN Equity,TECO Energy Inc
+ANDV,ANDV UN Equity,Andeavor
+TXN,TXN UW Equity,Texas Instruments Inc
+TXT,TXT UN Equity,Textron Inc
+TMO,TMO UN Equity,Thermo Fisher Scientific Inc
+TIF,TIF UN Equity,Tiffany & Co
+TJX,TJX UN Equity,TJX Cos Inc/The
+GL,GL UN Equity,Globe Life Inc
+TSS,TSS UN Equity,Total System Services Inc
+EXAR,EXAR UN Equity,Exar Corp
+JCI,JCI UN Equity,Johnson Controls International plc
+UNP,UNP UN Equity,Union Pacific Corp
+UNH,UNH UN Equity,UnitedHealth Group Inc
+UNM,UNM UN Equity,Unum Group
+X,X UN Equity,United States Steel Corp
+VAR,VAR UN Equity,Varian Medical Systems Inc
+VTR,VTR UN Equity,Ventas Inc
+VFC,VFC UN Equity,VF Corp
+VNO,VNO UN Equity,Vornado Realty Trust
+AMRC,AMRC UN Equity,Ameresco Inc
+VMC,VMC UN Equity,Vulcan Materials Co
+GHC,GHC UN Equity,Graham Holdings Co
+WHR,WHR UN Equity,Whirlpool Corp
+WMB,WMB UN Equity,Williams Cos Inc/The
+WEC,WEC UN Equity,WEC Energy Group Inc
+ADBE,ADBE UW Equity,Adobe Inc
+AES,AES UN Equity,AES Corp/The
+AMGN,AMGN UW Equity,Amgen Inc
+AAPL,AAPL UW Equity,Apple Inc
+ADSK,ADSK UW Equity,Autodesk Inc
+CTAS,CTAS UW Equity,Cintas Corp
+CMCSA,CMCSA UW Equity,Comcast Corp
+KLAC,KLAC UW Equity,KLA Corp
+MKC,MKC UN Equity,McCormick & Co Inc/MD
+PCAR,PCAR UW Equity,PACCAR Inc
+MOD,MOD UN Equity,Modine Manufacturing Co
+COST,COST UW Equity,Costco Wholesale Corp
+XTLY,XTLY UN Equity,Xactly Corp
+GKOS,GKOS UN Equity,Glaukos Corp
+STJ,STJ UN Equity,St Jude Medical Inc
+SYK,SYK UN Equity,Stryker Corp
+TSN,TSN UN Equity,Tyson Foods Inc
+AMAT,AMAT UW Equity,Applied Materials Inc
+TWX,TWX UN Equity,Time Warner Inc
+CAH,CAH UN Equity,Cardinal Health Inc
+MTZ,MTZ UN Equity,MasTec Inc
+CELG,CELG UW Equity,Celgene Corp
+CERN,CERN UW Equity,Cerner Corp
+CINF,CINF UW Equity,Cincinnati Financial Corp
+DHI,DHI UN Equity,DR Horton Inc
+FLS,FLS UN Equity,Flowserve Corp
+ATGE,ATGE UN Equity,Adtalem Global Education Inc
+EA,EA UW Equity,Electronic Arts Inc
+HAWK,HAWK UW Equity,Blackhawk Network Holdings Inc
+EXPD,EXPD UW Equity,Expeditors International of Washington I
+SEAS,SEAS UN Equity,SeaWorld Entertainment Inc
+FAST,FAST UW Equity,Fastenal Co
+MTB,MTB UN Equity,M&T Bank Corp
+ITRI,ITRI UW Equity,Itron Inc
+BF/A,BF/A UN Equity,Brown-Forman Corp
+FHN,FHN UN Equity,First Horizon Corp
+HAS,HAS UW Equity,Hasbro Inc
+HBAN,HBAN UW Equity,Huntington Bancshares Inc/OH
+WELL,WELL UN Equity,Welltower Inc
+BIIB,BIIB UW Equity,Biogen Inc
+LLTC,LLTC UW Equity,Linear Technology Corp
+RRC,RRC UN Equity,Range Resources Corp
+NEBLQ,NEBLQ UN Equity,Noble Corp plc
+NTRS,NTRS UW Equity,Northern Trust Corp
+PAYX,PAYX UW Equity,Paychex Inc
+PBCT,PBCT UW Equity,People's United Financial Inc
+PDCO,PDCO UW Equity,Patterson Cos Inc
+QCOM,QCOM UW Equity,QUALCOMM Inc
+ROP,ROP UN Equity,Roper Technologies Inc
+ROST,ROST UW Equity,Ross Stores Inc
+CNOB,CNOB UW Equity,ConnectOne Bancorp Inc
+SBUX,SBUX UW Equity,Starbucks Corp
+KEY,KEY UN Equity,KeyCorp
+SPLS,SPLS UW Equity,Staples Inc
+STT,STT UN Equity,State Street Corp
+USB,USB UN Equity,US Bancorp
+TROW,TROW UW Equity,T Rowe Price Group Inc
+WM,WM UN Equity,Waste Management Inc
+AGN,AGN UN Equity,Allergan PLC
+STZ,STZ UN Equity,Constellation Brands Inc
+XLNX,XLNX UW Equity,Xilinx Inc
+RESI,RESI UN Equity,Front Yard Residential Corp
+ZION,ZION UW Equity,Zions Bancorp NA
+DNRCQ,DNRCQ UN Equity,Denbury Inc
+PBF,PBF UN Equity,PBF Energy Inc
+IVZ,IVZ UN Equity,Invesco Ltd
+MS,MS UN Equity,Morgan Stanley
+CHKAQ,CHKAQ UN Equity,Chesapeake Energy Corp
+JBL,JBL UN Equity,Jabil Inc
+ORLY,ORLY UW Equity,O'Reilly Automotive Inc
+ALL,ALL UN Equity,Allstate Corp/The
+FLIR,FLIR UW Equity,FLIR Systems Inc
+MCRB,MCRB UW Equity,Seres Therapeutics Inc
+EQR,EQR UN Equity,Equity Residential
+ATEN,ATEN UN Equity,A10 Networks Inc
+BWA,BWA UN Equity,BorgWarner Inc
+ARAV,ARAV UW Equity,Aravive Inc
+VIAV,VIAV UW Equity,Viavi Solutions Inc
+URBN,URBN UW Equity,Urban Outfitters Inc
+SPG,SPG UN Equity,Simon Property Group Inc
+EMN,EMN UN Equity,Eastman Chemical Co
+AVB,AVB UN Equity,AvalonBay Communities Inc
+PRU,PRU UN Equity,Prudential Financial Inc
+UPS,UPS UN Equity,United Parcel Service Inc
+AIV,AIV UN Equity,Apartment Investment and Management Co
+APOL,APOL UW Equity,Apollo Education Group Inc
+MCK,MCK UN Equity,McKesson Corp
+DFODQ,DFODQ UN Equity,Dean Foods Co
+LMT,LMT UN Equity,Lockheed Martin Corp
+ABC,ABC UN Equity,AmerisourceBergen Corp
+WAT,WAT UN Equity,Waters Corp
+DLTR,DLTR UW Equity,Dollar Tree Inc
+XPO,XPO UN Equity,XPO Logistics Inc
+DRI,DRI UN Equity,Darden Restaurants Inc
+DOFSQ,DOFSQ UN Equity,Diamond Offshore Drilling Inc
+LXK,LXK UN Equity,Lexmark International Inc
+NTAP,NTAP UW Equity,NetApp Inc
+CTXS,CTXS UW Equity,Citrix Systems Inc
+DVA,DVA UN Equity,DaVita Inc
+FHI,FHI UN Equity,Federated Hermes Inc
+EL,EL UN Equity,Estee Lauder Cos Inc/The
+1518855D,1518855D US Equity,Yahoo! Inc - Set up for Fundamental Purp
+IMH,IMH UA Equity,Impac Mortgage Holdings Inc
+PFG,PFG UN Equity,Principal Financial Group Inc
+ATI,ATI UN Equity,Allegheny Technologies Inc
+SRCL,SRCL UW Equity,Stericycle Inc
+ETFC,ETFC UW Equity,E*TRADE Financial Corp
+ANF,ANF UN Equity,Abercrombie & Fitch Co
+NOV,NOV UN Equity,NOV Inc
+DGX,DGX UN Equity,Quest Diagnostics Inc
+ROK,ROK UN Equity,Rockwell Automation Inc
+AMT,AMT UN Equity,American Tower Corp
+AMZN,AMZN UW Equity,Amazon.com Inc
+AC,AC UN Equity,Associated Capital Group Inc
+RL,RL UN Equity,Ralph Lauren Corp
+BXP,BXP UN Equity,Boston Properties Inc
+PKDSQ,PKDSQ UN Equity,Parker Drilling Co
+APH,APH UN Equity,Amphenol Corp
+VLO,VLO UN Equity,Valero Energy Corp
+WU,WU UN Equity,Western Union Co/The
+CHRW,CHRW UW Equity,CH Robinson Worldwide Inc
+ACN,ACN UN Equity,Accenture PLC
+PLD,PLD UN Equity,Prologis Inc
+FE,FE UN Equity,FirstEnergy Corp
+AEE,AEE UN Equity,Ameren Corp
+NVDA,NVDA UW Equity,NVIDIA Corp
+SEE,SEE UN Equity,Sealed Air Corp
+CTSH,CTSH UW Equity,Cognizant Technology Solutions Corp
+ISRG,ISRG UW Equity,Intuitive Surgical Inc
+CNX,CNX UN Equity,CNX Resources Corp
+AET,AET UN Equity,Aetna Inc
+RSG,RSG UN Equity,Republic Services Inc
+GS,GS UN Equity,Goldman Sachs Group Inc/The
+SRE,SRE UN Equity,Sempra Energy
+MCO,MCO UN Equity,Moody's Corp
+BKNG,BKNG UW Equity,Booking Holdings Inc
+AKAM,AKAM UW Equity,Akamai Technologies Inc
+RAI,RAI UN Equity,Reynolds American Inc
+SLM,SLM UW Equity,SLM Corp
+SNBC,SNBC UW Equity,Sun Bancorp Inc/NJ
+GOOGL,GOOGL UW Equity,Alphabet Inc
+APPF,APPF UQ Equity,Appfolio Inc
+OXFD,OXFD UQ Equity,Oxford Immunotec Global PLC
+RHT,RHT UN Equity,Red Hat Inc
+MKTX,MKTX UW Equity,MarketAxess Holdings Inc
+ALRM,ALRM UW Equity,Alarm.com Holdings Inc
+NFLX,NFLX UW Equity,Netflix Inc
+A,A UN Equity,Agilent Technologies Inc
+ANTM,ANTM UN Equity,Anthem Inc
+CME,CME UW Equity,CME Group Inc
+SPNS,SPNS UR Equity,Sapiens International Corp NV
+JNPR,JNPR UN Equity,Juniper Networks Inc
+BLK,BLK UN Equity,BlackRock Inc
+DTE,DTE UN Equity,DTE Energy Co
+NDAQ,NDAQ UW Equity,Nasdaq Inc
+PM,PM UN Equity,Philip Morris International Inc
+PSIX,PSIX UR Equity,Power Solutions International Inc
+CRM,CRM UN Equity,salesforce.com Inc
+MET,MET UN Equity,MetLife Inc
+1856613D,1856613D UN Equity,Monsanto Co
+TPR,TPR UN Equity,Tapestry Inc
+1806854D,1806854D UN Equity,Dun & Bradstreet Corp/The
+EW,EW UN Equity,Edwards Lifesciences Corp
+XEL,XEL UN Equity,Xcel Energy Inc
+COL,COL UN Equity,Rockwell Collins Inc
+FTI,FTI UN Equity,TechnipFMC PLC
+ZBH,ZBH UN Equity,Zimmer Biomet Holdings Inc
+CBRE,CBRE UN Equity,CBRE Group Inc
+MA,MA UN Equity,Mastercard Inc
+GME,GME UN Equity,GameStop Corp
+FIS,FIS UN Equity,Fidelity National Information Services I
+WYNN,WYNN UW Equity,Wynn Resorts Ltd
+SHLDQ,SHLDQ UW Equity,Sears Holdings Corp
+NRG,NRG UN Equity,NRG Energy Inc
+GNW,GNW UN Equity,Genworth Financial Inc
+TPC,TPC UN Equity,Tutor Perini Corp
+TDC,TDC UN Equity,Teradata Corp
+MOS,MOS UN Equity,Mosaic Co/The
+EXPE,EXPE UW Equity,Expedia Group Inc
+DISCA,DISCA UW Equity,Discovery Inc
+CF,CF UN Equity,CF Industries Holdings Inc
+VIAB,VIAB UW Equity,Viacom Inc
+LDOS,LDOS UN Equity,Leidos Holdings Inc
+1539941D,1539941D UN Equity,Spectra Energy Corp
+FSLR,FSLR UW Equity,First Solar Inc
+EBF,EBF UN Equity,Ennis Inc
+TRIP,TRIP UW Equity,TripAdvisor Inc
+KDP,KDP UN Equity,Keurig Dr Pepper Inc
+V,V UN Equity,Visa Inc
+FARM,FARM UW Equity,Farmer Bros Co
+LC,LC UN Equity,LendingClub Corp
+XYL,XYL UN Equity,Xylem Inc/NY
+MPC,MPC UN Equity,Marathon Petroleum Corp
+WPX,WPX UN Equity,WPX Energy Inc
+NRE,NRE UN Equity,NorthStar Realty Europe Corp
+SNC,SNC UW Equity,State National Cos Inc
+CSR,CSR UN Equity,Centerspace
+XOMA,XOMA UQ Equity,XOMA Corp
+VIRT,VIRT UW Equity,Virtu Financial Inc
+ETSY,ETSY UW Equity,Etsy Inc
+PRTY,PRTY UN Equity,Party City Holdco Inc
+CUB,CUB UN Equity,Cubic Corp
+CACI,CACI UN Equity,CACI International Inc
+RPTP,RPTP UQ Equity,Horizon Pharmaceutical LLC
+HALO,HALO UW Equity,Halozyme Therapeutics Inc
+LVNTA,LVNTA UW Equity,Liberty Ventures
+Y,Y UN Equity,Alleghany Corp
+REX,REX UN Equity,REX American Resources Corp
+VGR,VGR UN Equity,Vector Group Ltd
+CDE,CDE UN Equity,Coeur Mining Inc
+CRD/B,CRD/B UN Equity,Crawford & Co
+AMBR,AMBR UN Equity,Amber Road Inc
+EDE,EDE UN Equity,Empire District Electric Co/The
+PRLB,PRLB UN Equity,Proto Labs Inc
+EQC,EQC UN Equity,Equity Commonwealth
+HL,HL UN Equity,Hecla Mining Co
+HXL,HXL UN Equity,Hexcel Corp
+NHI,NHI UN Equity,National Health Investors Inc
+LJPC,LJPC UR Equity,La Jolla Pharmaceutical Co
+RES,RES UN Equity,RPC Inc
+RPT,RPT UN Equity,RPT Realty
+STE,STE UN Equity,STERIS PLC
+SFE,SFE UN Equity,Safeguard Scientifics Inc
+SPA,SPA UN Equity,Sparton Corp
+KN,KN UN Equity,Knowles Corp
+TRR,TRR UN Equity,TRC Cos Inc
+TWIN,TWIN UW Equity,Twin Disc Inc
+WMK,WMK UN Equity,Weis Markets Inc
+WLBAQ,WLBAQ UQ Equity,Westmoreland Coal Co
+ABMD,ABMD UW Equity,ABIOMED Inc
+ALKS,ALKS UW Equity,Alkermes PLC
+ATRI,ATRI UW Equity,Atrion Corp
+AMAG,AMAG UW Equity,AMAG Pharmaceuticals Inc
+AVHI,AVHI UW Equity,AV Homes Inc
+VCRA,VCRA UN Equity,Vocera Communications Inc
+BOKF,BOKF UW Equity,BOK Financial Corp
+BPOP,BPOP UW Equity,Popular Inc
+LRMR,LRMR UW Equity,Larimar Therapeutics Inc
+BSTC,BSTC UQ Equity,BioSpecifics Technologies Corp
+LCTX,LCTX UA Equity,Lineage Cell Therapeutics Inc
+AJX,AJX UN Equity,Great Ajax Corp
+PTVCB,PTVCB UQ Equity,Protective Insurance Corp
+GLOB,GLOB UN Equity,Globant SA
+CACC,CACC UW Equity,Credit Acceptance Corp
+WRK,WRK UN Equity,Westrock Co
+ISLE,ISLE UW Equity,Isle of Capri Casinos Inc
+CAMP,CAMP UW Equity,CalAmp Corp
+NEWR,NEWR UN Equity,New Relic Inc
+WK,WK UN Equity,Workiva Inc
+RDNT,RDNT UQ Equity,RadNet Inc
+HALL,HALL UQ Equity,Hallmark Financial Services Inc
+RDI,RDI UR Equity,Reading International Inc
+ORC,ORC UN Equity,Orchid Island Capital Inc
+TCF,TCF UW Equity,TCF Financial Corp
+APEX,APEX UW Equity,Apex Global Brands Inc
+CPK,CPK UN Equity,Chesapeake Utilities Corp
+CIA,CIA UN Equity,Citizens Inc/TX
+PICO,PICO UW Equity,PICO Holdings Inc
+HIFR,HIFR UN Equity,InfraREIT Inc
+MGLN,MGLN UW Equity,Magellan Health Inc
+SHAK,SHAK UN Equity,Shake Shack Inc
+WDR,WDR UN Equity,Waddell & Reed Financial Inc
+TTOO,TTOO UQ Equity,T2 Biosystems Inc
+FSB,FSB UN Equity,Franklin Financial Network Inc
+CSS,CSS UN Equity,CSS Industries Inc
+PFSI,PFSI UN Equity,PennyMac Financial Services Inc
+CTO,CTO UA Equity,CTO Realty Growth Inc
+BEAT,BEAT UW Equity,BioTelemetry Inc
+CTWS,CTWS UW Equity,Connecticut Water Service Inc
+CULP,CULP UN Equity,Culp Inc
+CVBF,CVBF UW Equity,CVB Financial Corp
+BLD,BLD UN Equity,TopBuild Corp
+1811045D,1811045D UW Equity,Blue Buffalo Pet Products Inc
+CVCO,CVCO UW Equity,Cavco Industries Inc
+ENR,ENR UN Equity,Energizer Holdings Inc
+CC,CC UN Equity,Chemours Co/The
+HZN,HZN UN Equity,Horizon Global Corp
+CABO,CABO UN Equity,Cable One Inc
+LBRDK,LBRDK UW Equity,Liberty Broadband Corp
+LBRDA,LBRDA UW Equity,Liberty Broadband Corp
+RXN,RXN UN Equity,Rexnord Corp
+CWT,CWT UN Equity,California Water Service Group
+HMTV,HMTV UQ Equity,Hemisphere Media Group Inc
+CYTR,CYTR UR Equity,CytRx Corp
+DCO,DCO UN Equity,Ducommun Inc
+RYI,RYI UN Equity,Ryerson Holding Corp
+DXLG,DXLG UW Equity,Destination XL Group Inc
+SQBG,SQBG UR Equity,Sequential Brands Group Inc
+CVA,CVA UN Equity,Covanta Holding Corp
+ABBV,ABBV UN Equity,AbbVie Inc
+PPC,PPC UW Equity,Pilgrim's Pride Corp
+DJCO,DJCO UR Equity,Daily Journal Corp
+TUMI,TUMI UN Equity,Tumi Holdings Inc
+GLOG,GLOG UN Equity,GasLog Ltd
+ADI,ADI UW Equity,Analog Devices Inc
+IDRA,IDRA UR Equity,Idera Pharmaceuticals Inc
+BCC,BCC UN Equity,Boise Cascade Co
+KAMN,KAMN UN Equity,Kaman Corp
+PSTG,PSTG UN Equity,Pure Storage Inc
+BOJA,BOJA UW Equity,Bojangles' Inc
+ENPH,ENPH UQ Equity,Enphase Energy Inc
+TREC,TREC UN Equity,Trecora Resources
+GNBC,GNBC UW Equity,Green Bancorp Inc
+EPAC,EPAC UN Equity,Enerpac Tool Group Corp
+EFII,EFII UW Equity,Electronics For Imaging Inc
+ELRC,ELRC UW Equity,Electro Rent Corp
+EMCI,EMCI UW Equity,EMC Insurance Group Inc
+POST,POST UN Equity,Post Holdings Inc
+ACRS,ACRS UW Equity,Aclaris Therapeutics Inc
+OSUR,OSUR UW Equity,OraSure Technologies Inc
+AME,AME UN Equity,AMETEK Inc
+ESCA,ESCA UQ Equity,Escalade Inc
+FBNC,FBNC UW Equity,First Bancorp/Southern Pines NC
+PSGLQ,PSGLQ UN Equity,Old PSG Wind-Down Ltd
+FCNCA,FCNCA UW Equity,First Citizens BancShares Inc/NC
+CCS,CCS UN Equity,Century Communities Inc
+MR,MR UN Equity,Montage Resources Corp
+FMI,FMI UW Equity,Foundation Medicine Inc
+ISEE,ISEE UW Equity,IVERIC bio Inc
+FFKT,FFKT UW Equity,Farmers Capital Bank Corp
+LPSN,LPSN UW Equity,LivePerson Inc
+BLOX,BLOX UN Equity,Infoblox Inc
+BNFT,BNFT UQ Equity,Benefitfocus Inc
+CBLAQ,CBLAQ UN Equity,CBL & Associates Properties Inc
+FRPH,FRPH UW Equity,FRP Holdings Inc
+FSTR,FSTR UW Equity,L B Foster Co
+S,S UN Equity,Sprint Corp
+ABM,ABM UN Equity,ABM Industries Inc
+CNSL,CNSL UW Equity,Consolidated Communications Holdings Inc
+HY,HY UN Equity,Hyster-Yale Materials Handling Inc
+GTN,GTN UN Equity,Gray Television Inc
+CBRI,CBRI UN Equity,CMTSU Liquidation Inc
+CIVI,CIVI UN Equity,Civitas Solutions Inc
+BGC,BGC UN Equity,General Cable Corp
+GIII,GIII UW Equity,G-III Apparel Group Ltd
+EVH,EVH UN Equity,Evolent Health Inc
+LOB,LOB UW Equity,Live Oak Bancshares Inc
+GRC,GRC UA Equity,Gorman-Rupp Co/The
+GSBC,GSBC UW Equity,Great Southern Bancorp Inc
+AMRI,AMRI UW Equity,Albany Molecular Research Inc
+FOXF,FOXF UW Equity,Fox Factory Holding Corp
+PGEN,PGEN UN Equity,Precigen Inc
+AMOT,AMOT UQ Equity,Allied Motion Technologies Inc
+ELDN,ELDN UQ Equity,Eledon Pharmaceuticals Inc
+KMG,KMG UN Equity,CMC Materials KMG Corp
+HEI,HEI UN Equity,HEICO Corp
+CBI,CBI UN Equity,Chicago Bridge & Iron Co NV
+AMED,AMED UW Equity,Amedisys Inc
+HIFS,HIFS UQ Equity,Hingham Institution For Savings The
+ABTX,ABTX UQ Equity,Allegiance Bancshares Inc
+CTMX,CTMX UW Equity,CytomX Therapeutics Inc
+HNRG,HNRG UR Equity,Hallador Energy Co
+WIX,WIX UW Equity,Wix.com Ltd
+TNET,TNET UN Equity,TriNet Group Inc
+HRTG,HRTG UN Equity,Heritage Insurance Holdings Inc
+INVA,INVA UW Equity,Innoviva Inc
+HURC,HURC UW Equity,Hurco Cos Inc
+MWW,MWW UN Equity,Monster Worldwide Inc
+IDCC,IDCC UW Equity,InterDigital Inc
+JNS,JNS UN Equity,Janus Capital Group Inc
+ITT,ITT UN Equity,ITT Inc
+IIIN,IIIN UW Equity,Insteel Industries Inc
+CPT,CPT UN Equity,Camden Property Trust
+CNS,CNS UN Equity,Cohen & Steers Inc
+IMGN,IMGN UW Equity,ImmunoGen Inc
+IMKTA,IMKTA UW Equity,Ingles Markets Inc
+IMMU,IMMU UQ Equity,Immunomedics Inc
+IHC,IHC UN Equity,Independence Holding Co
+MDP,MDP UN Equity,Meredith Corp
+NYT,NYT UN Equity,New York Times Co/The
+IONS,IONS UW Equity,Ionis Pharmaceuticals Inc
+STR,STR UN Equity,Dominion Energy Questar Corp
+STCN,STCN UW Equity,Steel Connect Inc
+ISRL,ISRL UR Equity,Isramco Inc
+ACETQ,ACETQ UW Equity,Tri Harbor Holdings Corp
+KBAL,KBAL UW Equity,Kimball International Inc
+WTBA,WTBA UW Equity,West BanCorp Inc
+CVG,CVG UN Equity,Convergys Corp
+LABL,LABL UW Equity,Multi-Color Corp
+LCUT,LCUT UW Equity,Lifetime Brands Inc
+MTW,MTW UN Equity,Manitowoc Co Inc/The
+BDN,BDN UN Equity,Brandywine Realty Trust
+LSCC,LSCC UW Equity,Lattice Semiconductor Corp
+XCRA,XCRA UW Equity,Xcerra Corp
+LWAY,LWAY UQ Equity,Lifeway Foods Inc
+SITC,SITC UN Equity,SITE Centers Corp
+LYTS,LYTS UW Equity,LSI Industries Inc
+MKL,MKL UN Equity,Markel Corp
+CVT,CVT UN Equity,Cvent Inc
+FI,FI UN Equity,Frank's International NV
+FOMX,FOMX UQ Equity,Foamix Pharmaceuticals Ltd
+MBVT,MBVT UW Equity,Merchants Bancshares Inc/VT
+MIDD,MIDD UW Equity,Middleby Corp/The
+QLYS,QLYS UW Equity,Qualys Inc
+MGEE,MGEE UW Equity,MGE Energy Inc
+PLAY,PLAY UW Equity,Dave & Buster's Entertainment Inc
+KATE,KATE UN Equity,Kate Spade & Co LLC
+ASH,ASH UN Equity,Ashland Global Holdings Inc
+GI,GI UN Equity,EndoChoice Holdings Inc
+PMTS,PMTS UW Equity,CPI Card Group Inc
+GGP,GGP UN Equity,Brookfield Property REIT Inc
+1824906D,1824906D UN Equity,Dynegy Inc
+UIS,UIS UN Equity,Unisys Corp
+MGRC,MGRC UW Equity,McGrath RentCorp
+CVRS,CVRS UA Equity,Corindus Vascular Robotics Inc
+TEX,TEX UN Equity,Terex Corp
+MTG,MTG UN Equity,MGIC Investment Corp
+DDS,DDS UN Equity,Dillard's Inc
+MNR,MNR UN Equity,Monmouth Real Estate Investment Corp
+USPH,USPH UN Equity,US Physical Therapy Inc
+MRTN,MRTN UW Equity,Marten Transport Ltd
+MSEX,MSEX UW Equity,Middlesex Water Co
+AGTC,AGTC UQ Equity,Applied Genetic Technologies Corp/DE
+CAC,CAC UW Equity,Camden National Corp
+MGPI,MGPI UW Equity,MGP Ingredients Inc
+ALLE,ALLE UN Equity,Allegion plc
+1812212D,1812212D UW Equity,Match Group Inc
+NATR,NATR UR Equity,Nature's Sunshine Products Inc
+CNXR,CNXR UQ Equity,Connecture Inc
+SSP,SSP UN Equity,EW Scripps Co/The
+JRVR,JRVR UW Equity,James River Group Holdings Ltd
+BC,BC UN Equity,Brunswick Corp/DE
+KEGXQ,KEGXQ UN Equity,Key Energy Services Inc
+FOR,FOR UN Equity,Forestar Group Inc
+GPX,GPX UN Equity,GP Strategies Corp
+NR,NR UN Equity,Newpark Resources Inc
+OFG,OFG UN Equity,OFG Bancorp
+OFIX,OFIX UW Equity,Orthofix Medical Inc
+SNEX,SNEX UW Equity,StoneX Group Inc
+ODC,ODC UN Equity,Oil-Dri Corp of America
+OLP,OLP UN Equity,One Liberty Properties Inc
+OTTR,OTTR UW Equity,Otter Tail Corp
+MXIM,MXIM UW Equity,Maxim Integrated Products Inc
+PHX,PHX UN Equity,PHX Minerals Inc
+PRK,PRK UA Equity,Park National Corp
+RNST,RNST UW Equity,Renasant Corp
+PKOH,PKOH UW Equity,Park-Ohio Holdings Corp
+MDXG,MDXG UR Equity,MiMedx Group Inc
+CTBI,CTBI UW Equity,Community Trust Bancorp Inc
+LOCK,LOCK UN Equity,LifeLock Inc
+FIZZ,FIZZ UW Equity,National Beverage Corp
+PTC,PTC UW Equity,PTC Inc
+GOOG,GOOG UW Equity,Alphabet Inc
+NAV,NAV UN Equity,Navistar International Corp
+PF,PF UN Equity,Pinnacle Foods Inc
+LPX,LPX UN Equity,Louisiana-Pacific Corp
+RAVN,RAVN UW Equity,Raven Industries Inc
+DORM,DORM UW Equity,Dorman Products Inc
+CTB,CTB UN Equity,Cooper Tire & Rubber Co
+REXI,REXI UW Equity,Resource America Inc
+AMPH,AMPH UW Equity,Amphastar Pharmaceuticals Inc
+CMT,CMT UA Equity,Core Molding Technologies Inc
+JBSS,JBSS UW Equity,John B Sanfilippo & Son Inc
+SGA,SGA UA Equity,Saga Communications Inc
+TWOU,TWOU UW Equity,2U Inc
+PDFS,PDFS UW Equity,PDF Solutions Inc
+EVDY,EVDY UN Equity,Everyday Health Inc
+LSTR,LSTR UW Equity,Landstar System Inc
+RGEN,RGEN UW Equity,Repligen Corp
+OUT,OUT UN Equity,Outfront Media Inc
+SBCF,SBCF UW Equity,Seacoast Banking Corp of Florida
+SCLN,SCLN UW Equity,SciClone Pharmaceuticals Inc
+SEB,SEB UA Equity,Seaboard Corp
+SGC,SGC UQ Equity,Superior Group of Cos Inc
+SJW,SJW UN Equity,SJW Group
+CRMT,CRMT UW Equity,America's Car-Mart Inc/TX
+SPNC,SPNC UW Equity,Spectranetics Corp/The
+SRCE,SRCE UW Equity,1st Source Corp
+STAA,STAA UQ Equity,STAAR Surgical Co
+STFC,STFC UW Equity,State Auto Financial Corp
+WSFS,WSFS UW Equity,WSFS Financial Corp
+AEGR,AEGR UW Equity,Aegerion Pharmaceuticals Inc
+BCOV,BCOV UW Equity,Brightcove Inc
+1624250D,1624250D UW Equity,Bazaarvoice Inc
+CKEC,CKEC UW Equity,Carmike Cinemas Inc
+CCXI,CCXI UW Equity,ChemoCentryx Inc
+CNBKA,CNBKA UW Equity,Century Bancorp Inc/MA
+TRC,TRC UN Equity,Tejon Ranch Co
+HCOM,HCOM UW Equity,Hawaiian Telcom Holdco Inc
+LIOX,LIOX UW Equity,Lionbridge Technologies Inc
+CASC,CASC UW Equity,Cascadian Therapeutics Inc
+PCRX,PCRX UW Equity,Pacira BioSciences Inc
+UAM,UAM UN Equity,Universal American Corp
+REGI,REGI UW Equity,Renewable Energy Group Inc
+SGMO,SGMO UW Equity,Sangamo Therapeutics Inc
+SPSC,SPSC UW Equity,SPS Commerce Inc
+TTSH,TTSH UW Equity,Tile Shop Holdings Inc
+USM,USM UN Equity,United States Cellular Corp
+UTL,UTL UN Equity,Unitil Corp
+NTK,NTK UW Equity,Nortek Inc
+MSGN,MSGN UN Equity,MSG Networks Inc
+VLGEA,VLGEA UW Equity,Village Super Market Inc
+VSEC,VSEC UW Equity,VSE Corp
+WASH,WASH UW Equity,Washington Trust Bancorp Inc
+WEYS,WEYS UW Equity,Weyco Group Inc
+ACRE,ACRE UN Equity,Ares Commercial Real Estate Corp
+WSBC,WSBC UW Equity,WesBanco Inc
+CR,CR UN Equity,Crane Co
+DLX,DLX UN Equity,Deluxe Corp
+WOR,WOR UN Equity,Worthington Industries Inc
+DDD,DDD UN Equity,3D Systems Corp
+ANIP,ANIP UQ Equity,ANI Pharmaceuticals Inc
+OPY,OPY UN Equity,Oppenheimer Holdings Inc
+BMCH,BMCH UW Equity,BMC Stock Holdings Inc
+FTK,FTK UN Equity,Flotek Industries Inc
+TUP,TUP UN Equity,Tupperware Brands Corp
+RTKHQ,RTKHQ UR Equity,Rentech Inc
+BERY,BERY UN Equity,Berry Global Group Inc
+MDRIQ,MDRIQ UN Equity,McDermott International Inc
+AMBA,AMBA UW Equity,Ambarella Inc
+EHC,EHC UN Equity,Encompass Health Corp
+KAI,KAI UN Equity,Kadant Inc
+FLO,FLO UN Equity,Flowers Foods Inc
+EXTN,EXTN UN Equity,Exterran Corp
+RGLS,RGLS UQ Equity,Regulus Therapeutics Inc
+IRMD,IRMD UR Equity,iRadimed Corp
+RAMP,RAMP UW Equity,LiveRamp Holdings Inc
+BGGSQ,BGGSQ UN Equity,Briggs & Stratton Corp
+RCL,RCL UN Equity,Royal Caribbean Cruises Ltd
+VSTM,VSTM UQ Equity,Verastem Inc
+LGND,LGND UQ Equity,Ligand Pharmaceuticals Inc
+LII,LII UN Equity,Lennox International Inc
+CCK,CCK UN Equity,Crown Holdings Inc
+GRA,GRA UN Equity,W R Grace & Co
+ANGO,ANGO UW Equity,AngioDynamics Inc
+UVE,UVE UN Equity,Universal Insurance Holdings Inc
+WINA,WINA UQ Equity,Winmark Corp
+RAD,RAD UN Equity,Rite Aid Corp
+KSU,KSU UN Equity,Kansas City Southern
+CPGX,CPGX UN Equity,Columbia Pipeline Group Inc
+1484752D,1484752D UN Equity,Basic Energy Services Inc
+SPNE,SPNE UW Equity,SeaSpine Holdings Corp
+1486715D,1486715D US Equity,Battalion Oil Corp
+NC,NC UN Equity,NACCO Industries Inc
+PSX,PSX UN Equity,Phillips 66
+TMX,TMX UN Equity,Terminix Global Holdings Inc
+HOSSQ,HOSSQ UN Equity,Hornbeck Offshore Services Inc
+FEYE,FEYE UW Equity,FireEye Inc
+FUEL,FUEL UW Equity,Rocket Fuel Inc
+ADPTQ,ADPTQ UN Equity,Adeptus Health Inc
+SCI,SCI UN Equity,Service Corp International/US
+MYCC,MYCC UN Equity,ClubCorp Holdings Inc
+EPAM,EPAM UN Equity,EPAM Systems Inc
+FLTX,FLTX UN Equity,Fleetmatics Group Ltd
+TEN,TEN UN Equity,Tenneco Inc
+MTX,MTX UN Equity,Minerals Technologies Inc
+SCVL,SCVL UW Equity,Shoe Carnival Inc
+IT,IT UN Equity,Gartner Inc
+ALG,ALG UN Equity,Alamo Group Inc
+HR,HR UN Equity,Healthcare Realty Trust Inc
+GPRO,GPRO UW Equity,GoPro Inc
+VASC,VASC UW Equity,Vascular Solutions LLC
+AVX,AVX UN Equity,AVX Corp
+AEL,AEL UN Equity,American Equity Investment Life Holding
+FL,FL UN Equity,Foot Locker Inc
+WBC,WBC UN Equity,WABCO Holdings Inc
+CHDN,CHDN UW Equity,Churchill Downs Inc
+CWEN/A,CWEN/A UN Equity,Clearway Energy Inc
+TCBK,TCBK UW Equity,TriCo Bancshares
+BRG,BRG UA Equity,Bluerock Residential Growth REIT Inc
+BANF,BANF UW Equity,BancFirst Corp
+LBYYQ,LBYYQ UA Equity,Libbey Inc
+IQV,IQV UN Equity,IQVIA Holdings Inc
+OPI,OPI UN Equity,Office Properties Income Trust
+NVRO,NVRO UN Equity,Nevro Corp
+BBSI,BBSI UW Equity,Barrett Business Services Inc
+CCF,CCF UA Equity,Chase Corp
+ACTA,ACTA UW Equity,Actua Corp
+CZR,CZR UW Equity,Caesars Entertainment Inc
+MDLZ,MDLZ UW Equity,Mondelez International Inc
+RYAM,RYAM UN Equity,Rayonier Advanced Materials Inc
+MLND,MLND UQ Equity,Millendo Therapeutics Inc
+ELS,ELS UN Equity,Equity LifeStyle Properties Inc
+THRM,THRM UW Equity,Gentherm Inc
+VVI,VVI UN Equity,Viad Corp
+CAL,CAL UN Equity,Caleres Inc
+PCYG,PCYG UR Equity,Park City Group Inc
+COMM,COMM UW Equity,CommScope Holding Co Inc
+BFAM,BFAM UN Equity,Bright Horizons Family Solutions Inc
+PTXTQ,PTXTQ UQ Equity,Pernix Therapeutics Holdings Inc
+BCO,BCO UN Equity,Brink's Co/The
+ATEX,ATEX UR Equity,Anterix Inc
+SPXC,SPXC UN Equity,SPX Corp
+PFC,PFC UW Equity,Premier Financial Corp
+TERP,TERP UW Equity,TerraForm Power Inc
+BNK,BNK UN Equity,C1 Financial Inc
+MIK,MIK UW Equity,Michaels Cos Inc/The
+SGM,SGM UN Equity,Stonegate Mortgage Corp
+KLXI,KLXI UW Equity,Boeing Distribution Services Inc
+CNA,CNA UN Equity,CNA Financial Corp
+NEU,NEU UN Equity,NewMarket Corp
+NL,NL UN Equity,NL Industries Inc
+PARR,PARR UA Equity,Par Pacific Holdings Inc
+CWEN,CWEN UN Equity,Clearway Energy Inc
+1618448D,1618448D UQ Equity,Alliance HealthCare Services Inc
+SRNE,SRNE UR Equity,Sorrento Therapeutics Inc
+AERI,AERI UQ Equity,Aerie Pharmaceuticals Inc
+USG,USG UN Equity,USG Corp
+PKG,PKG UN Equity,Packaging Corp of America
+AUB,AUB UW Equity,Atlantic Union Bankshares Corp
+CST,CST UN Equity,CST Brands LLC
+WNR,WNR UN Equity,Western Refining Inc
+AE,AE UA Equity,Adams Resources & Energy Inc
+QCRH,QCRH UQ Equity,QCR Holdings Inc
+CFMS,CFMS UW Equity,Conformis Inc
+CHRS,CHRS UQ Equity,Coherus Biosciences Inc
+SIOX,SIOX UN Equity,Sio Gene Therapies Inc
+GTY,GTY UN Equity,Getty Realty Corp
+INCY,INCY UW Equity,Incyte Corp
+SLAB,SLAB UW Equity,Silicon Laboratories Inc
+TRUP,TRUP US Equity,Trupanion Inc
+NYNY,NYNY UQ Equity,Empire Resorts Inc
+WMAR,WMAR UW Equity,West Marine Inc
+SRI,SRI UN Equity,Stoneridge Inc
+FENX,FENX UQ Equity,Fenix Parts Inc
+OSBC,OSBC UW Equity,Old Second Bancorp Inc
+NRZ,NRZ UN Equity,New Residential Investment Corp
+ALTA,ALTA UR Equity,Altabancorp
+SUPN,SUPN UQ Equity,Supernus Pharmaceuticals Inc
+PFNX,PFNX UA Equity,Pfenex Inc
+FRPT,FRPT UQ Equity,Freshpet Inc
+SYNH,SYNH UW Equity,Syneos Health Inc
+AMBC,AMBC UW Equity,Ambac Financial Group Inc
+CATM,CATM UW Equity,Cardtronics PLC
+AEPI,AEPI UW Equity,AEP Industries Inc
+HT,HT UN Equity,Hersha Hospitality Trust
+RGNX,RGNX UW Equity,REGENXBIO Inc
+NRF,NRF UN Equity,NorthStar Realty Finance Corp/old
+CLNY,CLNY UN Equity,Colony Capital Inc
+FNF,FNF UN Equity,Fidelity National Financial Inc
+RELYQ,RELYQ UW Equity,Elah Holdings Inc
+TMST,TMST UN Equity,TimkenSteel Corp
+BCRX,BCRX UW Equity,BioCryst Pharmaceuticals Inc
+PESXQ,PESXQ UN Equity,Pioneer Energy Services Corp
+XNCR,XNCR UQ Equity,Xencor Inc
+IRT,IRT UA Equity,Independence Realty Trust Inc
+BHBK,BHBK UW Equity,Blue Hills Bancorp Inc
+SBY,SBY UN Equity,Silver Bay Realty Trust Corp
+ONDK,ONDK UN Equity,On Deck Capital Inc
+TBK,TBK UW Equity,Triumph Bancorp Inc
+LDRH,LDRH UW Equity,LDR Holding Corp
+APAM,APAM UN Equity,Artisan Partners Asset Management Inc
+PEBO,PEBO UW Equity,Peoples Bancorp Inc/OH
+KHC,KHC UW Equity,Kraft Heinz Co/The
+TIPT,TIPT UR Equity,Tiptree Inc
+REV,REV UN Equity,Revlon Inc
+1859992D,1859992D UN Equity,AVG Technologies NV
+TSRO,TSRO UW Equity,TESARO Inc
+WSR,WSR UN Equity,Whitestone REIT
+AR,AR UN Equity,Antero Resources Corp
+CXP,CXP UN Equity,Columbia Property Trust Inc
+VVUSQ,VVUSQ UW Equity,VIVUS Inc
+NNBR,NNBR UW Equity,NN Inc
+AMNB,AMNB UW Equity,American National Bankshares Inc
+1624831D,1624831D UN Equity,TIAA FSB Holdings Inc
+ATLO,ATLO UR Equity,Ames National Corp
+ARTNA,ARTNA UW Equity,Artesian Resources Corp
+NKTR,NKTR UW Equity,Nektar Therapeutics
+CCNE,CCNE UW Equity,CNB Financial Corp/PA
+INSYQ,INSYQ UQ Equity,Insys Therapeutics Inc
+LKFN,LKFN UW Equity,Lakeland Financial Corp
+MGNX,MGNX UW Equity,MacroGenics Inc
+GNCA,GNCA UQ Equity,Genocea Biosciences Inc
+EGL,EGL UN Equity,Engility Holdings Inc
+NKSH,NKSH UR Equity,National Bankshares Inc
+MPAA,MPAA UW Equity,Motorcar Parts of America Inc
+FDC,FDC UN Equity,First Data Corp
+BCOR,BCOR UW Equity,Blucora Inc
+1469138D,1469138D UN Equity,Envision Healthcare Holdings Inc
+BDGE,BDGE UW Equity,Bridge Bancorp Inc
+GHM,GHM UN Equity,Graham Corp
+CCBG,CCBG UW Equity,Capital City Bank Group Inc
+MNST,MNST UW Equity,Monster Beverage Corp
+WPG,WPG UN Equity,Washington Prime Group Inc
+WING,WING UW Equity,Wingstop Inc
+SGBK,SGBK UW Equity,Stonegate Bank
+STML,STML UR Equity,Stemline Therapeutics Inc
+BMRC,BMRC UR Equity,Bank of Marin Bancorp
+SZMK,SZMK UW Equity,Sizmek Inc
+MDVN,MDVN UW Equity,Medivation Inc
+TLYS,TLYS UN Equity,Tilly's Inc
+ALEX,ALEX UN Equity,Alexander & Baldwin Inc
+BRX,BRX UN Equity,Brixmor Property Group Inc
+FCS,FCS UW Equity,Fairchild Semiconductor International In
+SCAI,SCAI UW Equity,Surgical Care Affiliates Inc
+SYNT,SYNT UW Equity,Atos Syntel Inc
+VTOL,VTOL UN Equity,Bristow Group Inc
+ABCB,ABCB UW Equity,Ameris Bancorp
+PENN,PENN UW Equity,Penn National Gaming Inc
+TPRE,TPRE UN Equity,Third Point Reinsurance Ltd
+RKDA,RKDA UQ Equity,Arcadia Biosciences Inc
+ARIA,ARIA UW Equity,ARIAD Pharmaceuticals Inc
+GBX,GBX UN Equity,Greenbrier Cos Inc/The
+MLR,MLR UN Equity,Miller Industries Inc/TN
+BLCM,BLCM UQ Equity,Bellicum Pharmaceuticals Inc
+RVNC,RVNC UQ Equity,Revance Therapeutics Inc
+ZEUS,ZEUS UW Equity,Olympic Steel Inc
+FRGI,FRGI UW Equity,Fiesta Restaurant Group Inc
+LNG,LNG UA Equity,Cheniere Energy Inc
+AZPN,AZPN UW Equity,Aspen Technology Inc
+DXPE,DXPE UW Equity,DXP Enterprises Inc/TX
+HEOP,HEOP UR Equity,Heritage Oaks Bancorp
+NK,NK UW Equity,NantKwest Inc
+STRT,STRT UQ Equity,Strattec Security Corp
+PLPC,PLPC UW Equity,Preformed Line Products Co
+IBKC,IBKC UW Equity,IBERIABANK Corp
+MBFI,MBFI UW Equity,MB Financial Inc
+VRTV,VRTV UN Equity,Veritiv Corp
+CVLG,CVLG UW Equity,Covenant Logistics Group Inc
+SASR,SASR UW Equity,Sandy Spring Bancorp Inc
+GBL,GBL UN Equity,GAMCO Investors Inc
+ERINQ,ERINQ UA Equity,Erin Energy Corp
+TRK,TRK UN Equity,Speedway Motorsports LLC
+SBGI,SBGI UW Equity,Sinclair Broadcast Group Inc
+VCYT,VCYT UQ Equity,Veracyte Inc
+BHB,BHB UA Equity,Bar Harbor Bankshares
+NVEC,NVEC UR Equity,NVE Corp
+CBZ,CBZ UN Equity,CBIZ Inc
+AIR,AIR UN Equity,AAR Corp
+SYX,SYX UN Equity,Systemax Inc
+APLE,APLE UN Equity,Apple Hospitality REIT Inc
+KRNY,KRNY UW Equity,Kearny Financial Corp/MD
+CRAY,CRAY UW Equity,Cray Inc
+PWOD,PWOD UW Equity,Penns Woods Bancorp Inc
+BANR,BANR UW Equity,Banner Corp
+NWPX,NWPX UW Equity,Northwest Pipe Co
+SIX,SIX UN Equity,Six Flags Entertainment Corp
+POR,POR UN Equity,Portland General Electric Co
+YORW,YORW UW Equity,York Water Co/The
+CMCO,CMCO UW Equity,Columbus McKinnon Corp/NY
+LNDC,LNDC UW Equity,Landec Corp
+ELNK,ELNK UW Equity,EarthLink Holdings Corp
+IDT,IDT UN Equity,IDT Corp
+CASS,CASS UW Equity,Cass Information Systems Inc
+KVHI,KVHI UW Equity,KVH Industries Inc
+EXAC,EXAC UW Equity,Exactech Inc
+NBIX,NBIX UW Equity,Neurocrine Biosciences Inc
+RUSHA,RUSHA UW Equity,Rush Enterprises Inc
+DECK,DECK UN Equity,Deckers Outdoor Corp
+PLKI,PLKI UW Equity,Popeyes Louisiana Kitchen Inc
+GWR,GWR UN Equity,Genesee & Wyoming Inc
+FFG,FFG UN Equity,FBL Financial Group Inc
+AFHIF,AFHIF UR Equity,Atlas Financial Holdings Inc
+PEGA,PEGA UW Equity,Pegasystems Inc
+CZNC,CZNC UR Equity,Citizens & Northern Corp
+AIT,AIT UN Equity,Applied Industrial Technologies Inc
+DHIL,DHIL UW Equity,Diamond Hill Investment Group Inc
+PNTPQ,PNTPQ UN Equity,Patriot National Inc
+ASC,ASC UN Equity,Ardmore Shipping Corp
+SFM,SFM UW Equity,Sprouts Farmers Market Inc
+NOVT,NOVT UW Equity,Novanta Inc
+TPH,TPH UN Equity,TRI Pointe Group Inc
+AJG,AJG UN Equity,Arthur J Gallagher & Co
+SYKE,SYKE UW Equity,Sykes Enterprises Inc
+RPAI,RPAI UN Equity,Retail Properties of America Inc
+TVTX,TVTX UQ Equity,Travere Therapeutics Inc
+JUNO,JUNO UW Equity,Juno Therapeutics Inc
+LIVN,LIVN UW Equity,LivaNova PLC
+FTDCQ,FTDCQ UW Equity,Gue Liq Cos Inc
+ESNT,ESNT UN Equity,Essent Group Ltd
+LXFT,LXFT UN Equity,Luxoft Holding Inc
+AKRXQ,AKRXQ UW Equity,Akorn Inc
+UVSP,UVSP UW Equity,Univest Financial Corp
+NSA,NSA UN Equity,National Storage Affiliates Trust
+NTRA,NTRA UW Equity,Natera Inc
+GDDY,GDDY UN Equity,GoDaddy Inc
+MMI,MMI UN Equity,Marcus & Millichap Inc
+FFIC,FFIC UW Equity,Flushing Financial Corp
+ALCO,ALCO UW Equity,Alico Inc
+PEIX,PEIX UR Equity,Alto Ingredients Inc
+MATX,MATX UN Equity,Matson Inc
+IPXL,IPXL UW Equity,Impax Laboratories LLC
+RDEN,RDEN UW Equity,Elizabeth Arden Inc
+MGNI,MGNI UN Equity,Magnite Inc
+TSQ,TSQ UN Equity,Townsquare Media Inc
+EPM,EPM UA Equity,Evolution Petroleum Corp
+OLED,OLED UW Equity,Universal Display Corp
+HTLF,HTLF UW Equity,Heartland Financial USA Inc
+BSF,BSF UQ Equity,Bear State Financial Inc
+VER,VER UN Equity,VEREIT Inc
+XENT,XENT UQ Equity,Intersect ENT Inc
+OPCH,OPCH UW Equity,Option Care Health Inc
+IMDZ,IMDZ UQ Equity,Immune Design Corp
+ALK,ALK UN Equity,Alaska Air Group Inc
+MTN,MTN UN Equity,Vail Resorts Inc
+GERN,GERN UW Equity,Geron Corp
+FNLC,FNLC UW Equity,First Bancorp Inc/The
+HOLX,HOLX UW Equity,Hologic Inc
+GPK,GPK UN Equity,Graphic Packaging Holding Co
+FDP,FDP UN Equity,Fresh Del Monte Produce Inc
+CSV,CSV UN Equity,Carriage Services Inc
+ANIK,ANIK UW Equity,Anika Therapeutics Inc
+PLUS,PLUS UW Equity,ePlus Inc
+OCN,OCN UN Equity,Ocwen Financial Corp
+NUS,NUS UN Equity,Nu Skin Enterprises Inc
+HLIO,HLIO UW Equity,Helios Technologies Inc
+SPPI,SPPI UW Equity,Spectrum Pharmaceuticals Inc
+FIBK,FIBK UW Equity,First Interstate BancSystem Inc
+BSRR,BSRR UW Equity,Sierra Bancorp
+PGNX,PGNX UW Equity,Progenics Pharmaceuticals Inc
+SWBI,SWBI UW Equity,Smith & Wesson Brands Inc
+VTVT,VTVT UQ Equity,vTv Therapeutics Inc
+EEFT,EEFT UW Equity,Euronet Worldwide Inc
+LTS,LTS UA Equity,Ladenburg Thalmann Financial Services In
+SSB,SSB UW Equity,South State Corp
+HCKT,HCKT UW Equity,Hackett Group Inc/The
+PRIM,PRIM UW Equity,Primoris Services Corp
+1872828D,1872828D UW Equity,Assertio Therapeutics Inc
+EMKR,EMKR UQ Equity,EMCORE Corp
+RMBS,RMBS UW Equity,Rambus Inc
+HSKA,HSKA UR Equity,Heska Corp
+COLM,COLM UW Equity,Columbia Sportswear Co
+HOFT,HOFT UW Equity,Hooker Furniture Corp
+GLFMQ,GLFMQ UN Equity,Gulfmark Offshore Inc
+QADA,QADA UW Equity,QAD Inc
+CRZO,CRZO UW Equity,Carrizo Oil & Gas Inc
+OSIR,OSIR UQ Equity,Osiris Therapeutics Inc
+ALOG,ALOG UW Equity,Analogic Corp
+PDM,PDM UN Equity,Piedmont Office Realty Trust Inc
+UNIT,UNIT UW Equity,Uniti Group Inc
+PCBK,PCBK UW Equity,Pacific Continental Corp
+RNWK,RNWK UW Equity,RealNetworks Inc
+CSU,CSU UN Equity,Capital Senior Living Corp
+CWST,CWST UW Equity,Casella Waste Systems Inc
+PSMT,PSMT UW Equity,PriceSmart Inc
+MBWM,MBWM UW Equity,Mercantile Bank Corp
+RHP,RHP UN Equity,Ryman Hospitality Properties Inc
+IGT,IGT UN Equity,International Game Technology PLC
+CHH,CHH UN Equity,Choice Hotels International Inc
+AMCC,AMCC UW Equity,Applied Micro Circuits Corp
+BKFS,BKFS UN Equity,Black Knight Financial Services Inc
+ATSG,ATSG UW Equity,Air Transport Services Group Inc
+WCC,WCC UN Equity,WESCO International Inc
+CNXN,CNXN UW Equity,PC Connection Inc
+WMC,WMC UN Equity,Western Asset Mortgage Capital Corp
+SCS,SCS UN Equity,Steelcase Inc
+NUTR,NUTR UW Equity,Nutraceutical International Corp
+SAAS,SAAS UR Equity,inContact Inc
+WAGE,WAGE UN Equity,WageWorks Inc
+NHC,NHC UA Equity,National HealthCare Corp
+HFWA,HFWA UW Equity,Heritage Financial Corp/WA
+RMTI,RMTI UQ Equity,Rockwell Medical Inc
+OME,OME UN Equity,Omega Protein Corp
+NVAX,NVAX UW Equity,Novavax Inc
+CRAI,CRAI UW Equity,CRA International Inc
+ULTI,ULTI UW Equity,Ultimate Software Group Inc/The
+OSPN,OSPN UR Equity,OneSpan Inc
+PFBC,PFBC UW Equity,Preferred Bank/Los Angeles CA
+SP,SP UW Equity,SP Plus Corp
+IXYS,IXYS UW Equity,IXYS Corp
+CSGP,CSGP UW Equity,CoStar Group Inc
+STL,STL UN Equity,Sterling Bancorp/DE
+FNHC,FNHC UQ Equity,FedNat Holding Co
+TWI,TWI UN Equity,Titan International Inc
+AXL,AXL UN Equity,American Axle & Manufacturing Holdings I
+TCS,TCS UN Equity,Container Store Group Inc/The
+EGBN,EGBN UR Equity,Eagle Bancorp Inc
+KODK,KODK UN Equity,Eastman Kodak Co
+PFIS,PFIS UW Equity,Peoples Financial Services Corp
+CFNL,CFNL UW Equity,Cardinal Financial Corp
+ALX,ALX UN Equity,Alexander's Inc
+HTBK,HTBK UW Equity,Heritage Commerce Corp
+RBCAA,RBCAA UW Equity,Republic Bancorp Inc/KY
+CFX,CFX UN Equity,Colfax Corp
+UCFC,UCFC UW Equity,United Community Financial Corp/OH
+COBZ,COBZ UW Equity,CoBiz Financial Inc
+FET,FET UN Equity,Forum Energy Technologies Inc
+MRC,MRC UN Equity,MRC Global Inc
+QUAD,QUAD UN Equity,Quad/Graphics Inc
+QUOT,QUOT UN Equity,Quotient Technology Inc
+PBYI,PBYI UN Equity,Puma Biotechnology Inc
+1437361D,1437361D UW Equity,TiVo Solutions Inc
+MORN,MORN UW Equity,Morningstar Inc
+CFFN,CFFN UW Equity,Capitol Federal Financial Inc
+SYUT,SYUT UW Equity,Synutra International Inc
+AGO,AGO UN Equity,Assured Guaranty Ltd
+EXTR,EXTR UW Equity,Extreme Networks Inc
+SRGA,SRGA UW Equity,Surgalign Holdings Inc
+EVRI,EVRI UN Equity,Everi Holdings Inc
+EVR,EVR UN Equity,Evercore Inc
+OB,OB UN Equity,OneBeacon Insurance Group Holdings Ltd
+SNMX,SNMX UQ Equity,Senomyx Inc
+FISI,FISI UW Equity,Financial Institutions Inc
+EGOV,EGOV UW Equity,NIC Inc
+IMMR,IMMR UW Equity,Immersion Corp
+SFLY,SFLY UW Equity,Shutterfly LLC
+ARC,ARC UN Equity,ARC Document Solutions Inc
+MOFG,MOFG UW Equity,MidWestOne Financial Group Inc
+HSTM,HSTM UW Equity,HealthStream Inc
+MESG,MESG UQ Equity,Xura Inc
+OMF,OMF UN Equity,OneMain Holdings Inc
+BSFT,BSFT UW Equity,BroadSoft Inc
+VEEV,VEEV UN Equity,Veeva Systems Inc
+DNOW,DNOW UN Equity,NOW Inc
+KTOS,KTOS UW Equity,Kratos Defense & Security Solutions Inc
+PLUG,PLUG UR Equity,Plug Power Inc
+ADXS,ADXS UR Equity,Advaxis Inc
+CLCT,CLCT UQ Equity,Collectors Universe Inc
+APIC,APIC UW Equity,Apigee Corp
+FNSR,FNSR UW Equity,Finisar Corp
+BGCP,BGCP UW Equity,BGC Partners Inc
+ATRA,ATRA UW Equity,Atara Biotherapeutics Inc
+BRKR,BRKR UW Equity,Bruker Corp
+TSC,TSC UW Equity,TriState Capital Holdings Inc
+AGEN,AGEN UR Equity,Agenus Inc
+WTI,WTI UN Equity,W&T Offshore Inc
+ACOR,ACOR UW Equity,Acorda Therapeutics Inc
+ABCO,ABCO UW Equity,Advisory Board Co/The
+CALD,CALD UQ Equity,Callidus Software Inc
+KONAQ,KONAQ UQ Equity,Kona Grill Inc
+DVAX,DVAX UR Equity,Dynavax Technologies Corp
+FORM,FORM UW Equity,FormFactor Inc
+HHC,HHC UN Equity,Howard Hughes Corp/The
+INAPQ,INAPQ UW Equity,Internap Corp
+BNED,BNED UN Equity,Barnes & Noble Education Inc
+GLBL,GLBL UW Equity,TerraForm Global Inc
+SQNM,SQNM UW Equity,Sequenom Inc
+EE,EE UN Equity,El Paso Electric Co
+BLDR,BLDR UW Equity,Builders FirstSource Inc
+WD,WD UN Equity,Walker & Dunlop Inc
+WWE,WWE UN Equity,World Wrestling Entertainment Inc
+WW,WW UN Equity,WW International Inc
+INFI,INFI UW Equity,Infinity Pharmaceuticals Inc
+MGI,MGI UW Equity,MoneyGram International Inc
+ENTG,ENTG UW Equity,Entegris Inc
+ENV,ENV UN Equity,Envestnet Inc
+FNBCQ,FNBCQ UW Equity,First NBC Bank Holding Co
+1832555D,1832555D UQ Equity,Array BioPharma Inc
+EFSC,EFSC UW Equity,Enterprise Financial Services Corp
+APPS,APPS UR Equity,Digital Turbine Inc
+OMED,OMED UW Equity,OncoMed Pharmaceuticals Inc
+NXRT,NXRT UN Equity,NexPoint Residential Trust Inc
+RIGL,RIGL UW Equity,Rigel Pharmaceuticals Inc
+LMNX,LMNX UW Equity,Luminex Corp
+NYMT,NYMT UW Equity,New York Mortgage Trust Inc
+EXEL,EXEL UW Equity,Exelixis Inc
+LXRX,LXRX UW Equity,Lexicon Pharmaceuticals Inc
+CRIS,CRIS UQ Equity,Curis Inc
+9993333D,9993333D UW Equity,Sonus Inc
+PGND,PGND UN Equity,Press Ganey Holdings Inc
+BHLB,BHLB UN Equity,Berkshire Hills Bancorp Inc
+CPHD,CPHD UW Equity,Cepheid
+ARNA,ARNA UW Equity,Arena Pharmaceuticals Inc
+BEL,BEL UN Equity,Belmond Ltd
+XXIA,XXIA UW Equity,Ixia
+QGEN,QGEN UW Equity,QIAGEN NV
+HBIO,HBIO UQ Equity,Harvard Bioscience Inc
+CSCD,CSCD UQ Equity,FormFactor Beaverton Inc
+EXAS,EXAS UR Equity,Exact Sciences Corp
+USLM,USLM UW Equity,United States Lime & Minerals Inc
+FRSH,FRSH UW Equity,Papa Murphy's Holdings Inc
+CCOI,CCOI UW Equity,Cogent Communications Holdings Inc
+OSTK,OSTK UQ Equity,Overstock.com Inc
+XBKS,XBKS UW Equity,Xenith Bankshares Inc
+ZAYO,ZAYO UN Equity,Zayo Group Holdings Inc
+ESPR,ESPR UQ Equity,Esperion Therapeutics Inc
+NSTG,NSTG UQ Equity,NanoString Technologies Inc
+FLWS,FLWS UW Equity,1-800-Flowers.com Inc
+SSNI,SSNI UN Equity,Itron Networked Solutions Inc
+TTGT,TTGT UQ Equity,TechTarget Inc
+PYPL,PYPL UW Equity,PayPal Holdings Inc
+KERX,KERX UR Equity,Keryx Biopharmaceuticals Inc
+WEB,WEB UW Equity,Web.com Group Inc
+AINC,AINC UA Equity,Ashford Inc
+IRWD,IRWD UW Equity,Ironwood Pharmaceuticals Inc
+ENVA,ENVA UN Equity,Enova International Inc
+RP,RP UW Equity,RealPage Inc
+CPRX,CPRX UR Equity,Catalyst Pharmaceuticals Inc
+AXTA,AXTA UN Equity,Axalta Coating Systems Ltd
+EME,EME UN Equity,EMCOR Group Inc
+SGEN,SGEN UW Equity,Seagen Inc
+TZOO,TZOO UW Equity,Travelzoo
+WPC,WPC UN Equity,WP Carey Inc
+ZIOP,ZIOP UR Equity,ZIOPHARM Oncology Inc
+XHR,XHR UN Equity,Xenia Hotels & Resorts Inc
+AAXN,AAXN UW Equity,Axon Enterprise Inc
+FVE,FVE UN Equity,Five Star Senior Living Inc
+CORT,CORT UR Equity,Corcept Therapeutics Inc
+WHG,WHG UN Equity,Westwood Holdings Group Inc
+RGC,RGC UN Equity,Regal Entertainment Group
+LIFE,LIFE UW Equity,aTyr Pharma Inc
+IPGP,IPGP UW Equity,IPG Photonics Corp
+AWI,AWI UN Equity,Armstrong World Industries Inc
+QNST,QNST UW Equity,QuinStreet Inc
+MFLX,MFLX UW Equity,Multi-Fineline Electronix Inc
+CUTR,CUTR UW Equity,Cutera Inc
+CSOD,CSOD UW Equity,Cornerstone OnDemand Inc
+NGS,NGS UN Equity,Natural Gas Services Group Inc
+HCI,HCI UN Equity,HCI Group Inc
+NLSN,NLSN UN Equity,Nielsen Holdings PLC
+VG,VG UN Equity,Vonage Holdings Corp
+EQBK,EQBK UW Equity,Equity Bancshares Inc
+VYGR,VYGR UW Equity,Voyager Therapeutics Inc
+ARII,ARII UW Equity,American Railcar Industries Inc
+DXCM,DXCM UW Equity,DexCom Inc
+TRI,TRI UN Equity,Thomson Reuters Corp
+SBRA,SBRA UW Equity,Sabra Health Care REIT Inc
+PODD,PODD UW Equity,Insulet Corp
+CTT,CTT UN Equity,CatchMark Timber Trust Inc
+CYTK,CYTK UW Equity,Cytokinetics Inc
+LCI,LCI UN Equity,Lannett Co Inc
+BDSI,BDSI UR Equity,BioDelivery Sciences International Inc
+SAIA,SAIA UW Equity,Saia Inc
+PRTK,PRTK UQ Equity,Paratek Pharmaceuticals Inc
+ECYT,ECYT UW Equity,Endocyte Inc
+WLK,WLK UN Equity,Westlake Chemical Corp
+ESGR,ESGR UW Equity,Enstar Group Ltd
+ENH,ENH UN Equity,Sompo International Holdings Ltd
+ACTG,ACTG UW Equity,Acacia Research Corp
+GTT,GTT UN Equity,GTT Communications Inc
+PRGO,PRGO UN Equity,Perrigo Co PLC
+AHT,AHT UN Equity,Ashford Hospitality Trust Inc
+LMAT,LMAT UQ Equity,LeMaitre Vascular Inc
+TLMR,TLMR UR Equity,Talmer Bancorp Inc
+GOOD,GOOD UW Equity,Gladstone Commercial Corp
+TOWN,TOWN UW Equity,Towne Bank/Portsmouth VA
+ITC,ITC UN Equity,ITC Holdings Corp
+ALNY,ALNY UW Equity,Alnylam Pharmaceuticals Inc
+TPX,TPX UN Equity,Tempur Sealy International Inc
+PRAH,PRAH UW Equity,PRA Health Sciences Inc
+MRLN,MRLN UW Equity,Marlin Business Services Corp
+ARMK,ARMK UN Equity,Aramark
+HLT,HLT UN Equity,Hilton Worldwide Holdings Inc
+FPO,FPO UN Equity,First Potomac Realty Trust
+CONN,CONN UW Equity,Conn's Inc
+FLXN,FLXN UQ Equity,Flexion Therapeutics Inc
+EGRX,EGRX UQ Equity,Eagle Pharmaceuticals Inc/DE
+WIFI,WIFI UW Equity,Boingo Wireless Inc
+CMPR,CMPR UW Equity,Cimpress PLC
+PRI,PRI UN Equity,Primerica Inc
+RMR,RMR UR Equity,RMR Group Inc/The
+KRO,KRO UN Equity,Kronos Worldwide Inc
+TDOC,TDOC UN Equity,Teladoc Health Inc
+MCHX,MCHX UW Equity,Marchex Inc
+HTH,HTH UN Equity,Hilltop Holdings Inc
+CDW,CDW UW Equity,CDW Corp/DE
+HDS,HDS UW Equity,HD Supply Holdings Inc
+UCTT,UCTT UW Equity,Ultra Clean Holdings Inc
+ASGN,ASGN UN Equity,ASGN Inc
+LRN,LRN UN Equity,Stride Inc
+CPS,CPS UN Equity,Cooper-Standard Holdings Inc
+ACHN,ACHN UW Equity,Achillion Pharmaceuticals Inc
+9745633D,9745633D UN Equity,TCF Financial Corp/DE
+BXS,BXS UN Equity,BancorpSouth Bank
+CBSH,CBSH UW Equity,Commerce Bancshares Inc/MO
+TRMK,TRMK UW Equity,Trustmark Corp
+UMBF,UMBF UW Equity,UMB Financial Corp
+VLY,VLY UN Equity,Valley National Bancorp
+MTEM,MTEM UR Equity,Molecular Templates Inc
+GCI,GCI UN Equity,Gannett Co Inc
+ERIE,ERIE UW Equity,Erie Indemnity Co
+WABC,WABC UW Equity,Westamerica BanCorp
+TCBI,TCBI UW Equity,Texas Capital Bancshares Inc
+PACW,PACW UW Equity,PacWest Bancorp
+MNTA,MNTA UW Equity,Momenta Pharmaceuticals Inc
+TUESQ,TUESQ UW Equity,Tuesday Morning Corp
+CNO,CNO UN Equity,CNO Financial Group Inc
+RTEC,RTEC UN Equity,Rudolph Technologies Inc
+FGL,FGL UN Equity,Fidelity & Guaranty Life
+IBP,IBP UN Equity,Installed Building Products Inc
+FLDM,FLDM UW Equity,Fluidigm Corp
+ETH,ETH UN Equity,Ethan Allen Interiors Inc
+MPSX,MPSX UN Equity,Multi Packaging Solutions International
+CIEN,CIEN UN Equity,Ciena Corp
+WR,WR UN Equity,Evergy Kansas Central Inc
+VOLT,VOLT UA Equity,Volt Information Sciences Inc
+WBA,WBA UW Equity,Walgreens Boots Alliance Inc
+DMTX,DMTX UW Equity,Dimension Therapeutics Inc
+MAR,MAR UW Equity,Marriott International Inc/MD
+CNCE,CNCE UQ Equity,Concert Pharmaceuticals Inc
+CDNS,CDNS UW Equity,Cadence Design Systems Inc
+JOE,JOE UN Equity,St Joe Co/The
+TYL,TYL UN Equity,Tyler Technologies Inc
+UHS,UHS UN Equity,Universal Health Services Inc
+SWKS,SWKS UW Equity,Skyworks Solutions Inc
+ATVI,ATVI UW Equity,Activision Blizzard Inc
+HFC,HFC UN Equity,HollyFrontier Corp
+JKHY,JKHY UW Equity,Jack Henry & Associates Inc
+KPTI,KPTI UW Equity,Karyopharm Therapeutics Inc
+PDLI,PDLI UW Equity,PDL BioPharma Inc
+PRGS,PRGS UW Equity,Progress Software Corp
+RGLD,RGLD UW Equity,Royal Gold Inc
+SNPS,SNPS UW Equity,Synopsys Inc
+ARRS,ARRS UW Equity,ARRIS International PLC
+CUDA,CUDA UN Equity,Barracuda Networks Inc
+PTEN,PTEN UW Equity,Patterson-UTI Energy Inc
+SCHN,SCHN UW Equity,Schnitzer Steel Industries Inc
+RS,RS UN Equity,Reliance Steel & Aluminum Co
+ADTN,ADTN UW Equity,ADTRAN Inc
+HSIC,HSIC UW Equity,Henry Schein Inc
+ANSS,ANSS UW Equity,ANSYS Inc
+FDS,FDS UN Equity,FactSet Research Systems Inc
+PLCM,PLCM UW Equity,Polycom Inc
+ROVI,ROVI UW Equity,Rovi Corp
+XRM,XRM UN Equity,Andritz Fabrics & Rolls Inc
+AMG,AMG UN Equity,Affiliated Managers Group Inc
+TTWO,TTWO UW Equity,Take-Two Interactive Software Inc
+JLL,JLL UN Equity,Jones Lang LaSalle Inc
+MSTR,MSTR UW Equity,MicroStrategy Inc
+SBAC,SBAC UW Equity,SBA Communications Corp
+ON,ON UW Equity,ON Semiconductor Corp
+ORA,ORA UN Equity,Ormat Technologies Inc
+MDRX,MDRX UW Equity,Allscripts Healthcare Solutions Inc
+CRL,CRL UN Equity,Charles River Laboratories International
+BWXT,BWXT UN Equity,BWX Technologies Inc
+BLKB,BLKB UW Equity,Blackbaud Inc
+HIL,HIL UN Equity,Hill International Inc
+OIS,OIS UN Equity,Oil States International Inc
+BG,BG UN Equity,Bunge Ltd
+ALR,ALR UN Equity,Alere Inc
+9998865D,9998865D UN Equity,Whiting Petroleum Corp
+XRX,XRX UN Equity,Xerox Holdings Corp
+HPR,HPR UN Equity,HighPoint Resources Corp
+CE,CE UN Equity,Celanese Corp
+KBR,KBR UN Equity,KBR Inc
+SXC,SXC UN Equity,SunCoke Energy Inc
+HII,HII UN Equity,Huntington Ingalls Industries Inc
+GT,GT UW Equity,Goodyear Tire & Rubber Co/The
+ROX,ROX UA Equity,Castle Brands Inc
+PNM,PNM UN Equity,PNM Resources Inc
+SFS,SFS UN Equity,Smart & Final Stores Inc
+MDLY,MDLY UN Equity,Medley Management Inc
+TWTR,TWTR UN Equity,Twitter Inc
+CFG,CFG UN Equity,Citizens Financial Group Inc
+CFR,CFR UN Equity,Cullen/Frost Bankers Inc
+FCFS,FCFS UW Equity,FirstCash Inc
+PB,PB UN Equity,Prosperity Bancshares Inc
+EVC,EVC UN Equity,Entravision Communications Corp
+LYV,LYV UN Equity,Live Nation Entertainment Inc
+WMS,WMS UN Equity,Advanced Drainage Systems Inc
+CVGI,CVGI UW Equity,Commercial Vehicle Group Inc
+AMSWA,AMSWA UW Equity,American Software Inc/GA
+COO,COO UN Equity,Cooper Cos Inc/The
+MAN,MAN UN Equity,ManpowerGroup Inc
+OII,OII UN Equity,Oceaneering International Inc
+VHI,VHI UN Equity,Valhi Inc
+VSH,VSH UN Equity,Vishay Intertechnology Inc
+TECD,TECD UW Equity,Tech Data Corp
+ATR,ATR UN Equity,AptarGroup Inc
+LVLT,LVLT UN Equity,Level 3 Communications Inc
+RMD,RMD UN Equity,ResMed Inc
+LAZ,LAZ UN Equity,Lazard Ltd
+MTD,MTD UN Equity,Mettler-Toledo International Inc
+BMRN,BMRN UW Equity,BioMarin Pharmaceutical Inc
+SPWR,SPWR UW Equity,SunPower Corp
+IHS,IHS UN Equity,IHS Inc
+BECN,BECN UW Equity,Beacon Roofing Supply Inc
+WWAV,WWAV UN Equity,Danone US Inc
+VPG,VPG UN Equity,Vishay Precision Group Inc
+NATL,NATL UW Equity,National Interstate Corp
+WAL,WAL UN Equity,Western Alliance Bancorp
+PINC,PINC UW Equity,Premier Inc
+TAST,TAST UW Equity,Carrols Restaurant Group Inc
+SHO,SHO UN Equity,Sunstone Hotel Investors Inc
+MHGC,MHGC UQ Equity,Morgans Hotel Group Co LLC
+CHD,CHD UN Equity,Church & Dwight Co Inc
+DRE,DRE UN Equity,Duke Realty Corp
+GBNK,GBNK UW Equity,Guaranty Bancorp
+FRT,FRT UN Equity,Federal Realty Investment Trust
+MDU,MDU UN Equity,MDU Resources Group Inc
+MGM,MGM UN Equity,MGM Resorts International
+9995522D,9995522D UW Equity,Office Depot Inc
+TFCF,TFCF UW Equity,TFCF Corp
+TOL,TOL UN Equity,Toll Brothers Inc
+ANCX,ANCX UQ Equity,Access National Corp
+AMWD,AMWD UW Equity,American Woodmark Corp
+TBBK,TBBK UW Equity,Bancorp Inc/The
+EV,EV UN Equity,Eaton Vance Corp
+FOSL,FOSL UW Equity,Fossil Group Inc
+JBHT,JBHT UW Equity,JB Hunt Transport Services Inc
+LRCX,LRCX UW Equity,Lam Research Corp
+FCH,FCH UN Equity,FelCor Lodging Trust Inc
+MHK,MHK UN Equity,Mohawk Industries Inc
+CBMG,CBMG UQ Equity,Cellular Biomedicine Group Inc
+PNR,PNR UN Equity,Pentair PLC
+AAWW,AAWW UW Equity,Atlas Air Worldwide Holdings Inc
+SEIC,SEIC UW Equity,SEI Investments Co
+VRTX,VRTX UW Equity,Vertex Pharmaceuticals Inc
+TARA,TARA UQ Equity,Protara Therapeutics Inc
+TVPT,TVPT UN Equity,Travelport Worldwide Ltd
+CAVM,CAVM UW Equity,Cavium LLC
+CREE,CREE UW Equity,Cree Inc
+REG,REG UN Equity,Regency Centers Corp
+NYCB,NYCB UN Equity,New York Community Bancorp Inc
+WMGI,WMGI UW Equity,Wright Medical Group NV
+LTRPA,LTRPA UW Equity,Liberty TripAdvisor Holdings Inc
+RYN,RYN UN Equity,Rayonier Inc
+LPT,LPT UN Equity,Liberty Property Trust
+JOUT,JOUT UW Equity,Johnson Outdoors Inc
+SCCO,SCCO UN Equity,Southern Copper Corp
+LGIH,LGIH UW Equity,LGI Homes Inc
+OCLR,OCLR UW Equity,Oclaro Inc
+AAOI,AAOI UQ Equity,Applied Optoelectronics Inc
+ACGL,ACGL UW Equity,Arch Capital Group Ltd
+DISH,DISH UW Equity,DISH Network Corp
+FB,FB UW Equity,Facebook Inc
+ALXN,ALXN UW Equity,Alexion Pharmaceuticals Inc
+RE,RE UN Equity,Everest Re Group Ltd
+AMTD,AMTD UW Equity,TD Ameritrade Holding Corp
+NLY,NLY UN Equity,Annaly Capital Management Inc
+ICFI,ICFI UW Equity,ICF International Inc
+KNL,KNL UN Equity,Knoll Inc
+FLOW,FLOW UN Equity,SPX FLOW Inc
+CCI,CCI UN Equity,Crown Castle International Corp
+CLR,CLR UN Equity,Continental Resources Inc/OK
+AAP,AAP UN Equity,Advance Auto Parts Inc
+ILMN,ILMN UW Equity,Illumina Inc
+LNKD,LNKD UN Equity,LinkedIn Corp
+HCHC,HCHC UA Equity,HC2 Holdings Inc
+SEM,SEM UN Equity,Select Medical Holdings Corp
+DLB,DLB UN Equity,Dolby Laboratories Inc
+EPC,EPC UN Equity,Edgewell Personal Care Co
+MRVL,MRVL UW Equity,Marvell Technology Group Ltd
+DRII,DRII UN Equity,Diamond Resorts International Inc
+SAIC,SAIC UN Equity,Science Applications International Corp
+GRMN,GRMN UW Equity,Garmin Ltd
+9876588D,9876588D UW Equity,American National Insurance Co
+XEC,XEC UN Equity,Cimarex Energy Co
+HLF,HLF UN Equity,Herbalife Nutrition Ltd
+VMEMQ,VMEMQ UN Equity,Violin Memory Federal Systems Inc
+DLR,DLR UN Equity,Digital Realty Trust Inc
+LVS,LVS UN Equity,Las Vegas Sands Corp
+ULH,ULH UW Equity,Universal Logistics Holdings Inc
+STRZA,STRZA UW Equity,Starz Acquisition LLC /CO
+FLT,FLT UN Equity,FleetCor Technologies Inc
+CXO,CXO UN Equity,Concho Resources Inc
+LULU,LULU UW Equity,Lululemon Athletica Inc
+EXLS,EXLS UW Equity,ExlService Holdings Inc
+AWK,AWK UN Equity,American Water Works Co Inc
+CUBI,CUBI UN Equity,Customers Bancorp Inc
+CPN,CPN UN Equity,Calpine Corp
+GM,GM UN Equity,General Motors Co
+CIT,CIT UN Equity,CIT Group Inc
+KMI,KMI UN Equity,Kinder Morgan Inc
+RNG,RNG UN Equity,RingCentral Inc
+ARAY,ARAY UW Equity,Accuray Inc
+KALV,KALV UQ Equity,KalVista Pharmaceuticals Inc
+AX,AX UW Equity,Axos Financial Inc
+WBMD,WBMD UW Equity,WebMD Health Corp
+UBNK,UBNK UW Equity,United Financial Bancorp Inc
+NWSA,NWSA UW Equity,News Corp
+ORI,ORI UN Equity,Old Republic International Corp
+GLDD,GLDD UW Equity,Great Lakes Dredge & Dock Corp
+OCUL,OCUL UQ Equity,Ocular Therapeutix Inc
+LOCO,LOCO UW Equity,El Pollo Loco Holdings Inc
+HTWR,HTWR UW Equity,HeartWare International Inc
+VEC,VEC UN Equity,Vectrus Inc
+XNPT,XNPT UW Equity,XenoPort Inc
+OFLX,OFLX UQ Equity,Omega Flex Inc
+CORE,CORE UW Equity,Core-Mark Holding Co Inc
+TDS,TDS UN Equity,Telephone and Data Systems Inc
+SGI,SGI UW Equity,Silicon Graphics International Corp
+TPLMQ,TPLMQ UA Equity,Triangle Petroleum Corp
+VR,VR UN Equity,Validus Holdings Ltd
+GSM,GSM UW Equity,Ferroglobe PLC
+NXST,NXST UW Equity,Nexstar Media Group Inc
+CTRN,CTRN UW Equity,Citi Trends Inc
+HSC,HSC UN Equity,Harsco Corp
+ZVO,ZVO UN Equity,Zovio Inc
+TFSL,TFSL UW Equity,TFS Financial Corp
+9876533D,9876533D UN Equity,Delek US Energy Inc
+CLGX,CLGX UN Equity,CoreLogic Inc/United States
+NNA,NNA UN Equity,Navios Maritime Acquisition Corp
+MYGN,MYGN UW Equity,Myriad Genetics Inc
+DST,DST UN Equity,DST Systems Inc
+EPEGQ,EPEGQ UN Equity,EP Energy Corp
+RSPP,RSPP UN Equity,RSP Permian Inc
+DEA,DEA UN Equity,Easterly Government Properties Inc
+WTRG,WTRG UN Equity,Essential Utilities Inc
+FCN,FCN UN Equity,FTI Consulting Inc
+UDR,UDR UN Equity,UDR Inc
+EGLE,EGLE UW Equity,Eagle Bulk Shipping Inc
+NRTSF,NRTSF UA Equity,Nobilis Health Corp
+JMBA,JMBA UQ Equity,Jamba Inc
+FCE/A,FCE/A UN Equity,Forest City Realty Trust Inc
+LAMR,LAMR UW Equity,Lamar Advertising Co
+SLG,SLG UN Equity,SL Green Realty Corp
+HUN,HUN UN Equity,Huntsman Corp
+UFS,UFS UN Equity,Domtar Corp
+FCSC,FCSC UR Equity,Fibrocell Science Inc
+WSM,WSM UN Equity,Williams-Sonoma Inc
+LITE,LITE UW Equity,Lumentum Holdings Inc
+STLD,STLD UW Equity,Steel Dynamics Inc
+ISIL,ISIL UW Equity,Renesas Electronics America Inc
+AROC,AROC UN Equity,Archrock Inc
+NMIH,NMIH UQ Equity,NMI Holdings Inc
+JAZZ,JAZZ UW Equity,Jazz Pharmaceuticals PLC
+AGR,AGR UN Equity,Avangrid Inc
+BRO,BRO UN Equity,Brown & Brown Inc
+TISUQ,TISUQ UA Equity,Orchids Paper Products Co
+ATRC,ATRC UQ Equity,AtriCure Inc
+NEWS,NEWS UW Equity,First Eagle Private Credit LLC
+OI,OI UN Equity,O-I Glass Inc
+PRDO,PRDO UW Equity,Perdoceo Education Corp
+CORI,CORI UQ Equity,Corium International Inc
+BR,BR UN Equity,Broadridge Financial Solutions Inc
+HRC,HRC UN Equity,Hill-Rom Holdings Inc
+CYH,CYH UN Equity,Community Health Systems Inc
+ALJ,ALJ UN Equity,Alon USA Energy Inc
+ROLL,ROLL UW Equity,RBC Bearings Inc
+TLGT,TLGT UW Equity,Teligent Inc/NJ
+GPRE,GPRE UW Equity,Green Plains Inc
+MPX,MPX UN Equity,Marine Products Corp
+IVTY,IVTY UQ Equity,Invuity Inc
+VNDA,VNDA UQ Equity,Vanda Pharmaceuticals Inc
+INGN,INGN UW Equity,Inogen Inc
+VSTO,VSTO UN Equity,Vista Outdoor Inc
+SCNB,SCNB UN Equity,Suffolk Bancorp
+WSBF,WSBF UW Equity,Waterstone Financial Inc
+ULTA,ULTA UW Equity,Ulta Beauty Inc
+LPG,LPG UN Equity,Dorian LPG Ltd
+FN,FN UN Equity,Fabrinet
+1455797D,1455797D UN Equity,TAL International Group Inc
+UMH,UMH UN Equity,UMH Properties Inc
+GHDX,GHDX UW Equity,Genomic Health Inc
+NXTM,NXTM UW Equity,NxStage Medical Inc
+LPNT,LPNT UW Equity,Legacy LifePoint Health LLC
+ACCO,ACCO UN Equity,ACCO Brands Corp
+KTWO,KTWO UW Equity,K2M Group Holdings Inc
+LE,LE UR Equity,Lands' End Inc
+IMS,IMS UN Equity,IMS Health Holdings Inc
+GRUB,GRUB UN Equity,Grubhub Inc
+AOS,AOS UN Equity,A O Smith Corp
+BKD,BKD UN Equity,Brookdale Senior Living Inc
+HNH,HNH UR Equity,Handy & Harman Ltd
+FF,FF UN Equity,FutureFuel Corp
+AMC,AMC UN Equity,AMC Entertainment Holdings Inc
+RAIL,RAIL UW Equity,FreightCar America Inc
+PGRE,PGRE UN Equity,Paramount Group Inc
+HEES,HEES UW Equity,H&E Equipment Services Inc
+INFN,INFN UW Equity,Infinera Corp
+ELY,ELY UN Equity,Callaway Golf Co
+BPMC,BPMC UW Equity,Blueprint Medicines Corp
+TDG,TDG UN Equity,TransDigm Group Inc
+AGX,AGX UN Equity,Argan Inc
+YELP,YELP UN Equity,Yelp Inc
+SPKE,SPKE UW Equity,Spark Energy Inc
+GES,GES UN Equity,Guess? Inc
+RH,RH UN Equity,RH
+XCOOQ,XCOOQ UN Equity,EXCO Resources Inc
+INST,INST UN Equity,Instructure Inc
+CORR,CORR UN Equity,CorEnergy Infrastructure Trust Inc
+CDK,CDK UW Equity,CDK Global Inc
+MWA,MWA UN Equity,Mueller Water Products Inc
+STBZ,STBZ UR Equity,State Bank Financial Corp
+GTLS,GTLS UW Equity,Chart Industries Inc
+LTXB,LTXB UW Equity,LegacyTexas Financial Group Inc
+FIVE,FIVE UW Equity,Five Below Inc
+INWK,INWK UW Equity,InnerWorkings Inc
+KRG,KRG UN Equity,Kite Realty Group Trust
+JAX,JAX UN Equity,J Alexander's Holdings Inc
+FOLD,FOLD UQ Equity,Amicus Therapeutics Inc
+FTNT,FTNT UW Equity,Fortinet Inc
+PGTI,PGTI UQ Equity,PGT Innovations Inc
+AYR,AYR UN Equity,Aircastle Ltd
+DEI,DEI UN Equity,Douglas Emmett Inc
+DOX,DOX UW Equity,Amdocs Ltd
+CSFL,CSFL UW Equity,CenterState Bank Corp
+PEN,PEN UN Equity,Penumbra Inc
+IPHS,IPHS UW Equity,Innophos Holdings Inc
+HA,HA UW Equity,Hawaiian Holdings Inc
+ZAGG,ZAGG UW Equity,ZAGG Inc
+OMER,OMER UQ Equity,Omeros Corp
+GUID,GUID UQ Equity,Guidance Software Inc
+OC,OC UN Equity,Owens Corning
+LLNW,LLNW UW Equity,Limelight Networks Inc
+RNET,RNET UW Equity,RigNet Inc
+AIMC,AIMC UW Equity,Altra Industrial Motion Corp
+FXCB,FXCB UW Equity,Fox Chase Bancorp Inc
+GEN,GEN UN Equity,Genesis Healthcare Inc
+NCMI,NCMI UW Equity,National CineMedia Inc
+1817382D,1817382D UN Equity,DCT Industrial Trust Inc
+RUN,RUN UW Equity,Sunrun Inc
+BETR,BETR UN Equity,Amplify Snack Brands Inc
+WLH,WLH UN Equity,William Lyon Homes
+CSX,CSX UW Equity,CSX Corp
+1816375D,1816375D UW Equity,Caesars Holdings Inc
+HF,HF UN Equity,HFF Inc
+9898989D,9898989D UN Equity,Tidewater Inc
+TRN,TRN UN Equity,Trinity Industries Inc
+UFI,UFI UN Equity,Unifi Inc
+MACK,MACK UQ Equity,Merrimack Pharmaceuticals Inc
+N,N UN Equity,NetSuite Inc
+ESRT,ESRT UN Equity,Empire State Realty Trust Inc
+FDML,FDML UW Equity,Federal-Mogul Holdings LLC
+RMAX,RMAX UN Equity,RE/MAX Holdings Inc
+GRBK,GRBK UR Equity,Green Brick Partners Inc
+ARE,ARE UN Equity,Alexandria Real Estate Equities Inc
+GLUU,GLUU UW Equity,Glu Mobile Inc
+ALIM,ALIM UQ Equity,Alimera Sciences Inc
+GLRE,GLRE UW Equity,Greenlight Capital Re Ltd
+CLFD,CLFD UQ Equity,Clearfield Inc
+CNK,CNK UN Equity,Cinemark Holdings Inc
+ENOC,ENOC UW Equity,Enel X North America Inc
+SHOR,SHOR UW Equity,ShoreTel Inc
+CHGG,CHGG UN Equity,Chegg Inc
+STAY,STAY UN Equity,Extended Stay America Inc
+ESGC,ESGC UN Equity,Eros STX Global Corp
+PRO,PRO UN Equity,PROS Holdings Inc
+KAR,KAR UN Equity,KAR Auction Services Inc
+REXXQ,REXXQ UW Equity,Rex Energy Corp
+DATA,DATA UN Equity,Tableau Software Inc
+ECHO,ECHO UW Equity,Echo Global Logistics Inc
+PZN,PZN UN Equity,Pzena Investment Management Inc
+SSNC,SSNC UW Equity,SS&C Technologies Holdings Inc
+TNGO,TNGO UW Equity,Tangoe US Inc
+ATHN,ATHN UW Equity,athenahealth Inc
+MHLD,MHLD UW Equity,Maiden Holdings Ltd
+G,G UN Equity,Genpact Ltd
+PETX,PETX UQ Equity,Aratana Therapeutics Inc
+ROIC,ROIC UW Equity,Retail Opportunity Investments Corp
+ZYNE,ZYNE UQ Equity,Zynerba Pharmaceuticals Inc
+TRS,TRS UW Equity,TriMas Corp
+KW,KW UN Equity,Kennedy-Wilson Holdings Inc
+HABT,HABT UQ Equity,Habit Restaurants Inc/The
+TITN,TITN UW Equity,Titan Machinery Inc
+NWS,NWS UW Equity,News Corp
+SSYS,SSYS UW Equity,Stratasys Ltd
+ANAC,ANAC UQ Equity,Anacor Pharmaceuticals Inc
+FIVN,FIVN UQ Equity,Five9 Inc
+EBSB,EBSB UW Equity,Meridian Bancorp Inc
+TMHC,TMHC UN Equity,Taylor Morrison Home Corp
+TMUS,TMUS UW Equity,T-Mobile US Inc
+ARWR,ARWR UW Equity,Arrowhead Pharmaceuticals Inc
+MMS,MMS UN Equity,MAXIMUS Inc
+NFBK,NFBK UW Equity,Northfield Bancorp Inc
+1812209D,1812209D UW Equity,Match Group Inc/old
+SQ,SQ UN Equity,Square Inc
+NCLH,NCLH UW Equity,Norwegian Cruise Line Holdings Ltd
+IRDM,IRDM UW Equity,Iridium Communications Inc
+DAN,DAN UN Equity,Dana Inc
+WGO,WGO UN Equity,Winnebago Industries Inc
+SATS,SATS UW Equity,EchoStar Corp
+TNDM,TNDM UQ Equity,Tandem Diabetes Care Inc
+PLNT,PLNT UN Equity,Planet Fitness Inc
+AIMT,AIMT UW Equity,Aimmune Therapeutics Inc
+ONVO,ONVO UA Equity,Organovo Holdings Inc
+NEFF,NEFF UN Equity,Neff Corp
+MORE,MORE UN Equity,Monogram Residential Trust Inc
+MDSO,MDSO UW Equity,Medidata Solutions Inc
+ZGNX,ZGNX UQ Equity,Zogenix Inc
+MG,MG UN Equity,Mistras Group Inc
+LOPE,LOPE UW Equity,Grand Canyon Education Inc
+CBOE,CBOE UW Equity,Cboe Global Markets Inc
+RRTS,RRTS UN Equity,Roadrunner Transportation Systems Inc
+APOG,APOG UW Equity,Apogee Enterprises Inc
+CLDPQ,CLDPQ UN Equity,Cloud Peak Energy Inc
+ASCMA,ASCMA UW Equity,Ascent Capital Group Inc
+ALPN,ALPN UQ Equity,Alpine Immune Sciences Inc
+ASPS,ASPS UW Equity,Altisource Portfolio Solutions SA
+SREV,SREV UW Equity,ServiceSource International Inc
+GNMX,GNMX US Equity,Aevi Genomic Medicine Inc
+SKUL,SKUL UW Equity,Skullcandy Inc
+GCAP,GCAP UN Equity,GAIN Capital Holdings Inc
+AIN,AIN UN Equity,Albany International Corp
+ANTH,ANTH UQ Equity,Anthera Pharmaceuticals Inc
+OA,OA UN Equity,Northrop Grumman Innovation Systems Inc
+TBNK,TBNK UW Equity,Territorial Bancorp Inc
+TMH,TMH UN Equity,Team Health Holdings Inc
+ATO,ATO UN Equity,Atmos Energy Corp
+EXAM,EXAM UN Equity,ExamWorks Group Inc
+BOH,BOH UN Equity,Bank of Hawaii Corp
+B,B UN Equity,Barnes Group Inc
+BKH,BKH UN Equity,Black Hills Corp
+MTRN,MTRN UN Equity,Materion Corp
+CBT,CBT UN Equity,Cabot Corp
+1667208D,1667208D UN Equity,Calgon Carbon Corp
+CSL,CSL UN Equity,Carlisle Cos Inc
+BKU,BKU UN Equity,BankUnited Inc
+CDI,CDI UN Equity,CDI Corp
+9999966D,9999966D UN Equity,Spectrum Brands Legacy Inc
+CIEIQ,CIEIQ UN Equity,Cobalt International Energy Inc
+ASMB,ASMB UR Equity,Assembly Biosciences Inc
+CHE,CHE UN Equity,Chemed Corp
+CBB,CBB UN Equity,Cincinnati Bell Inc
+CLC,CLC UN Equity,CLARCOR Inc
+CARB,CARB UQ Equity,Carbonite Inc
+CMC,CMC UN Equity,Commercial Metals Co
+P,P UN Equity,Pandora Media LLC
+CTS,CTS UN Equity,CTS Corp
+CHSP,CHSP UN Equity,Chesapeake Lodging Trust
+DBD,DBD UN Equity,Diebold Nixdorf Inc
+PEB,PEB UN Equity,Pebblebrook Hotel Trust
+DCI,DCI UN Equity,Donaldson Co Inc
+GNRC,GNRC UN Equity,Generac Holdings Inc
+ESE,ESE UN Equity,ESCO Technologies Inc
+ESL,ESL UN Equity,Esterline Technologies Corp
+CLDT,CLDT UN Equity,Chatham Lodging Trust
+FSS,FSS UN Equity,Federal Signal Corp
+FCF,FCF UN Equity,First Commonwealth Financial Corp
+TRNO,TRNO UN Equity,Terreno Realty Corp
+AJRD,AJRD UN Equity,Aerojet Rocketdyne Holdings Inc
+SIR,SIR UN Equity,Select Income REIT
+HAE,HAE UN Equity,Haemonetics Corp
+HE,HE UN Equity,Hawaiian Electric Industries Inc
+MTH,MTH UN Equity,Meritage Homes Corp
+HMN,HMN UN Equity,Horace Mann Educators Corp
+UBA,UBA UN Equity,Urstadt Biddle Properties Inc
+SEMG,SEMG UN Equity,SemGroup Corp
+HUBB,HUBB UN Equity,Hubbell Inc
+IDA,IDA UN Equity,IDACORP Inc
+IEX,IEX UN Equity,IDEX Corp
+INT,INT UN Equity,World Fuel Services Corp
+AXE,AXE UN Equity,Anixter International Inc
+GXP,GXP UN Equity,Great Plains Energy Inc
+IL,IL UN Equity,Intralinks Holdings Inc
+KMT,KMT UN Equity,Kennametal Inc
+LZB,LZB UN Equity,La-Z-Boy Inc
+LDL,LDL UN Equity,Lydall Inc
+PLOW,PLOW UN Equity,Douglas Dynamics Inc
+MDC,MDC UN Equity,MDC Holdings Inc
+ALE,ALE UN Equity,ALLETE Inc
+MLI,MLI UN Equity,Mueller Industries Inc
+NFG,NFG UN Equity,National Fuel Gas Co
+NPK,NPK UN Equity,National Presto Industries Inc
+NJR,NJR UN Equity,New Jersey Resources Corp
+ACW,ACW UN Equity,Accuride Corp
+OGE,OGE UN Equity,OGE Energy Corp
+TOWR,TOWR UN Equity,Tower International Inc
+OLN,OLN UN Equity,Olin Corp
+OMI,OMI UN Equity,Owens & Minor Inc
+GNMK,GNMK UQ Equity,GenMark Diagnostics Inc
+DOOR,DOOR UN Equity,Masonite International Corp
+OXM,OXM UN Equity,Oxford Industries Inc
+BLMT,BLMT UR Equity,BSB Bancorp Inc/MA
+PKE,PKE UN Equity,Park Aerospace Corp
+AFG,AFG UN Equity,American Financial Group Inc/OH
+QLIK,QLIK UW Equity,Qlik Technologies Inc
+PVH,PVH UN Equity,PVH Corp
+PNY,PNY UN Equity,Piedmont Natural Gas Co Inc
+THR,THR UN Equity,Thermon Group Holdings Inc
+PCH,PCH UW Equity,PotlatchDeltic Corp
+RJF,RJF UN Equity,Raymond James Financial Inc
+TVIAQ,TVIAQ UW Equity,TerraVia Holdings Inc
+RLI,RLI UN Equity,RLI Corp
+ROL,ROL UN Equity,Rollins Inc
+SQI,SQI UW Equity,SciQuest Inc
+NGHC,NGHC UQ Equity,National General Holdings Corp
+COR,COR UN Equity,CoreSite Realty Corp
+SWX,SWX UN Equity,Southwest Gas Holdings Inc
+NDLS,NDLS UW Equity,Noodles & Co
+SMP,SMP UN Equity,Standard Motor Products Inc
+UNVR,UNVR UN Equity,Univar Solutions Inc
+CAA,CAA UN Equity,CalAtlantic Group Inc/old
+KEYW,KEYW UW Equity,KeyW Holding Corp/The
+AMD,AMD UR Equity,Advanced Micro Devices Inc
+SXI,SXI UN Equity,Standex International Corp
+BAH,BAH UN Equity,Booz Allen Hamilton Holding Corp
+QRVO,QRVO UW Equity,Qorvo Inc
+AL,AL UN Equity,Air Lease Corp
+SF,SF UN Equity,Stifel Financial Corp
+MSGS,MSGS UN Equity,Madison Square Garden Sports Corp
+RGR,RGR UN Equity,Sturm Ruger & Co Inc
+THO,THO UN Equity,Thor Industries Inc
+ZG,ZG UW Equity,Zillow Group Inc
+TTC,TTC UN Equity,Toro Co/The
+TG,TG UN Equity,Tredegar Corp
+UGI,UGI UN Equity,UGI Corp
+UNF,UNF UN Equity,UniFirst Corp/MA
+UNTCQ,UNTCQ UN Equity,Unit Corp
+SXT,SXT UN Equity,Sensient Technologies Corp
+UHT,UHT UN Equity,Universal Health Realty Income Trust
+UVV,UVV UN Equity,Universal Corp/VA
+WGL,WGL UN Equity,WGL Holdings Inc
+AVA,AVA UN Equity,Avista Corp
+WRI,WRI UN Equity,Weingarten Realty Investors
+WST,WST UN Equity,West Pharmaceutical Services Inc
+CTRL,CTRL UW Equity,Control4 Corp
+WWW,WWW UN Equity,Wolverine World Wide Inc
+CBRL,CBRL UW Equity,Cracker Barrel Old Country Store Inc
+HNI,HNI UN Equity,HNI Corp
+KELYA,KELYA UW Equity,Kelly Services Inc
+BBRG,BBRG UW Equity,Bravo Brio Restaurant Group
+SC,SC UN Equity,Santander Consumer USA Holdings Inc
+MLHR,MLHR UW Equity,Herman Miller Inc
+SON,SON UN Equity,Sonoco Products Co
+ESND,ESND UW Equity,Essendant Inc
+ESI,ESI UN Equity,Element Solutions Inc
+AAON,AAON UW Equity,AAON Inc
+VRNT,VRNT UW Equity,Verint Systems Inc
+ABAX,ABAX UW Equity,Abaxis Inc
+ARCB,ARCB UW Equity,ArcBest Corp
+ZLTQ,ZLTQ UW Equity,Zeltiq Aesthetics Inc
+ACAT,ACAT UW Equity,Arctic Cat Inc
+AVD,AVD UN Equity,American Vanguard Corp
+TVTY,TVTY UW Equity,Tivity Health Inc
+AIRM,AIRM UW Equity,Air Methods Corp
+9990408D,9990408D UN Equity,Aaron's LLC
+ATNI,ATNI UW Equity,ATN International Inc
+AZZ,AZZ UN Equity,AZZ Inc
+BEAV,BEAV UW Equity,B/E Aerospace Inc
+BELFB,BELFB UW Equity,Bel Fuse Inc
+CBKCQ,CBKCQ UN Equity,Christopher & Banks Corp
+BIO,BIO UN Equity,Bio-Rad Laboratories Inc
+BKE,BKE UN Equity,Buckle Inc/The
+CNR,CNR UN Equity,Cornerstone Building Brands Inc
+STAG,STAG UN Equity,STAG Industrial Inc
+CTLT,CTLT UN Equity,Catalent Inc
+BMI,BMI UN Equity,Badger Meter Inc
+SYF,SYF UN Equity,Synchrony Financial
+BRC,BRC UN Equity,Brady Corp
+INN,INN UN Equity,Summit Hotel Properties Inc
+CGIPQ,CGIPQ UN Equity,Celadon Group Inc
+CATO,CATO UN Equity,Cato Corp/The
+USCR,USCR UR Equity,US Concrete Inc
+CAKE,CAKE UW Equity,Cheesecake Factory Inc/The
+AAT,AAT UN Equity,American Assets Trust Inc
+CASY,CASY UW Equity,Casey's General Stores Inc
+CHEF,CHEF UW Equity,Chefs' Warehouse Inc/The
+CATY,CATY UW Equity,Cathay General Bancorp
+CBM,CBM UN Equity,Cambrex Corp
+CBU,CBU UN Equity,Community Bank System Inc
+1847942D,1847942D UN Equity,LANXESS Solutions US Inc
+CDR,CDR UN Equity,Cedar Realty Trust Inc
+CENTA,CENTA UW Equity,Central Garden & Pet Co
+CGNX,CGNX UW Equity,Cognex Corp
+CHCO,CHCO UW Equity,City Holding Co
+FRP,FRP UR Equity,FairPoint Communications LLC
+CLH,CLH UN Equity,Clean Harbors Inc
+CMTL,CMTL UW Equity,Comtech Telecommunications Corp
+CNMD,CNMD UW Equity,CONMED Corp
+CMD,CMD UN Equity,Cantel Medical Corp
+COHU,COHU UW Equity,Cohu Inc
+COLB,COLB UW Equity,Columbia Banking System Inc
+AMTG,AMTG UN Equity,Apollo Residential Mortgage Inc
+BH,BH UN Equity,Biglari Holdings Inc
+WAIR,WAIR UN Equity,Wesco Aircraft Holdings Inc
+GNE,GNE UN Equity,Genie Energy Ltd
+CRUS,CRUS UW Equity,Cirrus Logic Inc
+CRVL,CRVL UW Equity,CorVel Corp
+AFAM,AFAM UW Equity,Almost Family Inc
+ASNAQ,ASNAQ UW Equity,Ascena Retail Group Inc
+DGII,DGII UW Equity,Digi International Inc
+FRC,FRC UN Equity,First Republic Bank/CA
+DIOD,DIOD UW Equity,Diodes Inc
+DNKN,DNKN UW Equity,Dunkin' Brands Group Inc
+RDUS,RDUS UQ Equity,Radius Health Inc
+RSE,RSE UN Equity,Rouse Properties LLC
+LCII,LCII UN Equity,LCI Industries
+ABCD,ABCD UR Equity,Cambium Learning Group Inc
+WEN,WEN UW Equity,Wendy's Co/The
+EGP,EGP UN Equity,EastGroup Properties Inc
+EZPW,EZPW UW Equity,EZCORP Inc
+EXPO,EXPO UW Equity,Exponent Inc
+FMER,FMER UW Equity,FirstMerit Corp
+FELE,FELE UW Equity,Franklin Electric Co Inc
+FFBC,FFBC UW Equity,First Financial Bancorp
+FBP,FBP UN Equity,First BanCorp/Puerto Rico
+FICO,FICO UN Equity,Fair Isaac Corp
+SPNX,SPNX UN Equity,Superior Energy Services Inc
+FMBI,FMBI UW Equity,First Midwest Bancorp Inc/IL
+FREDQ,FREDQ UW Equity,Fred's Inc
+FUL,FUL UN Equity,HB Fuller Co
+FULT,FULT UW Equity,Fulton Financial Corp
+GBCI,GBCI UW Equity,Glacier Bancorp Inc
+GVA,GVA UN Equity,Granite Construction Inc
+GK,GK UW Equity,G&K Services LLC
+KCG,KCG UN Equity,Virtu KCG Holdings LLC
+GNTX,GNTX UW Equity,Gentex Corp
+HVT,HVT UN Equity,Haverty Furniture Cos Inc
+HWC,HWC UW Equity,Hancock Whitney Corp
+HCSG,HCSG UW Equity,Healthcare Services Group Inc
+HELE,HELE UW Equity,Helen of Troy Ltd
+HWKN,HWKN UW Equity,Hawkins Inc
+ICUI,ICUI UW Equity,ICU Medical Inc
+MODN,MODN UN Equity,Model N Inc
+IDXX,IDXX UW Equity,IDEXX Laboratories Inc
+TILE,TILE UW Equity,Interface Inc
+DIN,DIN UN Equity,Dine Brands Global Inc
+IIVI,IIVI UW Equity,II-VI Inc
+INDB,INDB UW Equity,Independent Bank Corp
+BLUE,BLUE UW Equity,Bluebird Bio Inc
+TRCO,TRCO UN Equity,Tribune Media Co
+AEGN,AEGN UW Equity,Aegion Corp
+GFF,GFF UN Equity,Griffon Corp
+IVC,IVC UN Equity,Invacare Corp
+IPAR,IPAR UW Equity,Inter Parfums Inc
+ITG,ITG UN Equity,Investment Technology Group Inc
+JJSF,JJSF UW Equity,J & J Snack Foods Corp
+KEX,KEX UN Equity,Kirby Corp
+VIVO,VIVO UW Equity,Meridian Bioscience Inc
+KOPN,KOPN UW Equity,Kopin Corp
+ANET,ANET UN Equity,Arista Networks Inc
+LANC,LANC UW Equity,Lancaster Colony Corp
+LAWS,LAWS UW Equity,Lawson Products Inc/DE
+LDR,LDR UN Equity,Landauer Inc
+LXU,LXU UN Equity,LSB Industries Inc
+CMRX,CMRX UQ Equity,Chimerix Inc
+PRA,PRA UN Equity,ProAssurance Corp
+MEI,MEI UN Equity,Methode Electronics Inc
+MMSI,MMSI UW Equity,Merit Medical Systems Inc
+MSA,MSA UN Equity,MSA Safety Inc
+MNRO,MNRO UW Equity,Monro Inc
+MOG/A,MOG/A UN Equity,Moog Inc
+RT,RT UN Equity,Ruby Tuesday Inc
+MCS,MCS UN Equity,Marcus Corp/The
+MCY,MCY UN Equity,Mercury General Corp
+MTRX,MTRX UW Equity,Matrix Service Co
+MTSC,MTSC UW Equity,MTS Systems Corp
+MYE,MYE UN Equity,Myers Industries Inc
+ONTO,ONTO UW Equity,Onto Innovation Inc
+NAVG,NAVG UW Equity,Navigators Group Inc/The
+NBTB,NBTB UW Equity,NBT Bancorp Inc
+NEOG,NEOG UW Equity,Neogen Corp
+JONEQ,JONEQ UN Equity,Jones Energy Inc
+NVR,NVR UN Equity,NVR Inc
+EVTC,EVTC UN Equity,EVERTEC Inc
+NWN,NWN UN Equity,Northwest Natural Holding Co
+ODFL,ODFL UW Equity,Old Dominion Freight Line Inc
+BRSWQ,BRSWQ UN Equity,Bristow Group Inc/old
+RLGT,RLGT UA Equity,Radiant Logistics Inc
+CUZ,CUZ UN Equity,Cousins Properties Inc
+PEI,PEI UN Equity,Pennsylvania Real Estate Investment Trus
+AGYS,AGYS UW Equity,Agilysys Inc
+SFBS,SFBS UW Equity,ServisFirst Bancshares Inc
+1448021D,1448021D UN Equity,Parkway Properties Inc/Md
+PLXS,PLXS UW Equity,Plexus Corp
+CRCM,CRCM UN Equity,Care.com Inc
+POWL,POWL UW Equity,Powell Industries Inc
+PSB,PSB UN Equity,PS Business Parks Inc
+KWR,KWR UN Equity,Quaker Chemical Corp
+NXGN,NXGN UW Equity,NextGen Healthcare Inc
+RBC,RBC UN Equity,Regal Beloit Corp
+REGN,REGN UW Equity,Regeneron Pharmaceuticals Inc
+RGS,RGS UN Equity,Regis Corp
+OFC,OFC UN Equity,Corporate Office Properties Trust
+UEIC,UEIC UW Equity,Universal Electronics Inc
+DLTH,DLTH UW Equity,Duluth Holdings Inc
+ROG,ROG UN Equity,Rogers Corp
+RPM,RPM UN Equity,RPM International Inc
+SAFM,SAFM UW Equity,Sanderson Farms Inc
+SCHL,SCHL UW Equity,Scholastic Corp
+SCL,SCL UN Equity,Stepan Co
+SMG,SMG UN Equity,Scotts Miracle-Gro Co/The
+SENEA,SENEA UW Equity,Seneca Foods Corp
+SFNC,SFNC UW Equity,Simmons First National Corp
+SHLM,SHLM UW Equity,Lyondellbasell Advanced Polymers Inc
+ICON,ICON UW Equity,Iconix Brand Group Inc
+SIGI,SIGI UW Equity,Selective Insurance Group Inc
+CMO,CMO UN Equity,Capstead Mortgage Corp
+SIGM,SIGM UW Equity,Sigma Designs Inc
+STC,STC UN Equity,Stewart Information Services Corp
+SIVB,SIVB UW Equity,SVB Financial Group
+SMTC,SMTC UW Equity,Semtech Corp
+SMRTQ,SMRTQ UW Equity,Stein Mart Inc
+LEN/B,LEN/B UN Equity,Lennar Corp
+PII,PII UN Equity,Polaris Inc
+TLN,TLN UN Equity,Talen Energy Corp
+BLBD,BLBD UQ Equity,Blue Bird Corp
+PCTY,PCTY UW Equity,Paylocity Holding Corp
+STBA,STBA UW Equity,S&T Bancorp Inc
+AWR,AWR UN Equity,American States Water Co
+TNC,TNC UN Equity,Tennant Co
+HQY,HQY UW Equity,HealthEquity Inc
+LMNR,LMNR UW Equity,Limoneira Co
+TMP,TMP UA Equity,Tompkins Financial Corp
+TECH,TECH UW Equity,Bio-Techne Corp
+CLDX,CLDX UW Equity,Celldex Therapeutics Inc
+TFX,TFX UN Equity,Teleflex Inc
+ADVM,ADVM UQ Equity,Adverum Biotechnologies Inc
+SGMS,SGMS UW Equity,Scientific Games Corp
+BLX,BLX UN Equity,Bladex
+TRMB,TRMB UW Equity,Trimble Inc
+TRST,TRST UW Equity,TrustCo Bank Corp NY
+TTI,TTI UN Equity,TETRA Technologies Inc
+UBSI,UBSI UW Equity,United Bankshares Inc/WV
+ARW,ARW UN Equity,Arrow Electronics Inc
+UFCS,UFCS UW Equity,United Fire Group Inc
+PAHC,PAHC UQ Equity,Phibro Animal Health Corp
+KMPR,KMPR UN Equity,Kemper Corp
+HEI/A,HEI/A UN Equity,HEICO Corp
+PTCT,PTCT UW Equity,PTC Therapeutics Inc
+1731877D,1731877D UN Equity,Valspar Corp/The
+VMI,VMI UN Equity,Valmont Industries Inc
+VICR,VICR UW Equity,Vicor Corp
+ZOES,ZOES UN Equity,Zoe's Kitchen Inc
+VOXX,VOXX UW Equity,VOXX International Corp
+DX,DX UN Equity,Dynex Capital Inc
+TTEK,TTEK UW Equity,Tetra Tech Inc
+WTS,WTS UN Equity,Watts Water Technologies Inc
+WBS,WBS UN Equity,Webster Financial Corp
+WDFC,WDFC UW Equity,WD-40 Co
+WERN,WERN UW Equity,Werner Enterprises Inc
+WAFD,WAFD UW Equity,Washington Federal Inc
+JW/A,JW/A UN Equity,John Wiley & Sons Inc
+WIRE,WIRE UW Equity,Encore Wire Corp
+WRLD,WRLD UW Equity,World Acceptance Corp
+WSO,WSO UN Equity,Watsco Inc
+ZBRA,ZBRA UW Equity,Zebra Technologies Corp
+SKT,SKT UN Equity,Tanger Factory Outlet Centers Inc
+SIG,SIG UN Equity,Signet Jewelers Ltd
+OHI,OHI UN Equity,Omega Healthcare Investors Inc
+TCO,TCO UN Equity,Taubman Centers Inc
+LFUS,LFUS UW Equity,Littelfuse Inc
+SM,SM UN Equity,SM Energy Co
+CHUY,CHUY UW Equity,Chuy's Holdings Inc
+BBOX,BBOX UW Equity,Black Box Corp
+APTS,APTS UN Equity,Preferred Apartment Communities Inc
+CRY,CRY UN Equity,CryoLife Inc
+AKR,AKR UN Equity,Acadia Realty Trust
+PERY,PERY UW Equity,Perry Ellis International Inc
+RGA,RGA UN Equity,Reinsurance Group of America Inc
+CVEO,CVEO UN Equity,Civeo Corp
+GEF,GEF UN Equity,Greif Inc
+PPS,PPS UN Equity,Post Properties Inc
+BYD,BYD UN Equity,Boyd Gaming Corp
+MCRI,MCRI UW Equity,Monarch Casino & Resort Inc
+MOV,MOV UN Equity,Movado Group Inc
+UTEK,UTEK UW Equity,Ultratech Inc
+BFS,BFS UN Equity,Saul Centers Inc
+MHO,MHO UN Equity,M/I Homes Inc
+ROCK,ROCK UW Equity,Gibraltar Industries Inc
+VSLR,VSLR UN Equity,Vivint Solar Inc
+AVID,AVID UW Equity,Avid Technology Inc
+UFPI,UFPI UW Equity,UFP Industries Inc
+LXP,LXP UN Equity,Lexington Realty Trust
+HRTH,HRTH UN Equity,Harte Hanks Inc
+FFIN,FFIN UW Equity,First Financial Bankshares Inc
+FWRD,FWRD UW Equity,Forward Air Corp
+HAIN,HAIN UW Equity,Hain Celestial Group Inc/The
+MAA,MAA UN Equity,Mid-America Apartment Communities Inc
+FEIC,FEIC UW Equity,FEI Co
+SHOO,SHOO UW Equity,Steven Madden Ltd
+TSCO,TSCO UW Equity,Tractor Supply Co
+MED,MED UN Equity,Medifast Inc
+AF,AF UN Equity,Astoria Financial Corp
+DAKT,DAKT UW Equity,Daktronics Inc
+ALB,ALB UN Equity,Albemarle Corp
+TBI,TBI UN Equity,TrueBlue Inc
+CRDF,CRDF UR Equity,Cardiff Oncology Inc
+DSPG,DSPG UW Equity,DSP Group Inc
+BPFH,BPFH UW Equity,Boston Private Financial Holdings Inc
+MINI,MINI UW Equity,Mobile Mini Inc
+DAR,DAR UN Equity,Darling Ingredients Inc
+SCSC,SCSC UW Equity,ScanSource Inc
+EXP,EXP UN Equity,Eagle Materials Inc
+OUTR,OUTR UW Equity,Coinstar LLC
+HIW,HIW UN Equity,Highwoods Properties Inc
+CALM,CALM UW Equity,Cal-Maine Foods Inc
+SSD,SSD UN Equity,Simpson Manufacturing Co Inc
+ESS,ESS UN Equity,Essex Property Trust Inc
+ISCA,ISCA UW Equity,International Speedway Corp
+GEO,GEO UN Equity,GEO Group Inc/The
+MATW,MATW UW Equity,Matthews International Corp
+HW,HW UN Equity,Headwaters Inc
+CLI,CLI UN Equity,Mack-Cali Realty Corp
+WIBC,WIBC UW Equity,Wilshire Bancorp Inc
+TK,TK UN Equity,Teekay Corp
+9876444D,9876444D UN Equity,Knight Transportation Inc
+O,O UN Equity,Realty Income Corp
+IMAX,IMAX UN Equity,IMAX Corp
+OREXQ,OREXQ UW Equity,Orexigen Therapeutics Inc
+NWBI,NWBI UW Equity,Northwest Bancshares Inc
+VECO,VECO UW Equity,Veeco Instruments Inc
+ANDE,ANDE UW Equity,Andersons Inc/The
+SLGN,SLGN UW Equity,Silgan Holdings Inc
+BRKS,BRKS UW Equity,Brooks Automation Inc
+ACIW,ACIW UW Equity,ACI Worldwide Inc
+RCII,RCII UW Equity,Rent-A-Center Inc/TX
+NATI,NATI UW Equity,National Instruments Corp
+LGF/A,LGF/A UN Equity,Lions Gate Entertainment Corp
+MPG,MPG UN Equity,Metaldyne Performance Group Inc
+SVC,SVC UN Equity,Service Properties Trust
+IART,IART UW Equity,Integra LifeSciences Holdings Corp
+IBOC,IBOC UW Equity,International Bancshares Corp
+NAT,NAT UN Equity,Nordic American Tankers Ltd
+POOL,POOL UW Equity,Pool Corp
+MD,MD UN Equity,MEDNAX Inc
+CENX,CENX UW Equity,Century Aluminum Co
+AEIS,AEIS UW Equity,Advanced Energy Industries Inc
+CSGS,CSGS UW Equity,CSG Systems International Inc
+CRRTQ,CRRTQ UN Equity,CARBO Ceramics Inc
+VMW,VMW UN Equity,VMware Inc
+TTEC,TTEC UW Equity,TTEC Holdings Inc
+DCOM,DCOM UW Equity,Dime Community Bancshares Inc
+LORL,LORL UW Equity,Loral Space & Communications Inc
+THG,THG UN Equity,Hanover Insurance Group Inc/The
+GEOS,GEOS UW Equity,Geospace Technologies Corp
+PRXL,PRXL UW Equity,PAREXEL International Corp
+SWM,SWM UN Equity,Schweitzer-Mauduit International Inc
+HOPE,HOPE UW Equity,Hope Bancorp Inc
+HAFC,HAFC UW Equity,Hanmi Financial Corp
+MCF,MCF UA Equity,Contango Oil & Gas Co
+ATRS,ATRS UR Equity,Antares Pharma Inc
+STRA,STRA UW Equity,Strategic Education Inc
+MASI,MASI UW Equity,Masimo Corp
+HIBB,HIBB UW Equity,Hibbett Sports Inc
+RASFQ,RASFQ UN Equity,RAIT Financial Trust
+CHMA,CHMA UW Equity,Chiasma Inc
+NCI,NCI UN Equity,Navigant Consulting Inc
+AMSF,AMSF UW Equity,AMERISAFE Inc
+MFA,MFA UN Equity,MFA Financial Inc
+TGI,TGI UN Equity,Triumph Group Inc
+FOGO,FOGO UW Equity,Fogo De Chao Inc
+MB,MB UQ Equity,MINDBODY Inc
+UNFI,UNFI UW Equity,United Natural Foods Inc
+HLX,HLX UN Equity,Helix Energy Solutions Group Inc
+WTFC,WTFC UW Equity,Wintrust Financial Corp
+FORR,FORR UW Equity,Forrester Research Inc
+VSAT,VSAT UW Equity,Viasat Inc
+LAD,LAD UN Equity,Lithia Motors Inc
+OLLI,OLLI UQ Equity,Ollie's Bargain Outlet Holdings Inc
+RSTI,RSTI UW Equity,Rofin-Sinar Technologies Inc
+KRC,KRC UN Equity,Kilroy Realty Corp
+DEL,DEL UN Equity,Deltic Timber Corp
+SKYW,SKYW UW Equity,SkyWest Inc
+EPIQ,EPIQ UW Equity,Epiq Systems Inc
+SPTN,SPTN UW Equity,SpartanNash Co
+UMPQ,UMPQ UW Equity,Umpqua Holdings Corp
+CXW,CXW UN Equity,CoreCivic Inc
+OSIS,OSIS UW Equity,OSI Systems Inc
+OZK,OZK UW Equity,Bank OZK
+NGVC,NGVC UN Equity,Natural Grocers by Vitamin Cottage Inc
+JBLU,JBLU UW Equity,JetBlue Airways Corp
+FIX,FIX UN Equity,Comfort Systems USA Inc
+FARO,FARO UW Equity,FARO Technologies Inc
+EPR,EPR UN Equity,EPR Properties
+AMCX,AMCX UW Equity,AMC Networks Inc
+SAVE,SAVE UW Equity,Spirit Airlines Inc
+PETS,PETS UW Equity,PetMed Express Inc
+POWI,POWI UW Equity,Power Integrations Inc
+HI,HI UN Equity,Hillenbrand Inc
+DRQ,DRQ UN Equity,Dril-Quip Inc
+SFL,SFL UN Equity,SFL Corp Ltd
+KOS,KOS UN Equity,Kosmos Energy Ltd
+MKSI,MKSI UW Equity,MKS Instruments Inc
+INGR,INGR UN Equity,Ingredion Inc
+AT,AT UN Equity,Atlantic Power Corp
+SRDX,SRDX UW Equity,Surmodics Inc
+MANH,MANH UW Equity,Manhattan Associates Inc
+NM,NM UN Equity,Navios Maritime Holdings Inc
+BRKL,BRKL UW Equity,Brookline Bancorp Inc
+GOGO,GOGO UW Equity,Gogo Inc
+AMSG,AMSG UW Equity,Amsurg Corp
+9999998D,9999998D UN Equity,Seadrill Ltd/old
+CPA,CPA UN Equity,Copa Holdings SA
+LHO,LHO UN Equity,LaSalle Hotel Properties
+XAN,XAN UN Equity,Exantas Capital Corp
+HSII,HSII UW Equity,Heidrick & Struggles International Inc
+DHT,DHT UN Equity,DHT Holdings Inc
+HZO,HZO UN Equity,MarineMax Inc
+FNFG,FNFG UW Equity,First Niagara Financial Group Inc
+KFY,KFY UN Equity,Korn Ferry
+PVTB,PVTB UW Equity,PrivateBancorp Inc
+SKX,SKX UN Equity,Skechers USA Inc
+CYS,CYS UN Equity,CYS Investments Inc
+CEB,CEB UN Equity,CEB Inc
+GPT,GPT UN Equity,Gramercy Property Trust
+MDCO,MDCO UW Equity,Medicines Co/The
+CRI,CRI UN Equity,Carter's Inc
+EPAY,EPAY UW Equity,Bottomline Technologies DE Inc
+CIM,CIM UN Equity,Chimera Investment Corp
+DHC,DHC UN Equity,Diversified Healthcare Trust
+EWBC,EWBC UW Equity,East West Bancorp Inc
+JCOM,JCOM UW Equity,J2 Global Inc
+TGH,TGH UN Equity,Textainer Group Holdings Ltd
+STMP,STMP UW Equity,Stamps.com Inc
+UNTD,UNTD UW Equity,United Online Inc
+HTS,HTS UN Equity,Hatteras Financial Corp
+UCBI,UCBI UW Equity,United Community Banks Inc/GA
+ECPG,ECPG UW Equity,Encore Capital Group Inc
+CIR,CIR UN Equity,CIRCOR International Inc
+NTRI,NTRI UW Equity,Nutrisystem Inc
+VVC,VVC UN Equity,Vectren Corp
+RGP,RGP UW Equity,Resources Connection Inc
+SB,SB UN Equity,Safe Bulkers Inc
+LPI,LPI UN Equity,Laredo Petroleum Inc
+CVLT,CVLT UW Equity,CommVault Systems Inc
+ACM,ACM UN Equity,AECOM
+AVAV,AVAV UW Equity,AeroVironment Inc
+CLMS,CLMS UW Equity,Calamos Asset Management Inc
+DTSI,DTSI UW Equity,DTS Inc/CA
+STWD,STWD UN Equity,Starwood Property Trust Inc
+FNGN,FNGN UW Equity,Financial Engines Inc
+GHL,GHL UN Equity,Greenhill & Co Inc
+ININ,ININ UW Equity,Interactive Intelligence Group Inc
+1627503D,1627503D UN Equity,Colony Capital Inc/Old
+ARI,ARI UN Equity,Apollo Commercial Real Estate Finance In
+NTUS,NTUS UW Equity,Natus Medical Inc
+INVN,INVN UN Equity,InvenSense Inc
+NTCT,NTCT UW Equity,NetScout Systems Inc
+PRFT,PRFT UW Equity,Perficient Inc
+SYNA,SYNA UW Equity,Synaptics Inc
+STNG,STNG UN Equity,Scorpio Tankers Inc
+UTHR,UTHR UW Equity,United Therapeutics Corp
+WCG,WCG UN Equity,WellCare Health Plans Inc
+NILE,NILE UW Equity,Blue Nile Inc
+TDY,TDY UN Equity,Teledyne Technologies Inc
+DKS,DKS UN Equity,Dick's Sporting Goods Inc
+MANT,MANT UW Equity,ManTech International Corp/VA
+BWLD,BWLD UW Equity,Buffalo Wild Wings Inc
+XOXO,XOXO UN Equity,XO Group Inc
+ENDP,ENDP UW Equity,Endo International PLC
+CCMP,CCMP UW Equity,CMC Materials Inc
+OMCL,OMCL UW Equity,Omnicell Inc
+ITGR,ITGR UN Equity,Integer Holdings Corp
+PNFP,PNFP UW Equity,Pinnacle Financial Partners Inc
+TTMI,TTMI UW Equity,TTM Technologies Inc
+NOG,NOG UA Equity,Northern Oil and Gas Inc
+MITT,MITT UN Equity,AG Mortgage Investment Trust Inc
+NTGR,NTGR UW Equity,NETGEAR Inc
+BHR,BHR UN Equity,Braemar Hotels & Resorts Inc
+RUTH,RUTH UW Equity,Ruth's Hospitality Group Inc
+BKMU,BKMU UW Equity,Bank Mutual Corp
+UTI,UTI UN Equity,Universal Technical Institute Inc
+CPLA,CPLA UW Equity,Capella Education Co
+9876450D,9876450D UN Equity,Bonanza Creek Energy Inc
+SNX,SNX UN Equity,SYNNEX Corp
+ALGN,ALGN UW Equity,Align Technology Inc
+CVGW,CVGW UW Equity,Calavo Growers Inc
+CPRI,CPRI UN Equity,Capri Holdings Ltd
+FSP,FSP UA Equity,Franklin Street Properties Corp
+AYI,AYI UN Equity,Acuity Brands Inc
+FCB,FCB UN Equity,FCB Financial Holdings Inc
+CCRN,CCRN UW Equity,Cross Country Healthcare Inc
+AMN,AMN UN Equity,AMN Healthcare Services Inc
+CPSI,CPSI UW Equity,Computer Programs and Systems Inc
+NSR,NSR UN Equity,NeuStar Inc
+LKQ,LKQ UW Equity,LKQ Corp
+BSIG,BSIG UN Equity,Brightsphere Investment Group Inc
+KND,KND UN Equity,Kindred Healthcare LLC
+SNCR,SNCR UW Equity,Synchronoss Technologies Inc
+1850925D,1850925D UW Equity,VCA Inc
+BGFV,BGFV UW Equity,Big 5 Sporting Goods Corp
+1752683D,1752683D UW Equity,First Connecticut Bancorp Inc/Farmington
+NUVA,NUVA UW Equity,NuVasive Inc
+ORIT,ORIT UW Equity,Oritani Financial Corp
+CMP,CMP UN Equity,Compass Minerals International Inc
+ENS,ENS UN Equity,EnerSys
+CEVA,CEVA UW Equity,CEVA Inc
+ASB,ASB UN Equity,Associated Banc-Corp
+SAFT,SAFT UW Equity,Safety Insurance Group Inc
+RRGB,RRGB UW Equity,Red Robin Gourmet Burgers Inc
+NPO,NPO UN Equity,EnPro Industries Inc
+PFS,PFS UN Equity,Provident Financial Services Inc
+VIA,VIA UW Equity,Viacom Inc
+PRAA,PRAA UW Equity,PRA Group Inc
+IPCC,IPCC UW Equity,Infinity Property and Casualty Corp
+KDNY,KDNY UW Equity,Chinook Therapeutics Inc
+AHL,AHL UN Equity,Aspen Insurance Holdings Ltd
+MOH,MOH UN Equity,Molina Healthcare Inc
+SBNY,SBNY UW Equity,Signature Bank/New York NY
+VRTU,VRTU UW Equity,Virtusa Corp
+TXRH,TXRH UW Equity,Texas Roadhouse Inc
+EXR,EXR UN Equity,Extra Space Storage Inc
+MPW,MPW UN Equity,Medical Properties Trust Inc
+DRH,DRH UN Equity,DiamondRock Hospitality Co
+VWR,VWR UW Equity,VWR Corp
+NP,NP UN Equity,Neenah Inc
+MPWR,MPWR UW Equity,Monolithic Power Systems Inc
+W,W UN Equity,Wayfair Inc
+BDC,BDC UN Equity,Belden Inc
+DWA,DWA UW Equity,DreamWorks Animation LLC
+AACH,AACH UN Equity,AAC Holdings Inc
+HAYN,HAYN UW Equity,Haynes International Inc
+LQDT,LQDT UW Equity,Liquidity Services Inc
+UE,UE UN Equity,Urban Edge Properties
+NWE,NWE UN Equity,NorthWestern Corp
+PBH,PBH UN Equity,Prestige Consumer Healthcare Inc
+KOP,KOP UN Equity,Koppers Holdings Inc
+WEX,WEX UN Equity,WEX Inc
+LHCG,LHCG UW Equity,LHC Group Inc
+PAY,PAY UN Equity,VeriFone Systems Inc
+ZUMZ,ZUMZ UW Equity,Zumiez Inc
+KS,KS UN Equity,KapStone Paper and Packaging Corp
+EBS,EBS UN Equity,Emergent BioSolutions Inc
+UAA,UAA UN Equity,Under Armour Inc
+EHTH,EHTH UW Equity,eHealth Inc
+ALGT,ALGT UW Equity,Allegiant Travel Co
+KALU,KALU UW Equity,Kaiser Aluminum Corp
+LOGM,LOGM UW Equity,LogMeIn Inc
+SMCI,SMCI UW Equity,Super Micro Computer Inc
+IBKR,IBKR UW Equity,Interactive Brokers Group Inc
+EIG,EIG UN Equity,Employers Holdings Inc
+IQNT,IQNT UW Equity,Inteliquent Inc
+TYPE,TYPE UW Equity,Monotype Imaging Holdings Inc
+LL,LL UN Equity,Lumber Liquidators Holdings Inc
+ORN,ORN UN Equity,Orion Group Holdings Inc
+ENSG,ENSG UW Equity,Ensign Group Inc/The
+PMC,PMC UN Equity,PharMerica Corp
+AREXQ,AREXQ UW Equity,Approach Resources Inc
+UHAL,UHAL UW Equity,AMERCO
+APEI,APEI UW Equity,American Public Education Inc
+JBT,JBT UN Equity,John Bean Technologies Corp
+HSNI,HSNI UW Equity,HSN Inc
+NX,NX UN Equity,Quanex Building Products Corp
+IPI,IPI UN Equity,Intrepid Potash Inc
+FAF,FAF UN Equity,First American Financial Corp
+ENTA,ENTA UW Equity,Enanta Pharmaceuticals Inc
+CLW,CLW UN Equity,Clearwater Paper Corp
+WSTC,WSTC UW Equity,Intrado Corp
+KRA,KRA UN Equity,Kraton Corp
+CWEI,CWEI UN Equity,Clayton Williams Energy Inc
+FBHS,FBHS UN Equity,Fortune Brands Home & Security Inc
+INOV,INOV UW Equity,Inovalon Holdings Inc
+LMOS,LMOS UW Equity,Lumos Networks Corp
+NVTA,NVTA UN Equity,Invitae Corp
+NRC,NRC UW Equity,National Research Corp
+TSE,TSE UN Equity,Trinseo SA
+NLS,NLS UN Equity,Nautilus Inc
+DFRG,DFRG UW Equity,Del Frisco's Restaurant Group Inc
+SIEN,SIEN UW Equity,Sientra Inc
+GLAE,GLAE UN Equity,GlassBridge Enterprises Inc
+CPF,CPF UN Equity,Central Pacific Financial Corp
+ELLI,ELLI UN Equity,Ellie Mae Inc
+CACB,CACB UR Equity,Cascade Bancorp
+WNC,WNC UN Equity,Wabash National Corp
+AROW,AROW UW Equity,Arrow Financial Corp
+YRCW,YRCW UW Equity,YRC Worldwide Inc
+PAYC,PAYC UN Equity,Paycom Software Inc
+FBC,FBC UN Equity,Flagstar Bancorp Inc
+GBT,GBT UW Equity,Global Blood Therapeutics Inc
+ECOL,ECOL UN Equity,US Ecology Inc
+AXLL,AXLL UN Equity,Axiall Corp
+HOV,HOV UN Equity,Hovnanian Enterprises Inc
+ACLS,ACLS UW Equity,Axcelis Technologies Inc
+BSET,BSET UW Equity,Bassett Furniture Industries Inc
+1523873D,1523873D UN Equity,BBX Capital Corp /Old
+STRP,STRP UA Equity,Straight Path Communications Inc
+COB,COB UR Equity,CommunityOne Bancorp
+1811934D,1811934D UN Equity,Media General Inc
+MRD,MRD UW Equity,Range Resources-Louisiana Inc
+PLAB,PLAB UW Equity,Photronics Inc
+NCOM,NCOM UW Equity,National Commerce Corp
+ETM,ETM UN Equity,Entercom Communications Corp
+FSAM,FSAM UW Equity,Fifth Street Asset Management Inc
+OMN,OMN UN Equity,OMNOVA Solutions Inc
+MIC,MIC UN Equity,Macquarie Infrastructure Corp
+ASEI,ASEI UW Equity,American Science and Engineering Inc
+CACQ,CACQ UW Equity,Caesars Acquisition Co
+MDCA,MDCA UW Equity,MDC Partners Inc
+CI,CI UN Equity,Cigna Corp
+TESO,TESO UW Equity,Tesco Corp
+CETV,CETV UW Equity,Central European Media Enterprises Ltd
+CWCO,CWCO UW Equity,Consolidated Water Co Ltd
+GOGL,GOGL UW Equity,Golden Ocean Group Ltd
+BRSS,BRSS UN Equity,Global Brass and Copper Holdings Inc
+IOSP,IOSP UW Equity,Innospec Inc
+PGEM,PGEM UN Equity,Ply Gem Holdings Inc
+ECOM,ECOM UN Equity,ChannelAdvisor Corp
+GLNG,GLNG UW Equity,Golar LNG Ltd
+LUMO,LUMO UQ Equity,Lumos Pharma Inc
+DWRE,DWRE UN Equity,Demandware LLC
+ZAIS,ZAIS UR Equity,ZAIS Group Holdings Inc
+AOSL,AOSL UW Equity,Alpha & Omega Semiconductor Ltd
+MTSI,MTSI UW Equity,MACOM Technology Solutions Holdings Inc
+CLVS,CLVS UW Equity,Clovis Oncology Inc
+MFRM,MFRM UW Equity,Mattress Firm Holding Corp
+CCO,CCO UN Equity,Clear Channel Outdoor Holdings Inc
+TAT,TAT UA Equity,TransAtlantic Petroleum Ltd
+NAVB,NAVB UA Equity,Navidea Biopharmaceuticals Inc
+COHR,COHR UW Equity,Coherent Inc
+HLI,HLI UN Equity,Houlihan Lokey Inc
+ABEO,ABEO UR Equity,Abeona Therapeutics Inc
+JIVE,JIVE UW Equity,Jive Software Inc
+BZH,BZH UN Equity,Beazer Homes USA Inc
+HCCI,HCCI UW Equity,Heritage-Crystal Clean Inc
+WETF,WETF UW Equity,WisdomTree Investments Inc
+CSII,CSII UW Equity,Cardiovascular Systems Inc
+HRTX,HRTX UR Equity,Heron Therapeutics Inc
+SGNT,SGNT UW Equity,Sagent Pharmaceuticals Inc
+9895420D,9895420D UW Equity,Angie's List Inc
+GLT,GLT UN Equity,Glatfelter Corp
+ICPT,ICPT UW Equity,Intercept Pharmaceuticals Inc
+1745597D,1745597D UW Equity,Tesla Energy Operations Inc/DE
+NADLQ,NADLQ UN Equity,North Atlantic Drilling Ltd
+ASTE,ASTE UW Equity,Astec Industries Inc
+XONE,XONE UW Equity,ExOne Co/The
+PTLA,PTLA UW Equity,Portola Pharmaceuticals Inc
+KEYS,KEYS UN Equity,Keysight Technologies Inc
+PHIKQ,PHIKQ UW Equity,PHI Inc
+AVNS,AVNS UN Equity,Avanos Medical Inc
+IBTX,IBTX UW Equity,Independent Bank Group Inc
+KE,KE UW Equity,Kimball Electronics Inc
+PEGI,PEGI UW Equity,Pattern Energy Group Inc
+SRPT,SRPT UW Equity,Sarepta Therapeutics Inc
+CECE,CECE UW Equity,CECO Environmental Corp
+BOOT,BOOT UN Equity,Boot Barn Holdings Inc
+CASH,CASH UW Equity,Meta Financial Group Inc
+IOVA,IOVA UQ Equity,Iovance Biotherapeutics Inc
+TRU,TRU UN Equity,TransUnion
+MLAB,MLAB UW Equity,Mesa Laboratories Inc
+MCRN,MCRN UN Equity,Milacron Holdings Corp
+REIS,REIS UW Equity,Reis Inc
+SNAK,SNAK UW Equity,Inventure Foods Inc
+IMBI,IMBI UW Equity,iMedia Brands Inc
+GNRT,GNRT UN Equity,Gener8 Maritime Inc
+BREW,BREW UW Equity,Craft Brew Alliance Inc
+ORBC,ORBC UW Equity,ORBCOMM Inc
+UTMD,UTMD UW Equity,Utah Medical Products Inc
+ADUS,ADUS UW Equity,Addus HomeCare Corp
+TREE,TREE UW Equity,LendingTree Inc
+FRG,FRG UW Equity,Franchise Group Inc
+TTPH,TTPH UW Equity,Tetraphase Pharmaceuticals Inc
+NWLI,NWLI UW Equity,National Western Life Group Inc
+FPRX,FPRX UW Equity,Five Prime Therapeutics Inc
+SGRY,SGRY UW Equity,Surgery Partners Inc
+PFGC,PFGC UN Equity,Performance Food Group Co
+SPB,SPB UN Equity,Spectrum Brands Holdings Inc
+FBIZ,FBIZ UW Equity,First Business Financial Services Inc
+ENTL,ENTL UQ Equity,Entellus Medical Inc
+SLRX,SLRX UQ Equity,Salarius Pharmaceuticals Inc
+DRNA,DRNA UW Equity,Dicerna Pharmaceuticals Inc
+CUNB,CUNB UR Equity,CU Bancorp/Los Angeles CA
+OGS,OGS UN Equity,ONE Gas Inc
+SFR,SFR UN Equity,Starwood Waypoint Homes
+INSM,INSM UW Equity,Insmed Inc
+RARE,RARE UW Equity,Ultragenyx Pharmaceutical Inc
+MBUU,MBUU UQ Equity,Malibu Boats Inc
+NWHM,NWHM UN Equity,New Home Co Inc/The
+AMKR,AMKR UW Equity,Amkor Technology Inc
+TRUE,TRUE UW Equity,TrueCar Inc
+PDSB,PDSB UW Equity,PDS Biotechnology Corp
+Z,Z UW Equity,Zillow Group Inc
+EGHT,EGHT UW Equity,8x8 Inc
+MC,MC UN Equity,Moelis & Co
+RLGY,RLGY UN Equity,Realogy Holdings Corp
+OPB,OPB UW Equity,Opus Bank
+FLXS,FLXS UW Equity,Flexsteel Industries Inc
+HBNC,HBNC UW Equity,Horizon Bancorp Inc/IN
+PATK,PATK UW Equity,Patrick Industries Inc
+TRVN,TRVN UW Equity,Trevena Inc
+CARA,CARA UQ Equity,Cara Therapeutics Inc
+ITCI,ITCI UW Equity,Intra-Cellular Therapies Inc
+GWRE,GWRE UN Equity,Guidewire Software Inc
+TBRA,TBRA UR Equity,Tobira Therapeutics Inc
+ATRO,ATRO UW Equity,Astronics Corp
+DERM,DERM UW Equity,Dermira Inc
+FMSA,FMSA UN Equity,Fairmount Santrol Holdings Inc
+SSTK,SSTK UN Equity,Shutterstock Inc
+CJESQ,CJESQ UN Equity,C&J Energy Services Ltd/Old
+CBF,CBF UW Equity,Capital Bank Financial Corp
+NBHC,NBHC UN Equity,National Bank Holdings Corp
+OCX,OCX UA Equity,Oncocyte Corp
+MSM,MSM UN Equity,MSC Industrial Direct Co Inc
+WDAY,WDAY UN Equity,Workday Inc
+NVCR,NVCR UW Equity,Novocure Ltd
+ATW,ATW UN Equity,Atwood Oceanics Inc
+NEO,NEO UR Equity,NeoGenomics Inc
+CCP,CCP UN Equity,Care Capital Properties Inc
+QMCO,QMCO UN Equity,Quantum Corp
+GBLI,GBLI UW Equity,Global Indemnity Group LLC
+TROX,TROX UN Equity,Tronox Holdings PLC
+BCPC,BCPC UW Equity,Balchem Corp
+NYRT,NYRT UN Equity,New York REIT Liquidating LLC
+SWC,SWC UN Equity,Stillwater Mining Co
+AGIO,AGIO UW Equity,Agios Pharmaceuticals Inc
+ALLY,ALLY UN Equity,Ally Financial Inc
+AXP,AXP UN Equity,American Express Co
+BA,BA UN Equity,Boeing Co/The
+HPQ,HPQ UN Equity,HP Inc
+FC,FC UN Equity,Franklin Covey Co
+MCD,MCD UN Equity,McDonald's Corp
+TRV,TRV UN Equity,Travelers Cos Inc/The
+RTX,RTX UN Equity,Raytheon Technologies Corp
+AIG,AIG UN Equity,American International Group Inc
+ARG,ARG UN Equity,Airgas Inc
+FWMHQ,FWMHQ UQ Equity,Fairway Group Holdings Corp
+HES,HES UN Equity,Hess Corp
+ADM,ADM UN Equity,Archer-Daniels-Midland Co
+BAX,BAX UN Equity,Baxter International Inc
+BBY,BBY UN Equity,Best Buy Co Inc
+COG,COG UN Equity,Cabot Oil & Gas Corp
+CCL,CCL UN Equity,Carnival Corp
+9876566D,9876566D UN Equity,Chubb Corp/The
+CLF,CLF UN Equity,Cleveland-Cliffs Inc
+CCEP,CCEP UN Equity,Coca-Cola European Partners PLC
+GLW,GLW UN Equity,Corning Inc
+CMI,CMI UN Equity,Cummins Inc
+TGT,TGT UN Equity,Target Corp
+DE,DE UN Equity,Deere & Co
+EQT,EQT UN Equity,EQT Corp
+1831877D,1831877D UN Equity,XL Group Ltd
+FDX,FDX UN Equity,FedEx Corp
+LNTH,LNTH UQ Equity,Lantheus Holdings Inc
+BEN,BEN UN Equity,Franklin Resources Inc
+FCX,FCX UN Equity,Freeport-McMoRan Inc
+INTEQ,INTEQ UN Equity,Intelsat SA
+GPS,GPS UN Equity,Gap Inc/The
+GD,GD UN Equity,General Dynamics Corp
+HOG,HOG UN Equity,Harley-Davidson Inc
+HRL,HRL UN Equity,Hormel Foods Corp
+LNC,LNC UN Equity,Lincoln National Corp
+L,L UN Equity,Loews Corp
+LOW,LOW UN Equity,Lowe's Cos Inc
+NWL,NWL UN Equity,Newell Brands Inc
+TFCFA,TFCFA UW Equity,TFCF Corp
+HPE,HPE UN Equity,Hewlett Packard Enterprise Co
+PHM,PHM UN Equity,PulteGroup Inc
+PBI,PBI UN Equity,Pitney Bowes Inc
+PCL,PCL UN Equity,Plum Creek Timber Co Inc
+QTWO,QTWO UN Equity,Q2 Holdings Inc
+AKBA,AKBA UQ Equity,Akebia Therapeutics Inc
+PCP,PCP UN Equity,Precision Castparts Corp
+SLB,SLB UN Equity,Schlumberger NV
+TFC,TFC UN Equity,Truist Financial Corp
+SYY,SYY UN Equity,Sysco Corp
+TER,TER UN Equity,Teradyne Inc
+VNCE,VNCE UN Equity,Vince Holding Corp
+MRO,MRO UN Equity,Marathon Oil Corp
+WY,WY UN Equity,Weyerhaeuser Co
+TAP,TAP UN Equity,Molson Coors Beverage Co
+JWN,JWN UN Equity,Nordstrom Inc
+BBBY,BBBY UW Equity,Bed Bath & Beyond Inc
+CVC,CVC UN Equity,Cablevision Systems Corp
+ESRX,ESRX UW Equity,Evernorth Health Inc
+FISV,FISV UW Equity,Fiserv Inc
+FITB,FITB UW Equity,Fifth Third Bancorp
+AXDX,AXDX UR Equity,Accelerate Diagnostics Inc
+GILD,GILD UW Equity,Gilead Sciences Inc
+NBR,NBR UN Equity,Nabors Industries Ltd
+VRTS,VRTS UW Equity,Virtus Investment Partners Inc
+AN,AN UN Equity,AutoNation Inc
+NLOK,NLOK UW Equity,NortonLifeLock Inc
+VIAC,VIAC UN Equity,ViacomCBS Inc
+WFM,WFM UW Equity,Whole Foods Market Inc
+XRAY,XRAY UW Equity,DENTSPLY SIRONA Inc
+AAMC,AAMC UA Equity,Altisource Asset Management Corp
+INTU,INTU UW Equity,Intuit Inc
+MCHP,MCHP UW Equity,Microchip Technology Inc
+CB,CB UN Equity,Chubb Ltd
+NFX,NFX UN Equity,Ovintiv Exploration Inc
+CAM,CAM UN Equity,Cameron International Corp
+COF,COF UN Equity,Capital One Financial Corp
+SNDK,SNDK UW Equity,SanDisk LLC
+HIG,HIG UN Equity,Hartford Financial Services Group Inc/Th
+IRM,IRM UN Equity,Iron Mountain Inc
+PXD,PXD UN Equity,Pioneer Natural Resources Co
+LLL,LLL UN Equity,L3 Technologies Inc
+YUM,YUM UN Equity,Yum! Brands Inc
+VRSN,VRSN UW Equity,VeriSign Inc
+PWR,PWR UN Equity,Quanta Services Inc
+BRCM,BRCM UW Equity,Broadcom Corp
+BTUUQ,BTUUQ UN Equity,Peabody Energy Corp
+EBAY,EBAY UW Equity,eBay Inc
+FFIV,FFIV UW Equity,F5 Networks Inc
+QEP,QEP UN Equity,QEP Resources Inc
+NUAN,NUAN UW Equity,Nuance Communications Inc
+SBSI,SBSI UW Equity,Southside Bancshares Inc
+DVN,DVN UN Equity,Devon Energy Corp
+TWC,TWC UN Equity,Time Warner Cable Inc
+WINMQ,WINMQ UW Equity,Windstream Holdings Inc
+FLR,FLR UN Equity,Fluor Corp
+AMP,AMP UN Equity,Ameriprise Financial Inc
+KMX,KMX UN Equity,CarMax Inc
+ICE,ICE UN Equity,Intercontinental Exchange Inc
+CMG,CMG UN Equity,Chipotle Mexican Grill Inc
+POM,POM UN Equity,Pepco Holdings LLC
+AIZ,AIZ UN Equity,Assurant Inc
+RF,RF UN Equity,Regions Financial Corp
+WYND,WYND UN Equity,Wyndham Destinations Inc
+MJN,MJN UN Equity,Mead Johnson Nutrition Co
+DFS,DFS UN Equity,Discover Financial Services
+SNI,SNI UN Equity,Scripps Networks Interactive Inc
+BLMN,BLMN UW Equity,Bloomin' Brands Inc
+AFOP,AFOP UQ Equity,Alliance Fiber Optic Products Inc
+WWD,WWD UW Equity,Woodward Inc
+CAR,CAR UW Equity,Avis Budget Group Inc
+FRM,FRM UN Equity,Furmanite Corp
+VRNS,VRNS UW Equity,Varonis Systems Inc
+COLL,COLL UW Equity,Collegium Pharmaceutical Inc
+RM,RM UN Equity,Regional Management Corp
+AXAS,AXAS UR Equity,Abraxas Petroleum Corp
+BMTC,BMTC UW Equity,Bryn Mawr Bank Corp
+1396926D,1396926D UW Equity,Liberty Media Corp
+ARDX,ARDX UQ Equity,Ardelyx Inc
+ESTE,ESTE UA Equity,Earthstone Energy Inc
+BID,BID UN Equity,Sotheby's
+TGTX,TGTX UR Equity,TG Therapeutics Inc
+ONCE,ONCE UW Equity,Spark Therapeutics Inc
+CBPX,CBPX UN Equity,Continental Building Products Inc
+NHTC,NHTC UR Equity,Natural Health Trends Corp
+BXLT,BXLT UN Equity,Baxalta Inc
+BW,BW UN Equity,Babcock & Wilcox Enterprises Inc
+SIXD,SIXD US Equity,6D Global Technologies Inc
+TXMD,TXMD UA Equity,TherapeuticsMD Inc
+ICD,ICD UN Equity,Independence Contract Drilling Inc
+DGICA,DGICA UW Equity,Donegal Group Inc
+AST,AST UA Equity,Asterias Biotherapeutics Inc
+SPLK,SPLK UW Equity,Splunk Inc
+KING,KING UN Equity,King Digital Entertainment Ltd
+KITE,KITE UW Equity,Kite Pharma Inc
+FCEL,FCEL UQ Equity,FuelCell Energy Inc
+9999997D,9999997D UN Equity,Talos Petroleum LLC
+AGM,AGM UN Equity,Federal Agricultural Mortgage Corp
+FLIC,FLIC UR Equity,First of Long Island Corp/The
+PFPT,PFPT UQ Equity,Proofpoint Inc
+1566019D,1566019D UN Equity,ADT Security Corp/The
+ZIXI,ZIXI UW Equity,Zix Corp
+HUBS,HUBS UN Equity,HubSpot Inc
+MRTX,MRTX UR Equity,Mirati Therapeutics Inc
+NEOS,NEOS UQ Equity,Neos Therapeutics Inc
+NVIV,NVIV UQ Equity,InVivo Therapeutics Holdings Corp
+PE,PE UN Equity,Parsley Energy Inc
+AKS,AKS UN Equity,AK Steel Holding Corp
+SUNEQ,SUNEQ UN Equity,SunEdison Inc
+DPLO,DPLO UN Equity,Diplomat Pharmacy Inc
+QLGC,QLGC UW Equity,QLogic LLC
+MSFG,MSFG UW Equity,MainSource Financial Group Inc
+VALPQ,VALPQ UN Equity,Valaris plc
+KBH,KBH UN Equity,KB Home
+MBI,MBI UN Equity,MBIA Inc
+NBBC,NBBC UW Equity,NewBridge Bancorp
+WFTIQ,WFTIQ UN Equity,Weatherford International PLC
+CRWN,CRWN UW Equity,Crown Media Holdings Inc
+HDP,HDP UW Equity,Hortonworks Inc
+XLRN,XLRN UQ Equity,Acceleron Pharma Inc
+SNV,SNV UN Equity,Synovus Financial Corp
+NCR,NCR UN Equity,NCR Corp
+PMCS,PMCS UW Equity,Microsemi Storage Solutions Inc
+SANM,SANM UW Equity,Sanmina Corp
+PTSI,PTSI UQ Equity,PAM Transportation Services Inc
+ARGO,ARGO UW Equity,Argo Group International Holdings Ltd
+QDEL,QDEL UW Equity,Quidel Corp
+RENT,RENT UW Equity,Rentrak Corp
+HIVE,HIVE UN Equity,Aerohive Networks Inc
+SYBT,SYBT UW Equity,Stock Yards Bancorp Inc
+ACHC,ACHC UW Equity,Acadia Healthcare Co Inc
+CDMO,CDMO UR Equity,Avid Bioservices Inc
+THFF,THFF UW Equity,First Financial Corp/IN
+TISI,TISI UN Equity,Team Inc
+EBTC,EBTC UW Equity,Enterprise Bancorp Inc/MA
+HTBI,HTBI UW Equity,HomeTrust Bancshares Inc
+POZN,POZN UW Equity,POZEN Inc
+PSTB,PSTB UW Equity,Park Sterling Corp
+USAK,USAK UW Equity,USA Truck Inc
+HMST,HMST UW Equity,HomeStreet Inc
+WRE,WRE UN Equity,Washington Real Estate Investment Trust
+XPER,XPER UW Equity,Xperi Holding Corp
+NAVI,NAVI UW Equity,Navient Corp
+TKR,TKR UN Equity,Timken Co/The
+MXPT,MXPT US Equity,MaxPoint Interactive Inc
+1627457D,1627457D UN Equity,Pep Boys-Manny Moe & Jack/The
+IMPR,IMPR UN Equity,Imprivata Inc
+OTIC,OTIC UW Equity,Otonomy Inc
+PBPB,PBPB UW Equity,Potbelly Corp
+MXL,MXL UN Equity,MaxLinear Inc
+JAH,JAH UN Equity,Jarden Corp
+AGRX,AGRX UQ Equity,Agile Therapeutics Inc
+LECO,LECO UW Equity,Lincoln Electric Holdings Inc
+SNR,SNR UN Equity,New Senior Investment Group Inc
+GABC,GABC UW Equity,German American Bancorp Inc
+TUBE,TUBE UW Equity,TubeMogul Inc
+GPI,GPI UN Equity,Group 1 Automotive Inc
+SAGE,SAGE UQ Equity,Sage Therapeutics Inc
+GCO,GCO UN Equity,Genesco Inc
+CYNO,CYNO UW Equity,Cynosure LLC
+QTS,QTS UN Equity,QTS Realty Trust Inc
+SFXEQ,SFXEQ UW Equity,LiveStyle Inc
+SUI,SUI UN Equity,Sun Communities Inc
+EIGI,EIGI UW Equity,Endurance International Group Holdings I
+OKSB,OKSB UW Equity,Southwest Bancorp Inc
+FNFV,FNFV UN Equity,FNFV Group
+SSEIQ,SSEIQ UN Equity,Seventy Seven Energy Inc/Old
+PRE,PRE UN Equity,PartnerRe Ltd
+VOYA,VOYA UN Equity,Voya Financial Inc
+MTDR,MTDR UN Equity,Matador Resources Co
+SLCA,SLCA UN Equity,US Silica Holdings Inc
+VAC,VAC UN Equity,Marriott Vacations Worldwide Corp
+FCBC,FCBC UW Equity,First Community Bankshares Inc
+SHEN,SHEN UW Equity,Shenandoah Telecommunications Co
+BANC,BANC UN Equity,Banc of California Inc
+LADR,LADR UN Equity,Ladder Capital Corp
+NOW,NOW UN Equity,ServiceNow Inc
+UUUU,UUUU UA Equity,Energy Fuels Inc/Canada
+FR,FR UN Equity,First Industrial Realty Trust Inc
+PGC,PGC UW Equity,Peapack-Gladstone Financial Corp
+MTSN,MTSN UW Equity,Mattson Technology Inc
+METR,METR UW Equity,Metro Bancorp Inc
+CPE,CPE UN Equity,Callon Petroleum Co
+AMH,AMH UN Equity,American Homes 4 Rent
+LION,LION UW Equity,Fidelity Southern Corp
+RCAPQ,RCAPQ UN Equity,Aretec Group Inc
+KFRC,KFRC UW Equity,Kforce Inc
+OPK,OPK UN Equity,OPKO Health Inc
+CTIC,CTIC UR Equity,CTI BioPharma Corp
+OCFC,OCFC UW Equity,OceanFirst Financial Corp
+UNISQ,UNISQ UQ Equity,Unilife Corp
+TAHO,TAHO UN Equity,Tahoe Resources Inc
+USNA,USNA UN Equity,USANA Health Sciences Inc
+BUSE,BUSE UW Equity,First Busey Corp
+ELGXQ,ELGXQ UW Equity,Endologix Inc
+PAG,PAG UN Equity,Penske Automotive Group Inc
+CDRBQ,CDRBQ UR Equity,Code Rebel Corp
+CERS,CERS UQ Equity,Cerus Corp
+SEAC,SEAC UW Equity,SeaChange International Inc
+GWB,GWB UN Equity,Great Western Bancorp Inc
+FCPT,FCPT UN Equity,Four Corners Property Trust Inc
+TXTR,TXTR UN Equity,Textura Corp
+AAL,AAL UW Equity,American Airlines Group Inc
+1702253D,1702253D UW Equity,Towers Watson & Co
+GLPI,GLPI UW Equity,Gaming and Leisure Properties Inc
+LBAI,LBAI UW Equity,Lakeland Bancorp Inc
+SIRO,SIRO UW Equity,Sirona Dental Systems Inc
+AHH,AHH UN Equity,Armada Hoffler Properties Inc
+DGI,DGI UN Equity,DigitalGlobe Inc
+SAH,SAH UN Equity,Sonic Automotive Inc
+CLAR,CLAR UW Equity,Clarus Corp
+DYAX,DYAX UQ Equity,Dyax Corp
+CMLSQ,CMLSQ UW Equity,CM Wind Down Topco Inc
+BNCN,BNCN UR Equity,BNC Bancorp
+BEBE,BEBE UW Equity,bebe stores inc
+ARPI,ARPI UN Equity,American Residential Properties Inc
+TREX,TREX UN Equity,Trex Co Inc
+CSLT,CSLT UN Equity,Castlight Health Inc
+GIMO,GIMO UN Equity,Gigamon Inc
+POWR,POWR UN Equity,PowerSecure International Inc
+BBW,BBW UN Equity,Build-A-Bear Workshop Inc
+BRCD,BRCD UW Equity,Brocade Communications Systems LLC
+VHC,VHC UA Equity,VirnetX Holding Corp
+DRRX,DRRX UQ Equity,Durect Corp
+PFSW,PFSW UR Equity,PFSweb Inc
+BLT,BLT UN Equity,Blount International Inc
+ABG,ABG UN Equity,Asbury Automotive Group Inc
+H,H UN Equity,Hyatt Hotels Corp
+COTY,COTY UN Equity,Coty Inc
+TSYS,TSYS UW Equity,TeleCommunication Systems Inc
+RKUS,RKUS UN Equity,Ruckus Wireless Inc
+PCOA,PCOA UW Equity,Pendrell Corp
+YDKN,YDKN UN Equity,Yadkin Financial Corp
+MNKD,MNKD UQ Equity,MannKind Corp
+CHFN,CHFN UR Equity,Charter Financial Corp/MD
+MDAS,MDAS UW Equity,MedAssets Inc
+NNI,NNI UN Equity,Nelnet Inc
+GTS,GTS UN Equity,Triple-S Management Corp
+NPTN,NPTN UN Equity,NeoPhotonics Corp
+MODV,MODV UW Equity,ModivCare Inc
+SALT,SALT UN Equity,Scorpio Bulkers Inc
+FRME,FRME UW Equity,First Merchants Corp
+CSBK,CSBK UW Equity,Clifton Bancorp Inc
+TBPH,TBPH UQ Equity,Theravance Biopharma Inc
+CTRE,CTRE UW Equity,CareTrust REIT Inc
+CTCT,CTCT UW Equity,Constant Contact Inc
+NMBL,NMBL UN Equity,Nimble Storage Inc
+VA,VA UW Equity,Virgin America Inc
+FGEN,FGEN UW Equity,FibroGen Inc
+DPZ,DPZ UN Equity,Domino's Pizza Inc
+EAT,EAT UN Equity,Brinker International Inc
+CRS,CRS UN Equity,Carpenter Technology Corp
+CY,CY UW Equity,Cypress Semiconductor Corp
+HURN,HURN UW Equity,Huron Consulting Group Inc
+AGCO,AGCO UN Equity,AGCO Corp
+CRCQQ,CRCQQ UN Equity,California Resources Corp
+EBIX,EBIX UW Equity,Ebix Inc
+OCAT,OCAT UQ Equity,Ocata Therapeutics Inc
+SLH,SLH UN Equity,Solera Holdings Inc
+HNT,HNT UN Equity,Health Net Inc/Old
+SUM,SUM UN Equity,Summit Materials Inc
+ATML,ATML UW Equity,Atmel Corp
+VTAE,VTAE UQ Equity,Vitae Pharmaceuticals LLC
+AVT,AVT UN Equity,Avnet Inc
+EGN,EGN UN Equity,Energen Corp
+LNT,LNT UN Equity,Alliant Energy Corp
+CUBE,CUBE UN Equity,CubeSmart
+ABCW,ABCW UW Equity,Anchor BanCorp Wisconsin Inc
+UPLMQ,UPLMQ UN Equity,Ultra Petroleum Corp
+GMCR,GMCR UW Equity,Keurig Green Mountain Inc
+MAC,MAC UN Equity,Macerich Co/The
+RNR,RNR UN Equity,RenaissanceRe Holdings Ltd
+SIRI,SIRI UW Equity,Sirius XM Holdings Inc
+MLM,MLM UN Equity,Martin Marietta Materials Inc
+1719848D,1719848D UN Equity,Education Realty Trust Inc
+ADS,ADS UN Equity,Alliance Data Systems Corp
+DOC,DOC UN Equity,Physicians Realty Trust
+REXR,REXR UN Equity,Rexford Industrial Realty Inc
+SALE,SALE UW Equity,RetailMeNot Inc
+AXS,AXS UN Equity,Axis Capital Holdings Ltd
+DISCK,DISCK UW Equity,Discovery Inc
+JGWEQ,JGWEQ UN Equity,JG Wentworth Co/The
+LYB,LYB UN Equity,LyondellBasell Industries NV
+AVGO,AVGO UW Equity,Broadcom Inc
+QRTEA,QRTEA UW Equity,Qurate Retail Inc
+HTZGQ,HTZGQ UN Equity,Hertz Global Holdings Inc
+DG,DG UN Equity,Dollar General Corp
+HCA,HCA UN Equity,HCA Healthcare Inc
+PHH,PHH UN Equity,PHH Corp
+MDGL,MDGL UQ Equity,Madrigal Pharmaceuticals Inc
+WTM,WTM UN Equity,White Mountains Insurance Group Ltd
+AEO,AEO UN Equity,American Eagle Outfitters Inc
+DBI,DBI UN Equity,Designer Brands Inc
+SD,SD UN Equity,SandRidge Energy Inc
+OSK,OSK UN Equity,Oshkosh Corp
+STAR,STAR UN Equity,iStar Inc
+BOX,BOX UN Equity,Box Inc
+HBI,HBI UN Equity,Hanesbrands Inc
+RDN,RDN UN Equity,Radian Group Inc
+CHS,CHS UN Equity,Chico's FAS Inc
+AFSI,AFSI UW Equity,AmTrust Financial Services Inc
+RXDX,RXDX UR Equity,Ignyta Inc
+DENN,DENN UR Equity,Denny's Corp
+STOR,STOR UN Equity,STORE Capital Corp
+SRCI,SRCI UA Equity,SRC Energy Inc
+ISBC,ISBC UW Equity,Investors Bancorp Inc
+MUSA,MUSA UN Equity,Murphy USA Inc
+BDBD,BDBD UW Equity,Boulder Brands Inc
+ALDR,ALDR UQ Equity,Alder Biopharmaceuticals Inc
+OPWR,OPWR UN Equity,OPOWER Inc
+NVEE,NVEE UR Equity,NV5 Global Inc
+EXXIQ,EXXIQ UW Equity,Energy XXI Ltd
+IMPV,IMPV US Equity,Imperva Inc
+UEC,UEC UA Equity,Uranium Energy Corp
+EYES,EYES UR Equity,Second Sight Medical Products Inc
+AWHHF,AWHHF UN Equity,Allied World Assurance Co Holdings GmbH
+COWN,COWN UW Equity,Cowen Inc
+SYA,SYA UN Equity,Symetra Financial Corp
+TFM,TFM UW Equity,Fresh Market Inc/The
+SCMP,SCMP UQ Equity,Sucampo Pharmaceuticals Inc
+SPR,SPR UN Equity,Spirit AeroSystems Holdings Inc
+CLNE,CLNE UW Equity,Clean Energy Fuels Corp
+BNCL,BNCL UW Equity,Beneficial Bancorp Inc
+DHX,DHX UN Equity,DHI Group Inc
+NSM,NSM UN Equity,Nationstar Mortgage Holdings Inc
+PANW,PANW UN Equity,Palo Alto Networks Inc
+SBH,SBH UN Equity,Sally Beauty Holdings Inc
+BURL,BURL UN Equity,Burlington Stores Inc
+PACB,PACB UW Equity,Pacific Biosciences of California Inc
+ZINCQ,ZINCQ UW Equity,American Zinc Recycling LLC
+CAI,CAI UN Equity,CAI International Inc
+REI,REI UA Equity,Ring Energy Inc
+TNAV,TNAV UW Equity,Telenav Inc
+1655912D,1655912D UN Equity,SolarWinds North America Inc
+TSLA,TSLA UW Equity,Tesla Inc
+DFT,DFT UN Equity,DuPont Fabros Technology Inc
+TRGP,TRGP UN Equity,Targa Resources Corp
+MNKKQ,MNKKQ UN Equity,Mallinckrodt PLC
+CONE,CONE UW Equity,CyrusOne Inc
+LQ,LQ UN Equity,La Quinta Holdings Inc
+UDFI,UDFI UW Equity,United Development Funding IV
+HMHC,HMHC UW Equity,Houghton Mifflin Harcourt Co
+SLS,SLS UR Equity,SELLAS Life Sciences Group Inc
+LPLA,LPLA UW Equity,LPL Financial Holdings Inc
+CSH,CSH UN Equity,Cash America International Inc
+CNL,CNL UN Equity,Cleco Corporate Holdings LLC
+IPHI,IPHI UN Equity,Inphi Corp
+CW,CW UN Equity,Curtiss-Wright Corp
+DY,DY UN Equity,Dycom Industries Inc
+LEA,LEA UN Equity,Lear Corp
+JACK,JACK UW Equity,Jack in the Box Inc
+GATX,GATX UN Equity,GATX Corp
+CALX,CALX UN Equity,Calix Inc
+GGG,GGG UN Equity,Graco Inc
+AVNT,AVNT UN Equity,Avient Corp
+CRMD,CRMD UA Equity,CorMedix Inc
+CHTR,CHTR UW Equity,Charter Communications Inc
+SR,SR UN Equity,Spire Inc
+EXPR,EXPR UN Equity,Express Inc
+HPP,HPP UN Equity,Hudson Pacific Properties Inc
+RPXC,RPXC UW Equity,RPX Corp
+GDOT,GDOT UN Equity,Green Dot Corp
+FRANQ,FRANQ UW Equity,Francesca's Holdings Corp
+OASPQ,OASPQ UN Equity,Oasis Petroleum Inc
+RLD,RLD UN Equity,RealD Inc
+SJI,SJI UN Equity,South Jersey Industries Inc
+TRXC,TRXC UA Equity,TransEnterix Inc
+1448479D,1448479D UN Equity,Campus Crest Communities Inc
+FIT,FIT UN Equity,Fitbit Inc
+SUP,SUP UN Equity,Superior Industries International Inc
+TR,TR UN Equity,Tootsie Roll Industries Inc
+VRA,VRA UW Equity,Vera Bradley Inc
+TIME,TIME UN Equity,TI Gotham Inc
+GNCIQ,GNCIQ UN Equity,GNC Holdings Inc
+BOBE,BOBE UW Equity,Bob Evans Farms Inc/DE
+LNCE,LNCE UW Equity,Snyder's-Lance Inc
+MENT,MENT UW Equity,Mentor Graphics Corp
+PNRA,PNRA UW Equity,Panera Bread Co
+BHE,BHE UN Equity,Benchmark Electronics Inc
+KNX,KNX UN Equity,Knight-Swift Transportation Holdings Inc
+MYRG,MYRG UW Equity,MYR Group Inc
+VC,VC UN Equity,Visteon Corp
+CKP,CKP UN Equity,Checkpoint Systems Inc
+RLJ,RLJ UN Equity,RLJ Lodging Trust
+RATE,RATE UN Equity,Bankrate Inc
+MKTO,MKTO UW Equity,Marketo Inc
+FNB,FNB UN Equity,FNB Corp/PA
+FINL,FINL UW Equity,Finish Line Inc/The
+GNCMA,GNCMA UW Equity,GCI Liberty Inc/AK
+HNGR,HNGR UN Equity,Hanger Inc
+HMSY,HMSY UW Equity,HMS Holdings Corp
+HTLD,HTLD UW Equity,Heartland Express Inc
+IDTI,IDTI UW Equity,Integrated Device Technology Inc
+IO,IO UN Equity,ION Geophysical Corp
+LNN,LNN UN Equity,Lindsay Corp
+ADMS,ADMS UQ Equity,Adamas Pharmaceuticals Inc
+MSCC,MSCC UW Equity,Microsemi Corp
+NDSN,NDSN UW Equity,Nordson Corp
+NEWP,NEWP UW Equity,Newport Corp
+NNN,NNN UN Equity,National Retail Properties Inc
+NPBC,NPBC UW Equity,National Penn Bancshares Inc
+PDCE,PDCE UW Equity,PDC Energy Inc
+1850242D,1850242D UN Equity,EQT RE Merger Sub Inc
+PVAHQ,PVAHQ UN Equity,Penn Virginia Corp
+SONC,SONC UW Equity,Sonic Corp
+MW,MW UN Equity,Men's Wearhouse LLC/The
+RLYP,RLYP UW Equity,Relypsa Inc
+1558151D,1558151D UN Equity,Wausau Paper Corp
+LTC,LTC UN Equity,LTC Properties Inc
+WAC,WAC UN Equity,Ditech Holding Corp
+CKH,CKH UN Equity,SEACOR Holdings Inc
+BFIN,BFIN UW Equity,BankFinancial Corp
+PZZA,PZZA UW Equity,Papa John's International Inc
+FRO,FRO UN Equity,Frontline Ltd/Bermuda
+PLT,PLT UN Equity,Plantronics Inc
+CPRT,CPRT UW Equity,Copart Inc
+NSIT,NSIT UW Equity,Insight Enterprises Inc
+1396924D,1396924D UW Equity,Liberty Media Corp
+HLIT,HLIT UW Equity,Harmonic Inc
+RWT,RWT UN Equity,Redwood Trust Inc
+WAB,WAB UN Equity,Westinghouse Air Brake Technologies Corp
+LSI,LSI UN Equity,Life Storage Inc
+AFFX,AFFX UW Equity,Affymetrix Inc
+ANH,ANH UN Equity,Anworth Mortgage Asset Corp
+IM,IM UN Equity,Ingram Micro Inc
+HUBG,HUBG UW Equity,Hub Group Inc
+JAKK,JAKK UW Equity,JAKKS Pacific Inc
+ADC,ADC UN Equity,Agree Realty Corp
+PLCE,PLCE UW Equity,Children's Place Inc/The
+OVTI,OVTI UW Equity,OmniVision Technologies Inc
+BJRI,BJRI UW Equity,BJ's Restaurants Inc
+NSP,NSP UN Equity,Insperity Inc
+GPORQ,GPORQ UW Equity,Gulfport Energy Corp
+EQY,EQY UN Equity,Equity One Inc
+RJETQ,RJETQ UW Equity,Republic Airways Holdings Inc
+URI,URI UN Equity,United Rentals Inc
+UTIW,UTIW UW Equity,UTi Worldwide Inc
+MRCY,MRCY UW Equity,Mercury Systems Inc
+WDC,WDC UW Equity,Western Digital Corp
+9999900D,9999900D UN Equity,Waste Connections US Inc
+UAL,UAL UN Equity,United Airlines Holdings Inc
+DAL,DAL UN Equity,Delta Air Lines Inc
+ZNGA,ZNGA UW Equity,Zynga Inc
+SNBR,SNBR UW Equity,Sleep Number Corp
+KIRK,KIRK UW Equity,Kirkland's Inc
+CNC,CNC UN Equity,Centene Corp
+SSINQ,SSINQ UN Equity,Stage Stores Inc
+ARR,ARR UN Equity,ARMOUR Residential REIT Inc
+IRC,IRC UN Equity,IRC Retail Centers Inc
+SFG,SFG UN Equity,StanCorp Financial Group Inc
+TNK,TNK UN Equity,Teekay Tankers Ltd
+IVR,IVR UN Equity,Invesco Mortgage Capital Inc
+PMT,PMT UN Equity,PennyMac Mortgage Investment Trust
+TWO,TWO UN Equity,Two Harbors Investment Corp
+1859004D,1859004D UW Equity,ILG LLC
+HPY,HPY UN Equity,Heartland Payment Systems Inc
+GPN,GPN UN Equity,Global Payments Inc
+APTV,APTV UN Equity,Aptiv PLC
+SNECQ,SNECQ UN Equity,Mesquite Energy Inc
+SCOR,SCOR UW Equity,comScore Inc
+VSI,VSI UN Equity,Vitamin Shoppe Inc
+SPOK,SPOK UW Equity,Spok Holdings Inc
+EQIX,EQIX UW Equity,Equinix Inc
+PIPR,PIPR UN Equity,Piper Sandler Cos
+BGS,BGS UN Equity,B&G Foods Inc
+CAB,CAB UN Equity,Cabela's Inc
+ACC,ACC UN Equity,American Campus Communities Inc
+BMR,BMR UN Equity,BioMed Realty Trust Inc
+HOMB,HOMB UW Equity,Home BancShares Inc/AR
+DMND,DMND UW Equity,Diamond Foods Inc
+THS,THS UN Equity,TreeHouse Foods Inc
+IRBT,IRBT UW Equity,iRobot Corp
+CROX,CROX UW Equity,Crocs Inc
+NTLS,NTLS UW Equity,NTELOS Holdings Corp
+MSCI,MSCI UN Equity,MSCI Inc
+RAX,RAX UN Equity,Rackspace Technology Global Inc
+MRIN,MRIN UN Equity,Marin Software Inc
+CALA,CALA UW Equity,Calithera Biosciences Inc
+ZEN,ZEN UN Equity,Zendesk Inc
+9876567D,9876567D UW Equity,Pinnacle Entertainment Inc/Old
+HOFSQ,HOFSQ UN Equity,Hermitage Offshore Services Ltd
+LOXO,LOXO UQ Equity,Loxo Oncology Inc
+MOBL,MOBL UW Equity,MobileIron Inc
+IBCP,IBCP UW Equity,Independent Bank Corp/MI
+FOE,FOE UN Equity,Ferro Corp
+ONB,ONB UW Equity,Old National Bancorp/IN
+MTOR,MTOR UN Equity,Meritor Inc
+AY,AY UW Equity,Atlantica Sustainable Infrastructure PLC
+GSTCQ,GSTCQ UA Equity,Gastar Exploration Inc
+ULTRF,ULTRF UW Equity,Ultrapetrol Bahamas Ltd
+ALSN,ALSN UN Equity,Allison Transmission Holdings Inc
+AGNC,AGNC UW Equity,AGNC Investment Corp
+GRPN,GRPN UW Equity,Groupon Inc
+MTGE,MTGE UW Equity,MTGE Investment Corp
+UI,UI UW Equity,Ubiquiti Inc
+SGYPQ,SGYPQ UW Equity,Synergy Pharmaceuticals LLC
+EPZM,EPZM UW Equity,Epizyme Inc
+NWBO,NWBO UR Equity,Northwest Biotherapeutics Inc
+ACAD,ACAD UW Equity,ACADIA Pharmaceuticals Inc
+PIRRQ,PIRRQ UN Equity,Pier 1 Imports Inc
+DMRC,DMRC UW Equity,Digimarc Corp
+MLNTQ,MLNTQ UW Equity,Melinta Therapeutics Inc
+PRTA,PRTA UW Equity,Prothena Corp PLC
+AON,AON UN Equity,Aon PLC
+JMG,JMG UN Equity,Journal Media Group Inc
+HTA,HTA UN Equity,Healthcare Trust of America Inc
+1824551D,1824551D UN Equity,Alterra Mountain Co
+DTLK,DTLK UW Equity,Datalink Corp
+PPBI,PPBI UW Equity,Pacific Premier Bancorp Inc
+SRC,SRC UN Equity,Spirit Realty Capital Inc
+FANG,FANG UW Equity,Diamondback Energy Inc
+KKD,KKD UN Equity,Krispy Kreme Doughnuts Inc
+TPCO,TPCO UN Equity,Tribune Publishing Co
+BCRHF,BCRHF UN Equity,Blue Capital Reinsurance Holdings Ltd
+RETA,RETA UQ Equity,Reata Pharmaceuticals Inc
+VALU,VALU UR Equity,Value Line Inc
+CSTE,CSTE UW Equity,Caesarstone Ltd
+FCFP,FCFP UR Equity,First Community Financial Partners Inc
+DWSN,DWSN UW Equity,Dawson Geophysical Co
+MJCO,MJCO UA Equity,Majesco
+WFBI,WFBI UR Equity,WashingtonFirst Bankshares Inc
+CDXC,CDXC UR Equity,ChromaDex Corp
+WBT,WBT UN Equity,Welbilt Inc
+LPCN,LPCN UR Equity,Lipocine Inc
+GCP,GCP UN Equity,GCP Applied Technologies Inc
+FFWM,FFWM UQ Equity,First Foundation Inc
+ACBI,ACBI UW Equity,Atlantic Capital Bancshares Inc
+SNDX,SNDX UW Equity,Syndax Pharmaceuticals Inc
+OSG,OSG UN Equity,Overseas Shipholding Group Inc
+CFNB,CFNB UQ Equity,California First National Bancorp
+AMSC,AMSC UW Equity,American Superconductor Corp
+BOOM,BOOM UW Equity,DMC Global Inc
+RRR,RRR UW Equity,Red Rock Resorts Inc
+PNK,PNK UW Equity,Pinnacle Entertainment Inc
+STS,STS UA Equity,Supreme Industries Inc
+AFI,AFI UN Equity,Armstrong Flooring Inc
+ALJJ,ALJJ UQ Equity,ALJ Regional Holdings Inc
+AXGN,AXGN UR Equity,Axogen Inc
+STRS,STRS UW Equity,Stratus Properties Inc
+FRBK,FRBK UQ Equity,Republic First Bancorp Inc
+TIER,TIER UN Equity,Tier REIT Inc
+GENC,GENC UQ Equity,Gencor Industries Inc
+RCKT,RCKT UQ Equity,Rocket Pharmaceuticals Inc
+VBTX,VBTX UQ Equity,Veritex Holdings Inc
+FNWB,FNWB UQ Equity,First Northwest Bancorp
+AVGR,AVGR UQ Equity,Avinger Inc
+UFAB,UFAB UA Equity,Unique Fabricating Inc
+AMIC,AMIC UR Equity,AMIC Holdings Inc
+MEET,MEET UR Equity,Meet Group Inc/The
+EDIT,EDIT UW Equity,Editas Medicine Inc
+GWRS,GWRS UQ Equity,Global Water Resources Inc
+LAYN,LAYN UW Equity,Layne Christensen Co
+MBTF,MBTF UW Equity,MBT Financial Corp
+RIG,RIG UN Equity,Transocean Ltd
+HNNA,HNNA UR Equity,Hennessy Advisors Inc
+MITK,MITK UR Equity,Mitek Systems Inc
+MXWL,MXWL UW Equity,Maxwell Technologies Inc
+LSBG,LSBG UQ Equity,Lake Sunapee Bank Group
+NRIM,NRIM UW Equity,Northrim BanCorp Inc
+WKHS,WKHS UR Equity,Workhorse Group Inc
+INBK,INBK UR Equity,First Internet Bancorp
+QHCCQ,QHCCQ UN Equity,Quorum Health Corp
+LCNB,LCNB UR Equity,LCNB Corp
+DGAS,DGAS UW Equity,Delta Natural Gas Co Inc
+HBCP,HBCP UW Equity,Home Bancorp Inc
+INDT,INDT UQ Equity,Indus Realty Trust Inc
+FMNB,FMNB UR Equity,Farmers National Banc Corp
+SYN,SYN UA Equity,Synthetic Biologics Inc
+TTNP,TTNP UR Equity,Titan Pharmaceuticals Inc
+WATT,WATT UR Equity,Energous Corp
+HRI,HRI UN Equity,Herc Holdings Inc
+LUB,LUB UN Equity,Luby's Inc
+UCP,UCP UN Equity,UCP Inc
+PVBC,PVBC UR Equity,Provident Bancorp Inc
+CNTY,CNTY UR Equity,Century Casinos Inc
+YMTX,YMTX UQ Equity,Yumanity Therapeutics Inc
+AVXS,AVXS UW Equity,AveXis Inc
+UFPT,UFPT UR Equity,UFP Technologies Inc
+TACO,TACO UR Equity,Del Taco Restaurants Inc
+EXA,EXA UQ Equity,Exa Corp
+SMBC,SMBC UQ Equity,Southern Missouri Bancorp Inc
+FLNT,FLNT UA Equity,Fluent Inc
+HDNG,HDNG UW Equity,Hardinge Inc
+EGLTQ,EGLTQ UQ Equity,Zyla Life Sciences
+USAT,USAT UQ Equity,USA Technologies Inc
+YCB,YCB UR Equity,Your Community Bankshares Inc
+ACNB,ACNB UR Equity,ACNB Corp
+IRIX,IRIX UQ Equity,IRIDEX Corp
+PFBI,PFBI UQ Equity,Premier Financial Bancorp Inc
+FBIO,FBIO UR Equity,Fortress Biotech Inc
+CVLY,CVLY UQ Equity,Codorus Valley Bancorp Inc
+GLYC,GLYC UQ Equity,GlycoMimetics Inc
+ARGSQ,ARGSQ UQ Equity,Argos Therapeutics Inc
+CARO,CARO UR Equity,Carolina Financial Corp
+NERV,NERV UQ Equity,Minerva Neurosciences Inc
+WGRP,WGRP UN Equity,Willbros Group Inc
+PROV,PROV UW Equity,Provident Financial Holdings Inc
+WLFC,WLFC UQ Equity,Willis Lease Finance Corp
+CVCY,CVCY UR Equity,Central Valley Community Bancorp
+ORRF,ORRF UR Equity,Orrstown Financial Services Inc
+SHBI,SHBI UW Equity,Shore Bancshares Inc
+TPHS,TPHS UA Equity,Trinity Place Holdings Inc
+SENS,SENS UA Equity,Senseonics Holdings Inc
+MBRG,MBRG UR Equity,Middleburg Financial Corp
+CFFI,CFFI UW Equity,C&F Financial Corp
+RLH,RLH UN Equity,Red Lion Hotels Corp
+MCBC,MCBC UW Equity,Macatawa Bank Corp
+SRG,SRG UN Equity,Seritage Growth Properties
+GCBC,GCBC UR Equity,Greene County Bancorp Inc
+SMMF,SMMF UR Equity,Summit Financial Group Inc
+TEAM,TEAM UW Equity,Atlassian Corp PLC
+ICBK,ICBK UQ Equity,County Bancorp Inc
+UA,UA UN Equity,Under Armour Inc
+GDEN,GDEN UQ Equity,Golden Entertainment Inc
+HZNP,HZNP UW Equity,Horizon Therapeutics Plc
+SALM,SALM UQ Equity,Salem Media Group Inc
+PMBC,PMBC UW Equity,Pacific Mercantile Bancorp
+SFST,SFST UQ Equity,Southern First Bancshares Inc
+LIND,LIND UR Equity,Lindblad Expeditions Holdings Inc
+UNB,UNB UQ Equity,Union Bankshares Inc/Morrisville VT
+AGFS,AGFS UW Equity,AgroFresh Solutions Inc
+GAIA,GAIA UQ Equity,Gaia Inc
+MFSF,MFSF UQ Equity,MutualFirst Financial Inc
+DLA,DLA UA Equity,Delta Apparel Inc
+CHCT,CHCT UN Equity,Community Healthcare Trust Inc
+WVE,WVE UQ Equity,WaVe Life Sciences Ltd
+NTLA,NTLA UQ Equity,Intellia Therapeutics Inc
+NIHD,NIHD UW Equity,NII Holdings Inc
+WNEB,WNEB UW Equity,Western New England Bancorp Inc
+CDXS,CDXS UW Equity,Codexis Inc
+BPTH,BPTH UR Equity,Bio-Path Holdings Inc
+RUSHB,RUSHB UW Equity,Rush Enterprises Inc
+AMPE,AMPE UA Equity,Ampio Pharmaceuticals Inc
+NGVT,NGVT UN Equity,Ingevity Corp
+ACIA,ACIA UW Equity,Acacia Communications Inc
+AQMS,AQMS UR Equity,Aqua Metals Inc
+MNOV,MNOV UQ Equity,MediciNova Inc
+SIFI,SIFI UQ Equity,SI Financial Group Inc
+1556442D,1556442D UA Equity,GigPeak Inc
+CPXX,CPXX UR Equity,Celator Pharmaceuticals Inc
+ALT,ALT UA Equity,Altimmune Inc
+USMD,USMD UR Equity,USMD Holdings Inc
+TPB,TPB UN Equity,Turning Point Brands Inc
+NCBS,NCBS UR Equity,Nicolet Bankshares Inc
+SONA,SONA UQ Equity,Southern National Bancorp of Virginia In
+FMBH,FMBH UQ Equity,First Mid Bancshares Inc
+AP,AP UN Equity,Ampco-Pittsburgh Corp
+IESC,IESC UQ Equity,IES Holdings Inc
+UONEK,UONEK UR Equity,Urban One Inc
+FBRC,FBRC UW Equity,FBR & Co
+III,III UQ Equity,Information Services Group Inc
+COOP,COOP UR Equity,Mr Cooper Group Inc
+ATHX,ATHX UR Equity,Athersys Inc
+ESSA,ESSA UW Equity,ESSA Bancorp Inc
+LFVN,LFVN UR Equity,Lifevantage Corp
+BATRA,BATRA UW Equity,Liberty Media Corp-Liberty Braves
+BATRK,BATRK UW Equity,Liberty Media Corp-Liberty Braves
+LSXMA,LSXMA UW Equity,Liberty Media Corp-Liberty SiriusXM
+LSXMK,LSXMK UW Equity,Liberty Media Corp-Liberty SiriusXM
+FWONA,FWONA UW Equity,Liberty Media Corp-Liberty Formula One
+FWONK,FWONK UW Equity,Liberty Media Corp-Liberty Formula One
+SAMG,SAMG UQ Equity,Silvercrest Asset Management Group Inc
+SITE,SITE UN Equity,SiteOne Landscape Supply Inc
+FFNW,FFNW UW Equity,First Financial Northwest Inc
+ERII,ERII UW Equity,Energy Recovery Inc
+RST,RST UN Equity,Rosetta Stone Inc
+ACRX,ACRX UQ Equity,AcelRx Pharmaceuticals Inc
+AXSM,AXSM UR Equity,Axsome Therapeutics Inc
+9998522D,9998522D UQ Equity,Primo Water Operations Inc
+CSWI,CSWI UW Equity,CSW Industrials Inc
+PJT,PJT UN Equity,PJT Partners Inc
+RILY,RILY UR Equity,B Riley Financial Inc
+ENZ,ENZ UN Equity,Enzo Biochem Inc
+ESIO,ESIO UW Equity,Electro Scientific Industries Inc
+CRVS,CRVS UQ Equity,Corvus Pharmaceuticals Inc
+BWFG,BWFG UQ Equity,Bankwell Financial Group Inc
+PLPM,PLPM UR Equity,Planet Payment Inc
+SHYF,SHYF UW Equity,Shyft Group Inc/The
+GEF/B,GEF/B UN Equity,Greif Inc
+PYXSQ,PYXSQ UN Equity,Old Holdco Inc
+RSYS,RSYS UW Equity,Radisys Corp
+NCIT,NCIT UW Equity,NCI Inc
+CMRE,CMRE UN Equity,Costamare Inc
+CIO,CIO UN Equity,City Office REIT Inc
+NAME,NAME UW Equity,Rightside Group Ltd
+MN,MN UN Equity,Manning & Napier Inc
+FPI,FPI UN Equity,Farmland Partners Inc
+OLBK,OLBK UR Equity,Old Line Bancshares Inc
+1580477D,1580477D UN Equity,Higher One Holdings Inc
+SSRG,SSRG UQ Equity,Symmetry Surgical Inc
+CIX,CIX UA Equity,CompX International Inc
+WINSF,WINSF UR Equity,Wins Finance Holdings Inc
+GSOL,GSOL UW Equity,Global Sources Ltd
+GORO,GORO UA Equity,Gold Resource Corp
+TLRDQ,TLRDQ UN Equity,Tailored Brands Inc
+MSBI,MSBI UW Equity,Midland States Bancorp Inc
+NATH,NATH UW Equity,Nathan's Famous Inc
+NMRX,NMRX UW Equity,Sierra Wireless Services America Holding
+CHMG,CHMG UW Equity,Chemung Financial Corp
+ITIC,ITIC UW Equity,Investors Title Co
+CENT,CENT UW Equity,Central Garden & Pet Co
+ORM,ORM UA Equity,Owens Realty Mortgage Inc
+GNL,GNL UN Equity,Global Net Lease Inc
+AUTO,AUTO UR Equity,AutoWeb Inc
+EIGR,EIGR UQ Equity,Eiger BioPharmaceuticals Inc
+ARA,ARA UN Equity,American Renal Associates Holdings Inc
+SILC,SILC UW Equity,Silicom Ltd
+COTV,COTV UN Equity,Cotiviti Holdings Inc
+AVNU,AVNU US Equity,Avenue Financial Holdings Inc
+SHOS,SHOS UR Equity,Sears Hometown and Outlet Stores Inc
+VRAY,VRAY UQ Equity,ViewRay Inc
+AVXL,AVXL UR Equity,Anavex Life Sciences Corp
+GMS,GMS UN Equity,GMS Inc
+USFD,USFD UN Equity,US Foods Holding Corp
+SCWX,SCWX UW Equity,SecureWorks Corp
+SELB,SELB UQ Equity,Selecta Biosciences Inc
+LGF/B,LGF/B UN Equity,Lions Gate Entertainment Corp
+DVMT,DVMT UN Equity,Dell Technologies Inc Class V
+FBK,FBK UN Equity,FB Financial Corp
+NTB,NTB UN Equity,Bank of NT Butterfield & Son Ltd/The
+LEXEA,LEXEA UW Equity,Liberty Expedia Holdings Inc
+SND,SND UW Equity,Smart Sand Inc
+HONE,HONE UW Equity,HarborOne Bancorp Inc
+MEDP,MEDP UW Equity,Medpace Holdings Inc
+PTGX,PTGX UQ Equity,Protagonist Therapeutics Inc
+MRT,MRT UN Equity,MedEquities Realty Trust Inc
+FLGT,FLGT UQ Equity,Fulgent Genetics Inc
+TRHC,TRHC UQ Equity,Tabula Rasa HealthCare Inc
+TIVO,TIVO UW Equity,TiVo Corp
+EVBG,EVBG UQ Equity,Everbridge Inc
+VSM,VSM UN Equity,Versum Materials Inc
+ASIX,ASIX UN Equity,AdvanSix Inc
+LKSDQ,LKSDQ UN Equity,LSC Communications Inc
+DFIN,DFIN UN Equity,Donnelley Financial Solutions Inc
+NTNX,NTNX UW Equity,Nutanix Inc
+LW,LW UN Equity,Lamb Weston Holdings Inc
+GMRE,GMRE UN Equity,Global Medical REIT Inc
+CNDT,CNDT UN Equity,Conduent Inc
+BOLD,BOLD UQ Equity,Audentes Therapeutics Inc
+FRTA,FRTA UW Equity,Forterra Inc
+IRTC,IRTC UQ Equity,iRhythm Technologies Inc
+PTHN,PTHN UN Equity,Patheon BV
+TPIC,TPIC UQ Equity,TPI Composites Inc
+TTD,TTD UQ Equity,Trade Desk Inc/The
+NOVN,NOVN UQ Equity,Novan Inc
+PI,PI UW Equity,Impinj Inc
+ELF,ELF UN Equity,elf Beauty Inc
+CHUBK,CHUBK UQ Equity,CommerceHub Inc
+CHUBA,CHUBA UQ Equity,CommerceHub Inc
+INSW,INSW UN Equity,International Seaways Inc
+CLSD,CLSD UQ Equity,Clearside Biomedical Inc
+NH,NH UW Equity,NantHealth Inc
+ATKR,ATKR UN Equity,Atkore International Group Inc
+CSTR,CSTR UW Equity,Capstar Financial Holdings Inc
+FTV,FTV UN Equity,Fortive Corp
+RARX,RARX UQ Equity,Ra Pharmaceuticals Inc
+EVHC,EVHC UN Equity,Envision Healthcare Corp
+KDMN,KDMN UN Equity,Kadmon Holdings Inc
+KNSL,KNSL UW Equity,Kinsale Capital Group Inc
+TCMD,TCMD UQ Equity,Tactile Systems Technology Inc
+APVO,APVO UW Equity,Aptevo Therapeutics Inc
+1766050D,1766050D UR Equity,Paragon Commercial Corp
+MYOV,MYOV UN Equity,Myovant Sciences Ltd
+GOLF,GOLF UN Equity,Acushnet Holdings Corp
+ADNT,ADNT UN Equity,Adient PLC
+BL,BL UW Equity,Blackline Inc
+QTNA,QTNA UW Equity,Quantenna Communications Inc
+ADSW,ADSW UN Equity,Advanced Disposal Services Inc
+PKY,PKY UN Equity,Parkway Inc
+YUMC,YUMC UN Equity,Yum China Holdings Inc
+QCP,QCP UN Equity,Quality Care Properties Inc
+HWM,HWM UN Equity,Howmet Aerospace Inc
+WAAS,WAAS UN Equity,AquaVenture Holdings Ltd
+COUP,COUP UW Equity,Coupa Software Inc
+OBLN,OBLN UQ Equity,Obalon Therapeutics Inc
+CWH,CWH UN Equity,Camping World Holdings Inc
+TRTN,TRTN UN Equity,Triton International Ltd/Bermuda
+HOME,HOME UN Equity,At Home Group Inc
+TWLO,TWLO UN Equity,Twilio Inc
+FHB,FHB UW Equity,First Hawaiian Inc
+XOGAQ,XOGAQ UW Equity,Extraction Oil & Gas Inc
+APFH,APFH UN Equity,AdvancePierre Foods Holdings Inc
+TUSK,TUSK UW Equity,Mammoth Energy Services Inc
+VVV,VVV UN Equity,Valvoline Inc
+APTI,APTI UQ Equity,Apptio Inc
+SYRS,SYRS UW Equity,Syros Pharmaceuticals Inc
+TCI,TCI UN Equity,Transcontinental Realty Investors Inc
+MBCN,MBCN UR Equity,Middlefield Banc Corp
+CLPR,CLPR UN Equity,Clipper Realty Inc
+WLTW,WLTW UW Equity,Willis Towers Watson PLC
+ESXB,ESXB UR Equity,Community Bankers Trust Corp
+NXEO,NXEO UR Equity,Nexeo Solutions Inc
+DXC,DXC UN Equity,DXC Technology Co
+MGEN,MGEN UR Equity,Miragen Therapeutics Inc
+INSE,INSE UR Equity,Inspired Entertainment Inc
+PVAC,PVAC UW Equity,Penn Virginia Corp
+CDZI,CDZI UQ Equity,Cadiz Inc
+CYBE,CYBE UQ Equity,CyberOptics Corp
+KLDX,KLDX UA Equity,Klondex Mines Ltd
+ROSEQ,ROSEQ UR Equity,Rosehill Resources Inc
+EML,EML UQ Equity,Eastern Co/The
+TWNK,TWNK UR Equity,Hostess Brands Inc
+KINS,KINS UR Equity,Kingstone Cos Inc
+CIVB,CIVB UR Equity,Civista Bancshares Inc
+MTNB,MTNB UA Equity,Matinas BioPharma Holdings Inc
+FONR,FONR UR Equity,FONAR Corp
+STRL,STRL UW Equity,Sterling Construction Co Inc
+SBCP,SBCP UR Equity,Sunshine Bancorp Inc
+EVI,EVI UA Equity,EVI Industries Inc
+NSSC,NSSC UW Equity,Napco Security Technologies Inc
+PIRS,PIRS UR Equity,Pieris Pharmaceuticals Inc
+EEX,EEX UN Equity,Emerald Holding Inc
+BCEI,BCEI UN Equity,Bonanza Creek Energy Inc
+MLP,MLP UN Equity,Maui Land & Pineapple Co Inc
+CHMI,CHMI UN Equity,Cherry Hill Mortgage Investment Corp
+SMHI,SMHI UN Equity,SEACOR Marine Holdings Inc
+SNDR,SNDR UN Equity,Schneider National Inc
+DSKE,DSKE UR Equity,Daseke Inc
+RGCO,RGCO UQ Equity,RGC Resources Inc
+ELVT,ELVT UN Equity,Elevate Credit Inc
+PCYO,PCYO UR Equity,Pure Cycle Corp
+QTNT,QTNT UQ Equity,Quotient Ltd
+RVLT,RVLT UR Equity,Revolution Lighting Technologies Inc
+DNBF,DNBF UR Equity,DNB Financial Corp
+VREX,VREX UW Equity,Varex Imaging Corp
+TRCB,TRCB UQ Equity,Two River Bancorp
+HDSN,HDSN UR Equity,Hudson Technologies Inc
+OVBC,OVBC UQ Equity,Ohio Valley Banc Corp
+PCMI,PCMI UQ Equity,PCM Inc
+UNTY,UNTY UQ Equity,Unity Bancorp Inc
+RICK,RICK UQ Equity,RCI Hospitality Holdings Inc
+BGSF,BGSF UA Equity,BG Staffing Inc
+ISTR,ISTR UQ Equity,Investar Holding Corp
+SBBP,SBBP UW Equity,Strongbridge Biopharma PLC
+UBFO,UBFO UW Equity,United Security Bancshares/Fresno CA
+NBN,NBN UQ Equity,Northeast Bank
+JILL,JILL UN Equity,J Jill Inc
+HSTO,HSTO UQ Equity,Histogen Inc
+SLP,SLP UR Equity,Simulations Plus Inc
+TSBK,TSBK UQ Equity,Timberland Bancorp Inc/WA
+LLEXQ,LLEXQ UA Equity,Lilis Energy Inc
+OPOF,OPOF UR Equity,Old Point Financial Corp
+KEGX,KEGX UN Equity,Key Energy Services Inc
+AXTI,AXTI UW Equity,AXT Inc
+HBP,HBP UR Equity,Huttig Building Products Inc
+BOCH,BOCH UQ Equity,Bank of Commerce Holdings
+EVBN,EVBN UA Equity,Evans Bancorp Inc
+PSDO,PSDO UW Equity,Presidio Inc
+REPH,REPH UR Equity,Recro Pharma Inc
+CJ,CJ UN Equity,C&J Energy Services Inc
+BBGI,BBGI UQ Equity,Beasley Broadcast Group Inc
+RBNC,RBNC UR Equity,Reliant Bancorp Inc
+FBMS,FBMS UQ Equity,First Bancshares Inc/The
+BIVV,BIVV UW Equity,Bioverativ Inc
+LAUR,LAUR UW Equity,Laureate Education Inc
+BCBP,BCBP UQ Equity,BCB Bancorp Inc
+VIVE,VIVE UR Equity,Viveve Medical Inc
+CADE,CADE UN Equity,Cadence BanCorp
+HCC,HCC UN Equity,Warrior Met Coal Inc
+UPLCQ,UPLCQ UW Equity,Ultra Petroleum Corp
+TCFC,TCFC UR Equity,Community Financial Corp/The
+FNBG,FNBG UW Equity,FNB Bancorp/CA
+FBRX,FBRX UW Equity,Forte Biosciences Inc
+VBIV,VBIV UR Equity,VBI Vaccines Inc
+AMPY,AMPY UN Equity,Amplify Energy Corp
+METC,METC UW Equity,Ramaco Resources Inc
+MLVF,MLVF UQ Equity,Malvern Bancorp Inc
+PBIP,PBIP UQ Equity,Prudential Bancorp Inc
+RCM,RCM UR Equity,R1 RCM Inc
+ARD,ARD UN Equity,Ardagh Group SA
+ADES,ADES UQ Equity,Advanced Emissions Solutions Inc
+CARS,CARS UN Equity,Cars.com Inc
+SBOW,SBOW UN Equity,SilverBow Resources Inc
+PLSE,PLSE UR Equity,Pulse Biosciences Inc
+OVID,OVID UW Equity,Ovid therapeutics Inc
+NVLNF,NVLNF UW Equity,Novelion Therapeutics Inc
+LEAF,LEAF UN Equity,Leaf Group Ltd
+FATE,FATE UQ Equity,Fate Therapeutics Inc
+WLDN,WLDN UQ Equity,Willdan Group Inc
+REN,REN UN Equity,Resolute Energy Corp
+SMBK,SMBK UR Equity,SmartFinancial Inc
+ST,ST UN Equity,Sensata Technologies Holding PLC
+NODK,NODK UR Equity,NI Holdings Inc
+TALO,TALO UN Equity,Talos Energy Inc
+OFED,OFED UR Equity,Oconee Federal Financial Corp
+VST,VST UN Equity,Vistra Corp
+AYX,AYX UN Equity,Alteryx Inc
+CRBP,CRBP UQ Equity,Corbus Pharmaceuticals Holdings Inc
+ENFC,ENFC UQ Equity,Entegra Financial Corp
+GIFI,GIFI UW Equity,Gulf Island Fabrication Inc
+DS,DS UN Equity,Drive Shack Inc
+HBMD,HBMD UR Equity,Howard Bancorp Inc
+GNK,GNK UN Equity,Genco Shipping & Trading Ltd
+BASX,BASX UN Equity,Basic Energy Services Inc
+PCSB,PCSB UR Equity,PCSB Financial Corp
+EGC,EGC UW Equity,Energy XXI Gulf Coast LLC
+SRT,SRT UN Equity,StarTek Inc
+DK,DK UN Equity,Delek US Holdings Inc
+OOMA,OOMA UN Equity,Ooma Inc
+HKRSQ,HKRSQ UN Equity,Battalion Oil Corp
+INFO,INFO UW Equity,IHS Markit Ltd
+NEX,NEX UN Equity,NexTier Oilfield Solutions Inc
+ATH,ATH UN Equity,Athene Holding Ltd
+ICHR,ICHR UW Equity,Ichor Holdings Ltd
+HLNE,HLNE UW Equity,Hamilton Lane Inc
+FND,FND UN Equity,Floor & Decor Holdings Inc
+JELD,JELD UN Equity,JELD-WEN Holding Inc
+VRS,VRS UN Equity,Verso Corp
+JCAP,JCAP UN Equity,Jernigan Capital Inc
+BTU,BTU UN Equity,Peabody Energy Corp
+TELL,TELL UR Equity,Tellurian Inc
+PEBK,PEBK UQ Equity,Peoples Bancorp of North Carolina Inc
+CVNA,CVNA UN Equity,Carvana Co
+MSL,MSL UN Equity,MidSouth Bancorp Inc
+NCSM,NCSM UW Equity,NCS Multistage Holdings Inc
+CLDR,CLDR UN Equity,Cloudera Inc
+ITI,ITI UR Equity,Iteris Inc
+WRD,WRD UN Equity,WildHorse Resource Development Corp
+RC,RC UN Equity,Ready Capital Corp
+UPLD,UPLD UQ Equity,Upland Software Inc
+EARN,EARN UN Equity,Ellington Residential Mortgage REIT
+BFYT,BFYT UQ Equity,Benefytt Technologies Inc
+ANAB,ANAB UW Equity,AnaptysBio Inc
+OKTA,OKTA UW Equity,Okta Inc
+FGBI,FGBI UQ Equity,First Guaranty Bancshares Inc
+KURA,KURA UW Equity,Kura Oncology Inc
+HGV,HGV UN Equity,Hilton Grand Vacations Inc
+PK,PK UN Equity,Park Hotels & Resorts Inc
+REVG,REVG UN Equity,REV Group Inc
+JAG,JAG UN Equity,Jagged Peak Energy Inc
+JNCE,JNCE UW Equity,Jounce Therapeutics Inc
+MVIS,MVIS UQ Equity,MicroVision Inc
+NWFL,NWFL UQ Equity,Norwood Financial Corp
+RVSB,RVSB UW Equity,Riverview Bancorp Inc
+PXLW,PXLW UQ Equity,Pixelworks Inc
+INVH,INVH UN Equity,Invitation Homes Inc
+PKBK,PKBK UR Equity,Parke Bancorp Inc
+NXPI,NXPI UW Equity,NXP Semiconductors NV
+AKTS,AKTS UR Equity,Akoustis Technologies Inc
+KIN,KIN UR Equity,Kindred Biosciences Inc
+GSIT,GSIT UW Equity,GSI Technology Inc
+YEXT,YEXT UN Equity,Yext Inc
+AKAOQ,AKAOQ UQ Equity,Achaogen Inc
+BHVN,BHVN UN Equity,Biohaven Pharmaceutical Holding Co Ltd
+KREF,KREF UN Equity,KKR Real Estate Finance Trust Inc
+ARCH,ARCH UN Equity,Arch Resources Inc
+CDEV,CDEV UR Equity,Centennial Resource Development Inc/DE
+CCN,CCN UQ Equity,CardConnect Corp
+FMAO,FMAO UR Equity,Farmers & Merchants Bancorp Inc/Archbold
+GNTY,GNTY UW Equity,Guaranty Bancshares Inc/TX
+ASBB,ASBB UQ Equity,ASB Bancorp Inc
+WTTR,WTTR UN Equity,Select Energy Services Inc
+PUMP,PUMP UN Equity,ProPetro Holding Corp
+MULE,MULE UN Equity,MuleSoft Inc
+IVAC,IVAC UW Equity,Intevac Inc
+TCX,TCX UR Equity,Tucows Inc
+OMNT,OMNT UR Equity,Ominto Inc
+KEM,KEM UN Equity,KEMET Corp
+NYMX,NYMX UR Equity,Nymox Pharmaceutical Corp
+FBM,FBM UN Equity,Foundation Building Materials Inc
+SHLOQ,SHLOQ UW Equity,Shiloh Industries Inc
+SOI,SOI UN Equity,Solaris Oilfield Infrastructure Inc
+IR,IR UN Equity,Ingersoll Rand Inc
+VERI,VERI UQ Equity,Veritone Inc
+TNTRQ,TNTRQ UQ Equity,Tintri Inc
+CEIX,CEIX UN Equity,CONSOL Energy Inc
+BKR,BKR UN Equity,Baker Hughes Co
+TRTX,TRTX UN Equity,TPG RE Finance Trust Inc
+KALA,KALA UW Equity,Kala Pharmaceuticals Inc
+CLXT,CLXT UQ Equity,Calyxt Inc
+CBTX,CBTX UW Equity,CBTX Inc
+GTHX,GTHX UW Equity,G1 Therapeutics Inc
+PETQ,PETQ UW Equity,PetIQ Inc
+BHF,BHF UW Equity,Brighthouse Financial Inc
+BKI,BKI UN Equity,Black Knight Inc
+HBB,HBB UN Equity,Hamilton Beach Brands Holding Co
+SEND,SEND UN Equity,SendGrid Inc
+AQUA,AQUA UN Equity,Evoqua Water Technologies Corp
+FNKO,FNKO UW Equity,Funko Inc
+ALNA,ALNA UW Equity,Allena Pharmaceuticals Inc
+SPRO,SPRO UW Equity,Spero Therapeutics Inc
+APLS,APLS UW Equity,Apellis Pharmaceuticals Inc
+PQG,PQG UN Equity,PQ Group Holdings Inc
+RBB,RBB UW Equity,RBB Bancorp
+RYTM,RYTM UQ Equity,Rhythm Pharmaceuticals Inc
+SNNAQ,SNNAQ UW Equity,Sienna Biopharmaceuticals Inc
+SWCH,SWCH UN Equity,Switch Inc
+DD,DD UN Equity,DuPont de Nemours Inc
+RDFN,RDFN UW Equity,Redfin Corp
+SAFE,SAFE UN Equity,Safehold Inc
+SGH,SGH UW Equity,SMART Global Holdings Inc
+MCB,MCB UN Equity,Metropolitan Bank Holding Corp
+WOW,WOW UN Equity,WideOpenWest Inc
+CNNE,CNNE UN Equity,Cannae Holdings Inc
+RNGR,RNGR UN Equity,Ranger Energy Services Inc
+AQ,AQ UN Equity,Aquantia Corp
+DLPH,DLPH UN Equity,Delphi Technologies PLC
+GPMT,GPMT UN Equity,Granite Point Mortgage Trust Inc
+EYE,EYE UW Equity,National Vision Holdings Inc
+KIDS,KIDS UQ Equity,OrthoPediatrics Corp
+VERO,VERO UQ Equity,Venus Concept Inc
+AKCA,AKCA UW Equity,Akcea Therapeutics Inc
+CELC,CELC UR Equity,Celcuity Inc
+JBGS,JBGS UN Equity,JBG SMITH Properties
+OPTN,OPTN UW Equity,Optinose Inc
+ATNX,ATNX UW Equity,Athenex Inc
+MRSN,MRSN UW Equity,Mersana Therapeutics Inc
+BY,BY UN Equity,Byline Bancorp Inc
+DCPH,DCPH UW Equity,Deciphera Pharmaceuticals Inc
+DOVA,DOVA UQ Equity,Dova Pharmaceuticals Inc
+ALRN,ALRN UQ Equity,Aileron Therapeutics Inc
+RBBN,RBBN UW Equity,Ribbon Communications Inc
+MBIN,MBIN UR Equity,Merchants Bancorp/IN
+FSCT,FSCT UQ Equity,Forescout Technologies Inc
+BPRN,BPRN UW Equity,Bank of Princeton/The
+PRPL,PRPL UR Equity,Purple Innovation Inc
+CELH,CELH UR Equity,Celsius Holdings Inc
+MAXR,MAXR UN Equity,Maxar Technologies Inc
+CBFV,CBFV UQ Equity,CB Financial Services Inc
+HUD,HUD UN Equity,Hudson Ltd
+CLNC,CLNC UN Equity,Colony Credit Real Estate Inc
+NVT,NVT UN Equity,nVent Electric PLC
+BH/A,BH/A UN Equity,Biglari Holdings Inc
+PAR,PAR UN Equity,PAR Technology Corp
+BCML,BCML UW Equity,BayCom Corp
+CBIO,CBIO UR Equity,Catalyst Biosciences Inc
+FUNC,FUNC UW Equity,First United Corp
+ABUS,ABUS UW Equity,Arbutus Biopharma Corp
+XELA,XELA UR Equity,Exela Technologies Inc
+BOMN,BOMN UR Equity,Boston Omaha Corp
+CATC,CATC UR Equity,Cambridge Bancorp
+SYNL,SYNL UQ Equity,Synalloy Corp
+SMPL,SMPL UR Equity,Simply Good Foods Co/The
+RCKY,RCKY UW Equity,Rocky Brands Inc
+CLBK,CLBK UW Equity,Columbia Financial Inc
+MPB,MPB UQ Equity,Mid Penn Bancorp Inc
+PDLB,PDLB UQ Equity,PDL Community Bancorp
+LILA,LILA UW Equity,Liberty Latin America Ltd
+LILAK,LILAK UW Equity,Liberty Latin America Ltd
+SBBX,SBBX UQ Equity,SB One Bancorp
+AVYA,AVYA UN Equity,Avaya Holdings Corp
+AUBN,AUBN UQ Equity,Auburn National BanCorp Inc
+BVH,BVH UN Equity,Bluegreen Vacations Holding Corp
+PRSP,PRSP UN Equity,Perspecta Inc
+WH,WH UN Equity,Wyndham Hotels & Resorts Inc
+SMTA,SMTA UN Equity,Spirit MTA REIT
+CVIAQ,CVIAQ UN Equity,Covia Holdings Corp
+CASI,CASI UR Equity,CASI Pharmaceuticals Inc
+OVLY,OVLY UR Equity,Oak Valley Bancorp
+SIEB,SIEB UR Equity,Siebert Financial Corp
+FCCY,FCCY UQ Equity,1st Constitution Bancorp
+SIGA,SIGA UQ Equity,SIGA Technologies Inc
+ALBO,ALBO UR Equity,Albireo Pharma Inc
+FCCO,FCCO UR Equity,First Community Corp/SC
+CHX,CHX UN Equity,ChampionX Corp
+QES,QES UN Equity,Quintana Energy Services Inc
+EGAN,EGAN UR Equity,eGain Corp
+DZSI,DZSI UR Equity,DZS Inc
+ARL,ARL UN Equity,American Realty Investors Inc
+FDBC,FDBC UQ Equity,Fidelity D&D Bancorp Inc
+CUE,CUE UR Equity,Cue Biopharma Inc
+XXII,XXII UA Equity,22nd Century Group Inc
+SCPH,SCPH UW Equity,scPharmaceuticals Inc
+TLRA,TLRA UN Equity,Telaria Inc
+HEAR,HEAR UQ Equity,Turtle Beach Corp
+GTES,GTES UN Equity,Gates Industrial Corp PLC
+BXC,BXC UN Equity,BlueLinx Holdings Inc
+MNTX,MNTX UR Equity,Manitex International Inc
+BXG,BXG UN Equity,Bluegreen Vacations Corp
+CLUBQ,CLUBQ UQ Equity,Town Sports International Holdings Inc
+VUZI,VUZI UR Equity,Vuzix Corp
+FSFG,FSFG UR Equity,First Savings Financial Group Inc
+CBAY,CBAY UW Equity,Cymabay Therapeutics Inc
+MRNS,MRNS UQ Equity,Marinus Pharmaceuticals Inc
+FRBA,FRBA UQ Equity,First Bank/Hamilton NJ
+NES,NES UA Equity,Nuverra Environmental Solutions Inc
+ESQ,ESQ UR Equity,Esquire Financial Holdings Inc
+AMRX,AMRX UN Equity,Amneal Pharmaceuticals Inc
+GLIBA,GLIBA UW Equity,GCI Liberty Inc
+RVI,RVI UN Equity,Retail Value Inc
+IEA,IEA UR Equity,Infrastructure and Energy Alternatives I
+ROKU,ROKU UW Equity,Roku Inc
+LAND,LAND UQ Equity,Gladstone Land Corp
+SYBX,SYBX UQ Equity,Synlogic Inc
+MBII,MBII UR Equity,Marrone Bio Innovations Inc
+ODT,ODT UW Equity,Odonate Therapeutics Inc
+GSHD,GSHD UW Equity,Goosehead Insurance Inc
+MBIO,MBIO UQ Equity,Mustang Bio Inc
+FENC,FENC UR Equity,Fennec Pharmaceuticals Inc
+BFST,BFST UW Equity,Business First Bancshares Inc
+ALTR,ALTR UW Equity,Altair Engineering Inc
+SVRA,SVRA UW Equity,Savara Inc
+LIVX,LIVX UR Equity,LiveXLive Media Inc
+LBC,LBC UW Equity,Luther Burbank Corp
+DNLI,DNLI UW Equity,Denali Therapeutics Inc
+BRT,BRT UN Equity,BRT Apartments Corp
+STXB,STXB UW Equity,Spirit of Texas Bancshares Inc
+NEXT,NEXT UR Equity,NextDecade Corp
+VICI,VICI UN Equity,VICI Properties Inc
+9992011D,9992011D UN Equity,FTS International Inc
+COLD,COLD UN Equity,Americold Realty Trust
+ADT,ADT UN Equity,ADT Inc
+NINE,NINE UN Equity,Nine Energy Service Inc
+RTWIQ,RTWIQ UN Equity,RTW Retailwinds Inc
+FIXX,FIXX UW Equity,Homology Medicines Inc
+OPBK,OPBK UQ Equity,OP Bancorp
+CYRX,CYRX UR Equity,CryoPort Inc
+PFIE,PFIE UR Equity,Profire Energy Inc
+GDP,GDP UA Equity,Goodrich Petroleum Corp
+GLF,GLF UA Equity,Gulfmark Offshore Inc
+NMRK,NMRK UW Equity,Newmark Group Inc
+IIN,IIN UQ Equity,IntriCon Corp
+PRGX,PRGX UW Equity,PRGX Global Inc
+ASUR,ASUR UR Equity,Asure Software Inc
+AMRQQ,AMRQQ UR Equity,Alta Mesa Resources Inc
+HSDT,HSDT UR Equity,Helius Medical Technologies Inc
+CASA,CASA UW Equity,Casa Systems Inc
+CDNA,CDNA UQ Equity,CareDx Inc
+LEVL,LEVL UW Equity,Level One Bancorp Inc
+IIPR,IIPR UN Equity,Innovative Industrial Properties Inc
+SKY,SKY UN Equity,Skyline Champion Corp
+BWB,BWB UR Equity,Bridgewater Bancshares Inc
+PTN,PTN UA Equity,Palatin Technologies Inc
+XFOR,XFOR UQ Equity,X4 Pharmaceuticals Inc
+CPLG,CPLG UN Equity,CorePoint Lodging Inc
+ADMA,ADMA UR Equity,ADMA Biologics Inc
+FG,FG UN Equity,FGL Holdings
+COGT,COGT UW Equity,Cogent Biosciences Inc
+ORIG,ORIG UW Equity,Ocean Rig UDW Inc
+RMNI,RMNI UQ Equity,Rimini Street Inc
+CVON,CVON UQ Equity,ConvergeOne Holdings Inc
+USAP,USAP UW Equity,Universal Stainless & Alloy Products Inc
+WHD,WHD UN Equity,Cactus Inc
+FCBP,FCBP UR Equity,First Choice Bancorp
+NVTRQ,NVTRQ UQ Equity,Nuvectra Corp
+ZOM,ZOM UA Equity,Zomedica Corp
+INSP,INSP UN Equity,Inspire Medical Systems Inc
+WSC,WSC UR Equity,WillScot Mobile Mini Holdings Corp
+VCEL,VCEL UR Equity,Vericel Corp
+ZS,ZS UW Equity,Zscaler Inc
+SAIL,SAIL UN Equity,Sailpoint Technologies Holdings Inc
+AGLE,AGLE UQ Equity,Aeglea BioTherapeutics Inc
+EOLS,EOLS UQ Equity,Evolus Inc
+PTE,PTE UR Equity,PolarityTE Inc
+FSBW,FSBW UR Equity,FS Bancorp Inc
+ALDX,ALDX UR Equity,Aldeyra Therapeutics Inc
+SLCT,SLCT UQ Equity,Select Bancorp Inc
+UBX,UBX UW Equity,UNITY Biotechnology Inc
+SBT,SBT UR Equity,Sterling Bancorp Inc/MI
+ZNOG,ZNOG UQ Equity,Zion Oil & Gas Inc
+CTSO,CTSO UR Equity,CytoSorbents Corp
+FSTX,FSTX UR Equity,F-star Therapeutics Inc
+CDAY,CDAY UN Equity,Ceridian HCM Holding Inc
+ACMR,ACMR UQ Equity,ACM Research Inc
+VYNE,VYNE UW Equity,VYNE Therapeutics Inc
+SSTI,SSTI UR Equity,ShotSpotter Inc
+LBRT,LBRT UN Equity,Liberty Oilfield Services Inc
+VKTX,VKTX UR Equity,Viking Therapeutics Inc
+EAF,EAF UN Equity,GrafTech International Ltd
+ILPT,ILPT UW Equity,Industrial Logistics Properties Trust
+CWBR,CWBR UR Equity,Cohbar Inc
+CARG,CARG UW Equity,Cargurus Inc
+AGS,AGS UN Equity,PlayAGS Inc
+SLDB,SLDB UW Equity,Solid Biosciences Inc
+GFN,GFN UQ Equity,General Finance Corp
+MARK,MARK UR Equity,Remark Holdings Inc
+AMEH,AMEH UR Equity,Apollo Medical Holdings Inc
+RCUS,RCUS UN Equity,Arcus Biosciences Inc
+NMTR,NMTR UR Equity,9 Meters Biopharma Inc
+EVRG,EVRG UN Equity,Evergy Inc
+AVEO,AVEO UR Equity,AVEO Pharmaceuticals Inc
+AMRS,AMRS UW Equity,Amyris Inc
+SURF,SURF UQ Equity,Surface Oncology Inc
+TDW,TDW UN Equity,Tidewater Inc
+TYME,TYME UR Equity,Tyme Technologies Inc
+ACET,ACET UW Equity,Adicet Bio Inc
+BXMT,BXMT UN Equity,Blackstone Mortgage Trust Inc
+LASR,LASR UW Equity,nLight Inc
+ELOX,ELOX UQ Equity,Eloxx Pharmaceuticals Inc
+FSNNQ,FSNNQ UR Equity,Fusion Connect Inc
+CBLK,CBLK UW Equity,Carbon Black Inc
+ARQL,ARQL UQ Equity,ArQule Inc
+ABR,ABR UN Equity,Arbor Realty Trust Inc
+ONCT,ONCT UR Equity,Oncternal Therapeutics Inc
+CISN,CISN UN Equity,Cision Ltd
+IOTS,IOTS UR Equity,Adesto Technologies Corp
+OBNK,OBNK UW Equity,Origin Bancorp Inc
+CDLX,CDLX UQ Equity,Cardlytics Inc
+EVLO,EVLO UW Equity,Evelo Biosciences Inc
+CURO,CURO UN Equity,Curo Group Holdings Corp
+EQH,EQH UN Equity,Equitable Holdings Inc
+DOCU,DOCU UW Equity,DocuSign Inc
+MVBF,MVBF UR Equity,MVB Financial Corp
+QTRX,QTRX UQ Equity,Quanterix Corp
+GH,GH UW Equity,Guardant Health Inc
+KOD,KOD UQ Equity,Kodiak Sciences Inc
+ESTC,ESTC UN Equity,Elastic NV
+DELL,DELL UN Equity,Dell Technologies Inc
+KNSA,KNSA UW Equity,Kiniksa Pharmaceuticals Ltd
+SRRK,SRRK UW Equity,Scholar Rock Holding Corp
+TWST,TWST UW Equity,Twist Bioscience Corp
+SIBN,SIBN UQ Equity,SI-BONE Inc
+ACA,ACA UN Equity,Arcosa Inc
+AXNX,AXNX UW Equity,Axonics Modulation Technologies Inc
+OSMT,OSMT UW Equity,Osmotica Pharmaceuticals PLC
+SWI,SWI UN Equity,SolarWinds Corp
+AGE,AGE UA Equity,AgeX Therapeutics Inc
+BSVN,BSVN UW Equity,Bank7 Corp
+CWK,CWK UN Equity,Cushman & Wakefield PLC
+EIDX,EIDX UW Equity,Eidos Therapeutics Inc
+EPRT,EPRT UN Equity,Essential Properties Realty Trust Inc
+MGTX,MGTX UW Equity,MeiraGTx Holdings plc
+SONO,SONO UW Equity,Sonos Inc
+APTX,APTX UW Equity,Aptinyx Inc
+MGTA,MGTA UQ Equity,Magenta Therapeutics Inc
+KZR,KZR UW Equity,Kezar Life Sciences Inc
+XERS,XERS UW Equity,Xeris Pharmaceuticals Inc
+AVRO,AVRO UW Equity,Avrobio Inc
+IIIV,IIIV UW Equity,I3 Verticals Inc
+YMAB,YMAB UW Equity,Y-mAbs Therapeutics Inc
+PS,PS UW Equity,Pluralsight Inc
+ECOR,ECOR UW Equity,ElectroCore Inc
+RUBY,RUBY UW Equity,Rubius Therapeutics Inc
+CRNX,CRNX UW Equity,Crinetics Pharmaceuticals Inc
+CCB,CCB UW Equity,Coastal Financial Corp/WA
+GTXMQ,GTXMQ UN Equity,Garrett Motion Inc
+FTDR,FTDR UW Equity,frontdoor Inc
+SVMK,SVMK UW Equity,SVMK Inc
+PLAN,PLAN UN Equity,Anaplan Inc
+ALLO,ALLO UW Equity,Allogene Therapeutics Inc
+CBNK,CBNK UW Equity,Capital Bancorp Inc
+ETRN,ETRN UN Equity,Equitrans Midstream Corp
+GRTS,GRTS UW Equity,Gritstone Oncology Inc
+REPL,REPL UW Equity,Replimune Group Inc
+ALLK,ALLK UW Equity,Allakos Inc
+CNST,CNST UW Equity,Constellation Pharmaceuticals Inc
+ARVN,ARVN UW Equity,Arvinas Inc
+STRO,STRO UQ Equity,Sutro Biopharma Inc
+USX,USX UN Equity,US Xpress Enterprises Inc
+CHRA,CHRA UN Equity,Charah Solutions Inc
+AVLR,AVLR UN Equity,Avalara Inc
+VAPO,VAPO UN Equity,Vapotherm Inc
+NTGN,NTGN UW Equity,Neon Therapeutics Inc
+LOVE,LOVE UQ Equity,Lovesac Co/The
+KLXE,KLXE UW Equity,KLX Energy Services Holdings Inc
+PRNB,PRNB UW Equity,Principia Biopharma Inc
+BPYU,BPYU UW Equity,Brookfield Property REIT Inc
+LOGC,LOGC UQ Equity,LogicBio Therapeutics Inc
+AMAL,AMAL UQ Equity,Amalgamated Bank
+AQST,AQST UQ Equity,Aquestive Therapeutics Inc
+MESA,MESA UW Equity,Mesa Air Group Inc
+REZI,REZI UN Equity,Resideo Technologies Inc
+BJ,BJ UN Equity,BJ's Wholesale Club Holdings Inc
+BV,BV UN Equity,BrightView Holdings Inc
+TBIO,TBIO UW Equity,Translate Bio Inc
+FTSV,FTSV UW Equity,Forty Seven Inc
+TCDA,TCDA UW Equity,Tricida Inc
+STIM,STIM UQ Equity,Neuronetics Inc
+BRY,BRY UW Equity,Berry Corp
+FOCS,FOCS UW Equity,Focus Financial Partners Inc
+TENB,TENB UW Equity,Tenable Holdings Inc
+FVCB,FVCB UR Equity,FVCBankcorp Inc
+LQDA,LQDA UR Equity,Liquidia Corp
+UPWK,UPWK UW Equity,Upwork Inc
+DOMO,DOMO UQ Equity,Domo Inc
+PCB,PCB UW Equity,PCB Bancorp
+EQ,EQ UQ Equity,Equillium Inc
+YETI,YETI UN Equity,YETI Holdings Inc
+LIN,LIN UN Equity,Linde PLC
+EVOP,EVOP UQ Equity,Evo Payments Inc
+VRCA,VRCA UQ Equity,Verrica Pharmaceuticals Inc
+ELAN,ELAN UN Equity,Elanco Animal Health Inc
+ARLO,ARLO UN Equity,Arlo Technologies Inc
+LTHM,LTHM UN Equity,Livent Corp
+APYX,APYX UW Equity,Apyx Medical Corp
+BRID,BRID UQ Equity,Bridgford Foods Corp
+PHAS,PHAS UQ Equity,PhaseBio Pharmaceuticals Inc
+USWS,USWS UR Equity,US Well Services Inc
+CVET,CVET UW Equity,Covetrus Inc
+INS,INS UA Equity,Intelligent Systems Corp
+CTVA,CTVA UN Equity,Corteva Inc
+BFC,BFC UR Equity,Bank First Corp
+AVCO,AVCO UR Equity,Avalon GloboCare Corp
+NG,NG UA Equity,Novagold Resources Inc
+FCAP,FCAP UR Equity,First Capital Inc
+EB,EB UN Equity,Eventbrite Inc
+ALTM,ALTM UQ Equity,Altus Midstream Co
+MFIN,MFIN UW Equity,Medallion Financial Corp
+DOW,DOW UN Equity,Dow Inc
+CYCN,CYCN UW Equity,Cyclerion Therapeutics Inc
+JYNT,JYNT UR Equity,Joint Corp/The
+CBAN,CBAN UQ Equity,Colony Bankcorp Inc
+BAND,BAND UW Equity,Bandwidth Inc
+MFNC,MFNC UR Equity,Mackinac Financial Corp
+ACER,ACER UR Equity,Acer Therapeutics Inc
+IAA,IAA UN Equity,IAA Inc
+NESR,NESR UR Equity,National Energy Services Reunited Corp
+KTB,KTB UN Equity,Kontoor Brands Inc
+PRTH,PRTH UR Equity,Priority Technology Holdings Inc
+CARE,CARE UW Equity,Carter Bankshares Inc
+AFIN,AFIN UW Equity,American Finance Trust Inc
+FNCB,FNCB UR Equity,FNCB Bancorp Inc
+SCU,SCU UN Equity,Sculptor Capital Management Inc
+URGN,URGN UQ Equity,UroGen Pharma Ltd
+MGY,MGY UN Equity,Magnolia Oil & Gas Corp
+OSW,OSW UR Equity,OneSpaWorld Holdings Ltd
+MNSB,MNSB UR Equity,MainStreet Bancshares Inc
+CHAPQ,CHAPQ UN Equity,Chaparral Energy Inc
+MEC,MEC UN Equity,Mayville Engineering Co Inc
+BE,BE UN Equity,Bloom Energy Corp
+FLMN,FLMN UR Equity,Falcon Minerals Corp
+PACDQ,PACDQ UN Equity,Pacific Drilling SA
+AMTB,AMTB UW Equity,Amerant Bancorp Inc
+LEE,LEE UN Equity,Lee Enterprises Inc
+DBX,DBX UW Equity,Dropbox Inc
+SDRLF,SDRLF UN Equity,Seadrill Ltd
+EFC,EFC UN Equity,Ellington Financial Inc
+RFL,RFL UA Equity,Rafael Holdings Inc
+CODA,CODA UR Equity,Coda Octopus Group Inc
+WRAP,WRAP UR Equity,Wrap Technologies Inc
+GALT,GALT UR Equity,Galectin Therapeutics Inc
+OTRK,OTRK UR Equity,Ontrak Inc
+EVER,EVER UQ Equity,EverQuote Inc
+THOR,THOR UW Equity,Synthorx Inc
+SIC,SIC UR Equity,Select Interior Concepts Inc
+NBEV,NBEV UR Equity,NewAge Inc
+ALEC,ALEC UW Equity,Alector Inc
+PKDC,PKDC UN Equity,Parker Drilling Co
+CVM,CVM UA Equity,CEL-SCI Corp
+MRNA,MRNA UW Equity,Moderna Inc
+DSSI,DSSI UN Equity,Diamond S Shipping Inc
+AIRG,AIRG UR Equity,Airgain Inc
+INSG,INSG UW Equity,Inseego Corp
+MRKR,MRKR UR Equity,Marker Therapeutics Inc
+KLDO,KLDO UW Equity,Kaleido Biosciences Inc
+BALY,BALY UN Equity,Bally's Corp
+BLFS,BLFS UR Equity,BioLife Solutions Inc
+MMAC,MMAC UR Equity,MMA Capital Holdings Inc
+BYND,BYND UW Equity,Beyond Meat Inc
+CTRCQ,CTRCQ UR Equity,Centric Brands LLC
+TMDX,TMDX UQ Equity,TransMedics Group Inc
+MDB,MDB UQ Equity,MongoDB Inc
+9995588D,9995588D UQ Equity,Misonix Opco Inc
+YCBD,YCBD UA Equity,cbdMD Inc
+PNRG,PNRG UR Equity,PrimeEnergy Resources Corp
+LXFR,LXFR UN Equity,Luxfer Holdings PLC
+DTIL,DTIL UW Equity,Precision BioSciences Inc
+ENOB,ENOB UR Equity,Enochian Biosciences Inc
+TRNS,TRNS UQ Equity,Transcat Inc
+TESS,TESS UW Equity,TESSCO Technologies Inc
+WTRE,WTRE UW Equity,Watford Holdings Ltd
+EYPT,EYPT UQ Equity,EyePoint Pharmaceuticals Inc
+NRCG,NRCG UA Equity,NRC Group Holdings Corp
+CMLS,CMLS UQ Equity,Cumulus Media Inc
+GTYH,GTYH UR Equity,GTY Technology Holdings Inc
+SOLY,SOLY UR Equity,Soliton Inc
+GOSS,GOSS UW Equity,Gossamer Bio Inc
+LYFT,LYFT UW Equity,Lyft Inc
+HARP,HARP UW Equity,Harpoon Therapeutics Inc
+ZUO,ZUO UN Equity,Zuora Inc
+BSGM,BSGM UR Equity,BioSig Technologies Inc
+YGYI,YGYI UR Equity,Youngevity International Inc
+ROAN,ROAN UN Equity,Roan Resources Inc
+CTRA,CTRA UN Equity,Contura Energy Inc
+BYSI,BYSI UR Equity,Beyondspring Inc
+ALOT,ALOT UQ Equity,AstroNova Inc
+ATEC,ATEC UW Equity,Alphatec Holdings Inc
+OPRX,OPRX UR Equity,OptimizeRx Corp
+ORGO,ORGO UR Equity,Organogenesis Holdings Inc
+ATUS,ATUS UN Equity,Altice USA Inc
+HWBK,HWBK UW Equity,Hawthorn Bancshares Inc
+SFIX,SFIX UW Equity,Stitch Fix Inc
+APPN,APPN UQ Equity,Appian Corp
+ZYXI,ZYXI UR Equity,Zynex Inc
+MEIP,MEIP UR Equity,MEI Pharma Inc
+CMCT,CMCT UQ Equity,CIM Commercial Trust Corp
+JHG,JHG UN Equity,Janus Henderson Group PLC
+EVFM,EVFM UR Equity,Evofem Biosciences Inc
+OEC,OEC UN Equity,Orion Engineered Carbons SA
+FOXA,FOXA UW Equity,Fox Corp
+FOX,FOX UW Equity,Fox Corp
+PLMR,PLMR UW Equity,Palomar Holdings Inc
+TPTX,TPTX UW Equity,Turning Point Therapeutics Inc
+GWGH,GWGH UR Equity,GWG Holdings Inc
+RRBI,RRBI UW Equity,Red River Bancshares Inc
+LEGH,LEGH UW Equity,Legacy Housing Corp
+AM,AM UN Equity,Antero Midstream Corp
+PD,PD UN Equity,PagerDuty Inc
+SWAV,SWAV UW Equity,Shockwave Medical Inc
+ARES,ARES UN Equity,Ares Management Corp
+MNRL,MNRL UN Equity,Brigham Minerals Inc
+HOOK,HOOK UW Equity,Hookipa Pharma Inc
+GNLN,GNLN UQ Equity,Greenlane Holdings Inc
+TCRR,TCRR UW Equity,TCR2 Therapeutics Inc
+1855568D,1855568D UQ Equity,Avedro Inc
+NGM,NGM UW Equity,NGM Biopharmaceuticals Inc
+SILK,SILK UQ Equity,Silk Road Medical Inc
+CERC,CERC UR Equity,Cerecor Inc
+PSN,PSN UN Equity,Parsons Corp
+CKPT,CKPT UR Equity,Checkpoint Therapeutics Inc
+KRYS,KRYS UR Equity,Krystal Biotech Inc
+TEUM,TEUM UR Equity,Pareteum Corp
+WTRH,WTRH UW Equity,Waitr Holdings Inc
+SPFI,SPFI UW Equity,South Plains Financial Inc
+CRTX,CRTX UW Equity,Cortexyme Inc
+NXTC,NXTC UW Equity,NextCure Inc
+AXLA,AXLA UQ Equity,Axcella Health Inc
+BTAI,BTAI UR Equity,Bioxcel Therapeutics Inc
+CRK,CRK UN Equity,Comstock Resources Inc
+HFFG,HFFG UR Equity,HF Foods Group Inc
+CRD/A,CRD/A UN Equity,Crawford & Co
+UBER,UBER UN Equity,Uber Technologies Inc
+VRRM,VRRM UR Equity,Verra Mobility Corp
+IDEX,IDEX UR Equity,Ideanomics Inc
+ROAD,ROAD UW Equity,Construction Partners Inc
+IMXI,IMXI UR Equity,International Money Express Inc
+EXPI,EXPI UQ Equity,eXp World Holdings Inc
+PAYS,PAYS UR Equity,Paysign Inc
+SONM,SONM UQ Equity,Sonim Technologies Inc
+PHUN,PHUN UR Equity,Phunware Inc
+FRAF,FRAF UR Equity,Franklin Financial Services Corp
+SPOT,SPOT UN Equity,Spotify Technology SA
+TH,TH UR Equity,Target Hospitality Corp
+SHSP,SHSP UR Equity,SharpSpring Inc
+SMAR,SMAR UN Equity,Smartsheet Inc
+BBCP,BBCP UR Equity,Concrete Pumping Holdings Inc
+VIR,VIR UW Equity,Vir Biotechnology Inc
+HBT,HBT UW Equity,HBT Financial Inc
+AMK,AMK UN Equity,Assetmark Financial Holdings Inc
+SI,SI UN Equity,Silvergate Capital Corp
+OYST,OYST UW Equity,Oyster Point Pharma Inc
+NVST,NVST UN Equity,Envista Holdings Corp
+IGMS,IGMS UW Equity,IGM Biosciences Inc
+PBFS,PBFS UR Equity,Pioneer Bancorp Inc/NY
+ETNB,ETNB UQ Equity,89bio Inc
+XGN,XGN UQ Equity,Exagen Inc
+PING,PING UN Equity,Ping Identity Holding Corp
+PNTG,PNTG UW Equity,Pennant Group Inc/The
+BRBR,BRBR UN Equity,BellRing Brands Inc
+PROS,PROS UN Equity,ProSight Global Inc
+CRNC,CRNC UW Equity,Cerence Inc
+OPRT,OPRT UW Equity,Oportun Financial Corp
+KRUS,KRUS UQ Equity,Kura Sushi USA Inc
+MCBS,MCBS UW Equity,Metrocity Bankshares Inc
+APRE,APRE UW Equity,Aprea Therapeutics Inc
+VIE,VIE UW Equity,Viela Bio Inc
+PHAT,PHAT UW Equity,Phathom Pharmaceuticals Inc
+SWTX,SWTX UW Equity,SpringWorks Therapeutics Inc
+ALRS,ALRS UR Equity,Alerus Financial Corp
+CNTG,CNTG UQ Equity,Centogene NV
+GO,GO UW Equity,Grocery Outlet Holding Corp
+PSNL,PSNL UQ Equity,Personalis Inc
+PRVL,PRVL UQ Equity,Prevail Therapeutics Inc
+BCEL,BCEL UW Equity,Atreca Inc
+AKRO,AKRO UW Equity,Akero Therapeutics Inc
+PHR,PHR UN Equity,Phreesia Inc
+FULC,FULC UQ Equity,Fulcrum Therapeutics Inc
+MIRM,MIRM UQ Equity,Mirum Pharmaceuticals Inc
+MDLA,MDLA UN Equity,Medallia Inc
+RAPT,RAPT UQ Equity,RAPT Therapeutics Inc
+CFB,CFB UW Equity,CrossFirst Bankshares Inc
+AVTR,AVTR UN Equity,Avantor Inc
+APLT,APLT UQ Equity,Applied Therapeutics Inc
+CSTL,CSTL UQ Equity,Castle Biosciences Inc
+LVGO,LVGO UW Equity,Livongo Health Inc
+HCAT,HCAT UW Equity,Health Catalyst Inc
+NOVA,NOVA UN Equity,Sunnova Energy International Inc
+CMBM,CMBM UQ Equity,Cambium Networks Corp
+RMBI,RMBI UR Equity,Richmond Mutual BanCorp Inc
+CHNG,CHNG UW Equity,Change Healthcare Inc
+ADPT,ADPT UW Equity,Adaptive Biotechnologies Corp
+MORF,MORF UQ Equity,Morphic Holding Inc
+BBIO,BBIO UW Equity,Bridgebio Pharma Inc
+VIACA,VIACA UW Equity,ViacomCBS Inc
+REAL,REAL UW Equity,RealReal Inc/The
+KRTX,KRTX UQ Equity,Karuna Therapeutics Inc
+DT,DT UN Equity,Dynatrace Inc
+BRP,BRP UW Equity,BRP Group Inc
+PGNY,PGNY UW Equity,Progyny Inc
+FREQ,FREQ UW Equity,Frequency Therapeutics Inc
+1777062D,1777062D US Equity,Five Star Senior Living Inc
+BXRX,BXRX UR Equity,Baudax Bio Inc
+CABA,CABA UW Equity,Cabaletta Bio Inc
+STOK,STOK UW Equity,Stoke Therapeutics Inc
+MSON,MSON UQ Equity,Misonix Inc
+STSA,STSA UQ Equity,Satsuma Pharmaceuticals Inc
+GRTX,GRTX UQ Equity,Galera Therapeutics Inc
+CFRX,CFRX UR Equity,ContraFect Corp
+PINE,PINE UN Equity,Alpine Income Property Trust Inc
+RLMD,RLMD UR Equity,Relmada Therapeutics Inc
+RDVT,RDVT UR Equity,Red Violet Inc
+NMRD,NMRD UR Equity,Nemaura Medical Inc
+SAL,SAL UR Equity,Salisbury Bancorp Inc
+GSKY,GSKY UW Equity,GreenSky Inc
+TELA,TELA UQ Equity,Tela Bio Inc
+BSBK,BSBK UR Equity,Bogota Financial Corp
+ORIC,ORIC UW Equity,ORIC Pharmaceuticals Inc
+PACK,PACK UN Equity,Ranpak Holdings Corp
+ASPU,ASPU UQ Equity,Aspen Group Inc/CO
+GNSS,GNSS UR Equity,Genasys Inc
+BDTX,BDTX UW Equity,Black Diamond Therapeutics Inc
+ALTG,ALTG UN Equity,Alta Equipment Group Inc
+SEDG,SEDG UW Equity,SolarEdge Technologies Inc
+VRT,VRT UN Equity,Vertiv Holdings Co
+IHRT,IHRT UW Equity,iHeartMedia Inc
+ELA,ELA UA Equity,Envela Corp
+BILL,BILL UN Equity,Bill.com Holdings Inc
+ZNTL,ZNTL UQ Equity,Zentalis Pharmaceuticals Inc
+PAE,PAE UR Equity,PAE Inc
+IDN,IDN UQ Equity,Intellicheck Inc
+REYN,REYN UW Equity,Reynolds Consumer Products Inc
+ONEM,ONEM UW Equity,1Life Healthcare Inc
+ARQT,ARQT UW Equity,Arcutis Biotherapeutics Inc
+ICAD,ICAD UR Equity,iCAD Inc
+XPEL,XPEL UR Equity,XPEL Inc
+LAKE,LAKE UQ Equity,Lakeland Industries Inc
+GDYN,GDYN UR Equity,Grid Dynamics Holdings Inc
+SPT,SPT UR Equity,Sprout Social Inc
+PCTI,PCTI UW Equity,PCTEL Inc
+IMVT,IMVT UW Equity,Immunovant Inc
+REFR,REFR UR Equity,Research Frontiers Inc
+SNFCA,SNFCA UQ Equity,Security National Financial Corp
+IAC,IAC UW Equity,IAC/InterActiveCorp
+MTCH,MTCH UW Equity,Match Group Inc
+ODP,ODP UW Equity,ODP Corp/The
+VERU,VERU UR Equity,Veru Inc
+SMED,SMED UR Equity,Sharps Compliance Corp
+DDOG,DDOG UW Equity,Datadog Inc
+AYTU,AYTU UR Equity,Aytu BioScience Inc
+CSBR,CSBR UR Equity,Champions Oncology Inc
+SPCE,SPCE UN Equity,Virgin Galactic Holdings Inc
+ULBI,ULBI UQ Equity,Ultralife Corp
+VERY,VERY UR Equity,Vericity Inc
+AMCR,AMCR UN Equity,Amcor PLC
+ASPN,ASPN UN Equity,Aspen Aerogels Inc
+APG,APG UN Equity,API Group Corp
+HROW,HROW UR Equity,Harrow Health Inc
+CG,CG UW Equity,Carlyle Group Inc/The
+1812344D,1812344D US Equity,Match Group Inc
+PLBC,PLBC UR Equity,Plumas Bancorp
+AWH,AWH UR Equity,Aspira Women's Health Inc
+GNPX,GNPX UR Equity,Genprex Inc
+LARK,LARK UQ Equity,Landmark Bancorp Inc/Manhattan KS
+OESX,OESX UR Equity,Orion Energy Systems Inc
+FSLY,FSLY UN Equity,Fastly Inc
+STXS,STXS UA Equity,Stereotaxis Inc
+CODX,CODX UR Equity,Co-Diagnostics Inc
+KRMD,KRMD UR Equity,Repro-Med Systems Inc
+NSCO,NSCO UN Equity,Nesco Holdings Inc
+KROS,KROS UQ Equity,Keros Therapeutics Inc
+GRWG,GRWG UR Equity,GrowGeneration Corp
+XAIR,XAIR UR Equity,Beyond Air Inc
+RPAY,RPAY UR Equity,Repay Holdings Corp
+AHCO,AHCO UR Equity,AdaptHealth Corp
+ALSK,ALSK UW Equity,Alaska Communications Systems Group Inc
+CMCL,CMCL UA Equity,Caledonia Mining Corp PLC
+ATLC,ATLC UW Equity,Atlanticus Holdings Corp
+CRWD,CRWD UW Equity,Crowdstrike Holdings Inc
+ARCT,ARCT UQ Equity,Arcturus Therapeutics Holdings Inc
+NLTX,NLTX UQ Equity,Neoleukin Therapeutics Inc
+RESN,RESN UR Equity,Resonant Inc
+CIZN,CIZN UQ Equity,Citizens Holding Co
+PRVB,PRVB UW Equity,Provention Bio Inc
+EBMT,EBMT UQ Equity,Eagle Bancorp Montana Inc
+RVP,RVP UA Equity,Retractable Technologies Inc
+GSB,GSB UA Equity,GlobalSCAPE Inc
+NBSE,NBSE UR Equity,NeuBase Therapeutics Inc
+STND,STND UR Equity,Standard AVB Financial Corp
+LUNA,LUNA UR Equity,Luna Innovations Inc
+SLNO,SLNO UR Equity,Soleno Therapeutics Inc
+BRMK,BRMK UN Equity,Broadmark Realty Capital Inc
+MYFW,MYFW UW Equity,First Western Financial Inc
+BEAM,BEAM UW Equity,Beam Therapeutics Inc
+CSPR,CSPR UN Equity,Casper Sleep Inc
+SDGR,SDGR UW Equity,Schrodinger Inc/United States
+PPD,PPD UW Equity,PPD Inc
+LYRA,LYRA UQ Equity,Lyra Therapeutics Inc
+DYAI,DYAI UR Equity,Dyadic International Inc
+SWKH,SWKH UR Equity,SWK Holdings Corp
+KKR,KKR UN Equity,KKR & Co Inc
+XCUR,XCUR UR Equity,Exicure Inc
+MSGE,MSGE UN Equity,Madison Square Garden Entertainment Corp
+IDYA,IDYA UW Equity,Ideaya Biosciences Inc
+ETON,ETON UQ Equity,Eton Pharmaceuticals Inc
+VNRX,VNRX UA Equity,VolitionRX Ltd
+TW,TW UW Equity,Tradeweb Markets Inc
+PINS,PINS UN Equity,Pinterest Inc
+OVV,OVV UN Equity,Ovintiv Inc
+ZM,ZM UW Equity,Zoom Video Communications Inc
+AMRK,AMRK UW Equity,A-Mark Precious Metals Inc
+COFS,COFS UR Equity,ChoiceOne Financial Services Inc
+PFHD,PFHD UW Equity,Professional Holding Corp
+ONEW,ONEW UQ Equity,OneWater Marine Inc
+PTON,PTON UW Equity,Peloton Interactive Inc
+INFU,INFU UA Equity,InfuSystem Holdings Inc
+IMRA,IMRA UW Equity,IMARA Inc
+BCLI,BCLI UR Equity,BrainStorm Cell Therapeutics Inc
+VXRT,VXRT UR Equity,Vaxart Inc
+DMTK,DMTK UR Equity,DermTech Inc
+VVNT,VVNT UN Equity,Vivint Smart Home Inc
+SBFG,SBFG UR Equity,SB Financial Group Inc
+GAN,GAN UR Equity,GAN Ltd
+PRTS,PRTS UW Equity,CarParts.com Inc
+KERN,KERN UR Equity,Akerna Corp
+PWFL,PWFL UQ Equity,Powerfleet Inc
+MLSS,MLSS UA Equity,Milestone Scientific Inc
+CALB,CALB UW Equity,California BanCorp
+IBIO,IBIO UA Equity,iBio Inc
+MHH,MHH UA Equity,Mastech Digital Inc
+PANL,PANL UR Equity,Pangaea Logistics Solutions Ltd
+MIME,MIME UW Equity,Mimecast Ltd
+ELMD,ELMD UA Equity,Electromed Inc
+SAVA,SAVA UR Equity,Cassava Sciences Inc
+PTRS,PTRS UR Equity,Partners Bancorp
+MRBK,MRBK UW Equity,Meridian Corp
+LMST,LMST UR Equity,Limestone Bancorp Inc
+PLYM,PLYM UN Equity,Plymouth Industrial REIT Inc
+PRMW,PRMW UN Equity,Primo Water Corp
+PAVM,PAVM UR Equity,PAVmed Inc
+ATXI,ATXI UR Equity,Avenue Therapeutics Inc
+APO,APO UN Equity,Apollo Global Management Inc
+TXG,TXG UW Equity,10X Genomics Inc
+APT,APT UA Equity,Alpha Pro Tech Ltd
+ATOM,ATOM UR Equity,Atomera Inc
+SITM,SITM UQ Equity,SiTime Corp
+ACEL,ACEL UN Equity,Accel Entertainment Inc
+NRBO,NRBO UR Equity,NeuroBo Pharmaceuticals Inc
+BIPC,BIPC UN Equity,Brookfield Infrastructure Corp
+VMD,VMD UR Equity,Viemed Healthcare Inc
+CARR,CARR UN Equity,Carrier Global Corp
+OTIS,OTIS UN Equity,Otis Worldwide Corp
+ARNC,ARNC UN Equity,Arconic Corp
+SMSI,SMSI UR Equity,Smith Micro Software Inc
+NET,NET UN Equity,Cloudflare Inc
+RVMD,RVMD UW Equity,REVOLUTION Medicines Inc
+WORK,WORK UN Equity,Slack Technologies Inc
+STNE,STNE UW Equity,StoneCo Ltd
+PASG,PASG UW Equity,Passage Bio Inc
+CEMI,CEMI UR Equity,Chembio Diagnostics Inc
+ORGS,ORGS UR Equity,Orgenesis Inc
+BLPH,BLPH UR Equity,Bellerophon Therapeutics Inc
+DNB,DNB UN Equity,Dun & Bradstreet Holdings Inc
+PSTX,PSTX UW Equity,Poseida Therapeutics Inc
+NKTX,NKTX UW Equity,Nkarta Inc
+MEG,MEG UN Equity,Montrose Environmental Group Inc
+OM,OM UW Equity,Outset Medical Inc
+ITOS,ITOS UQ Equity,iTeos Therapeutics Inc
+INZY,INZY UW Equity,Inozyme Pharma Inc
+NRIX,NRIX UQ Equity,Nurix Therapeutics Inc
+ANNX,ANNX UW Equity,Annexon Inc
+STTK,STTK UW Equity,Shattuck Labs Inc
+KRON,KRON UW Equity,Kronos Bio Inc
+SPRB,SPRB UW Equity,Spruce Biosciences Inc
+STEP,STEP UW Equity,StepStone Group Inc
+FROG,FROG UW Equity,JFrog Ltd
+MTCR,MTCR UQ Equity,Metacrine Inc
+GATO,GATO UN Equity,Gatos Silver Inc
+MAX,MAX UN Equity,MediaAlpha Inc
+AKUS,AKUS UW Equity,Akouos Inc
+BDSX,BDSX UQ Equity,Biodesix Inc
+ACI,ACI UN Equity,Albertsons Cos Inc
+AZEK,AZEK UN Equity,AZEK Co Inc/The
+BNL,BNL UN Equity,Broadstone Net Lease Inc
+PTVE,PTVE UW Equity,Pactiv Evergreen Inc
+SUMO,SUMO UW Equity,Sumo Logic Inc
+DYN,DYN UW Equity,Dyne Therapeutics Inc
+GBIO,GBIO UW Equity,Generation Bio Co
+RNA,RNA UQ Equity,Avidity Biosciences Inc
+PCVX,PCVX UW Equity,Vaxcyte Inc
+VTRS,VTRS UW Equity,Viatris Inc
+AMWL,AMWL UN Equity,American Well Corp
+LESL,LESL UW Equity,Leslie's Inc
+ALGM,ALGM UW Equity,Allegro MicroSystems Inc
+U,U UN Equity,Unity Software Inc
+NCNO,NCNO UW Equity,nCino Inc
+BEPC,BEPC UN Equity,Brookfield Renewable Corp
+WLL,WLL UN Equity,Whiting Petroleum Corp
+SQZ,SQZ UN Equity,SQZ Biotechnologies Co
+AVIR,AVIR UW Equity,Atea Pharmaceuticals Inc
+NTST,NTST UN Equity,NETSTREIT Corp
+1836892D,1836892D US Equity,Fortitude Gold Corp
+CDAK,CDAK UQ Equity,Codiak Biosciences Inc
+DCT,DCT UW Equity,Duck Creek Technologies Inc
+ALVR,ALVR UW Equity,Allovir Inc
+ANAT,ANAT UW Equity,American National Group Inc
+VITL,VITL UQ Equity,Vital Farms Inc
+GOCO,GOCO UW Equity,GoHealth Inc
+RKT,RKT UN Equity,Rocket Cos Inc
+LNSR,LNSR UR Equity,LENSAR Inc
+ATHA,ATHA UW Equity,Athira Pharma Inc
+EBC,EBC UW Equity,Eastern Bankshares Inc
+LUNG,LUNG UW Equity,Pulmonx Corp
+AVO,AVO UW Equity,Mission Produce Inc
+FTHM,FTHM UR Equity,Fathom Holdings Inc
+LMND,LMND UN Equity,Lemonade Inc
+PRG,PRG UN Equity,PROG Holdings Inc
+ARRY,ARRY UQ Equity,Array Technologies Inc
+RPRX,RPRX UW Equity,Royalty Pharma PLC
+ACCD,ACCD UW Equity,Accolade Inc
+PRAX,PRAX UW Equity,Praxis Precision Medicines Inc
+ALGS,ALGS UW Equity,Aligos Therapeutics Inc
+EAR,EAR UW Equity,Eargo Inc
+TARS,TARS UW Equity,Tarsus Pharmaceuticals Inc
+TIG,TIG UW Equity,Trean Insurance Group Inc
+RLAY,RLAY UQ Equity,Relay Therapeutics Inc
+PLRX,PLRX UW Equity,Pliant Therapeutics Inc
+INBX,INBX UQ Equity,Inhibrx Inc
+HRMY,HRMY UQ Equity,Harmony Biosciences Holdings Inc
+ASO,ASO UW Equity,Academy Sports & Outdoors Inc
+CCCC,CCCC UW Equity,C4 Therapeutics Inc
+PAND,PAND UW Equity,Pandion Therapeutics Inc
+ALXO,ALXO UW Equity,ALX Oncology Holdings Inc
+BLI,BLI UW Equity,Berkeley Lights Inc
+CRSR,CRSR UW Equity,Corsair Gaming Inc
+ONCR,ONCR UQ Equity,Oncorus Inc
+IMNM,IMNM UR Equity,Immunome Inc
+RXT,RXT UW Equity,Rackspace Technology Inc
+BIGC,BIGC UQ Equity,BigCommerce Holdings Inc
+SLQT,SLQT UN Equity,Selectquote Inc
+KYMR,KYMR UQ Equity,Kymera Therapeutics Inc
+AFIB,AFIB UW Equity,Acutus Medical Inc
+OSH,OSH UN Equity,Oak Street Health Inc
+TSHA,TSHA UW Equity,Taysha Gene Therapies Inc
+LSF,LSF UA Equity,Laird Superfood Inc
+AOUT,AOUT UW Equity,American Outdoor Brands Inc
+AIRC,AIRC UN Equity,Apartment Income REIT Corp
+MSP,MSP UN Equity,Datto Holding Corp
+AMTI,AMTI UW Equity,Applied Molecular Transport Inc
+FMTX,FMTX UQ Equity,Forma Therapeutics Holdings Inc
+PROG,PROG UQ Equity,Progenity Inc
+PMVP,PMVP UW Equity,PMV Pharmaceuticals Inc
+PRLD,PRLD UW Equity,Prelude Therapeutics Inc
+GRAY,GRAY UQ Equity,Graybug Vision Inc
+MCFE,MCFE UW Equity,McAfee Corp
+CNXC,CNXC UW Equity,Concentrix Corp
+AAN,AAN UN Equity,Aaron's Co Inc/The
+VNT,VNT UN Equity,Vontier Corp
+MAXN,MAXN UW Equity,Maxeon Solar Technologies Ltd
+IBEX,IBEX UQ Equity,IBEX Holdings Ltd
+CMPI,CMPI UQ Equity,Checkmate Pharmaceuticals Inc
+FHTX,FHTX UQ Equity,Foghorn Therapeutics Inc
+JAMF,JAMF UW Equity,Jamf Holding Corp
+AZYO,AZYO UQ Equity,Aziyo Biologics Inc
+NARI,NARI UW Equity,Inari Medical Inc
+VRM,VRM UW Equity,Vroom Inc
